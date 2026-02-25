@@ -1,0 +1,12 @@
+[package]
+name = "rust-cfbd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dotenvy = "0.15.7"
+reqwest = "0.13.2"
+serde = "1.0.228"
+serde_json = "1.0.149"
+thiserror = "2.0.18"
+tokio = "1.49.0"
