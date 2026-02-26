@@ -1,10 +1,9 @@
-use std::fmt::format;
-
 use crate::config::Config;
 use crate::error::CFBDError;
 use reqwest::Client;
 use serde::Serialize;
 use serde::de::DeserializeOwned;
+use tokio::time::{Duration, sleep};
 
 pub struct CfbdClient {
     http: Client,
@@ -19,11 +18,14 @@ impl CfbdClient {
         }
     }
 
-    pub(crate) async fn get<T: DeserializeOwned, P: Serialize>(
+    pub async fn get<T: DeserializeOwned, P: Serialize>(
         &self,
         path: &str,
         params: &P,
     ) -> Result<T, CFBDError> {
+        if let Some(ms) = self.config.rate_limit_ms {
+            sleep(Duration::from_millis(ms)).await;
+        }
         let url = format!("{}/{}", self.config.host, path);
 
         let resp = self
@@ -45,13 +47,21 @@ impl CfbdClient {
         Ok(data)
     }
 
-    pub async fn get_raw_json(&self, path: &str) -> Result<String, CFBDError> {
+    pub async fn get_raw_json<P: Serialize>(
+        &self,
+        path: &str,
+        params: &P,
+    ) -> Result<String, CFBDError> {
+        if let Some(ms) = self.config.rate_limit_ms {
+            sleep(Duration::from_millis(ms)).await;
+        }
         let url = format!("{}/{}", self.config.host, path);
 
         let resp = self
             .http
             .get(&url)
             .bearer_auth(&self.config.api_key)
+            .query(params)
             .send()
             .await?;
         Ok(resp.text().await?)
