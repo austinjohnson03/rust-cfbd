@@ -1,4 +1,5 @@
 use serde::Deserialize;
+use std::fmt;
 
 #[derive(Debug, Deserialize)]
 #[serde(rename_all = "camelCase")]
@@ -13,5 +14,15 @@ impl UserInfo {
             patron_level,
             remaining_calls,
         }
+    }
+}
+
+impl fmt::Display for UserInfo {
+    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
+        writeln!(
+            f,
+            "UserInfo: Patron Level: {} Remaining Calls: {}",
+            self.patron_level, self.remaining_calls
+        )
     }
 }

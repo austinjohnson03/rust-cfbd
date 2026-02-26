@@ -1,6 +1,7 @@
 use dotenvy::dotenv;
 use rust_cfbd::client::CfbdClient;
 use rust_cfbd::config::Config;
+use rust_cfbd::models::shared::info::UserInfo;
 use std::env;
 
 #[tokio::main]
@@ -11,6 +12,6 @@ async fn main() {
 
     let client = CfbdClient::new(Config::new(api_key));
 
-    let resp = client.get_raw_json("info").await.unwrap();
+    let resp: UserInfo = client.get("info", &()).await.unwrap();
     println!("{}", resp);
 }
