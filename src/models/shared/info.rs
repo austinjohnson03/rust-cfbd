@@ -4,8 +4,8 @@ use std::fmt;
 #[derive(Debug, Deserialize, Serialize)]
 #[serde(rename_all = "camelCase")]
 pub struct UserInfo {
-    patron_level: f32,
-    remaining_calls: f32,
+    pub patron_level: f32,
+    pub remaining_calls: f32,
 }
 
 impl UserInfo {
