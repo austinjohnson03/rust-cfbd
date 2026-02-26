@@ -5,6 +5,7 @@ use serde::Serialize;
 use serde::de::DeserializeOwned;
 use tokio::time::{Duration, sleep};
 
+#[derive(Clone)]
 pub struct CfbdClient {
     http: Client,
     config: Config,
