@@ -1,3 +1,3 @@
-pub mod division_classification;
-pub mod info;
-pub mod season_type;
+pub mod cbb;
+pub mod cfb;
+pub mod shared;
