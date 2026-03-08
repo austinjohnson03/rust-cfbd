@@ -35,6 +35,8 @@ impl State {
 
         if abbreviation.is_empty() {
             return Err(String::from("State abbreviation cannot be empty."));
+        } else if abbreviation.len() != 2 {
+            return Err(String::from("State abbreviations must be 2 characters."));
         }
         Ok(State { name, abbreviation })
     }
@@ -75,6 +77,33 @@ impl Location {
         longitude: Option<f32>,
         zip_code: Option<String>,
         fips_code: Option<String>,
-    ) -> Self {
+    ) -> Result<Self, String> {
+        if city.is_empty() {
+            return Err(String::from("City cannot be empty."));
+        }
+
+        if let Some(lat) = latitude {
+            if lat < -90.0 || lat > 90.0 {
+                return Err(String::from("Latitude must be between -90 and 90."));
+            }
+        }
+
+        if let Some(long) = longitude {
+            if long < -90.0 || long > 90.0 {
+                return Err(String::from("Longitude must be between -180 and 180."));
+            }
+        }
+
+        Ok(Location {
+            id,
+            city,
+            state,
+            country,
+            timezone,
+            latitude,
+            longitude,
+            zip_code,
+            fips_code,
+        })
     }
 }
