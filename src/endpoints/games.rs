@@ -10,6 +10,6 @@ impl GameQuery for GetGameParams<ByYear> {}
 
 impl CfbdClient {
     pub async fn get_games<P: GameQuery>(&self, params: &P) -> Result<Vec<Game>, CFBDError> {
-        self.get("games", params).await
+        self.get("games", Some(params)).await
     }
 }
