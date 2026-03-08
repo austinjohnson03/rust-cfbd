@@ -22,20 +22,30 @@ impl CfbdClient {
     pub async fn get<T: DeserializeOwned, P: Serialize>(
         &self,
         path: &str,
-        params: &P,
+        params: Option<&P>,
     ) -> Result<T, CFBDError> {
         if let Some(ms) = self.config.rate_limit_ms {
             sleep(Duration::from_millis(ms)).await;
         }
         let url = format!("{}/{}", self.config.host, path);
 
-        let resp = self
-            .http
-            .get(&url)
-            .bearer_auth(&self.config.api_key)
-            .query(params)
-            .send()
-            .await?;
+        let resp = match params {
+            Some(p) => {
+                self.http
+                    .get(&url)
+                    .bearer_auth(&self.config.api_key)
+                    .query(&p)
+                    .send()
+                    .await?
+            }
+            None => {
+                self.http
+                    .get(&url)
+                    .bearer_auth(&self.config.api_key)
+                    .send()
+                    .await?
+            }
+        };
 
         if !resp.status().is_success() {
             return Err(CFBDError::Api {
