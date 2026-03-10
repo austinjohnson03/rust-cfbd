@@ -1,5 +1,7 @@
 pub mod conference;
 pub mod division_classification;
+pub mod drive;
+pub mod drive_query;
 pub mod game;
 pub mod game_media;
 pub mod game_media_params;
