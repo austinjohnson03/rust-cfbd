@@ -1,11 +1,5 @@
+use crate::models::cfb::play_clock::PlayClock;
 use serde::{Deserialize, Serialize};
-
-#[derive(Debug, Deserialize, Serialize)]
-#[serde(rename_all = "camelCase")]
-pub struct DriveClock {
-    seconds: Option<i32>,
-    minutes: Option<i32>,
-}
 
 #[derive(Debug, Deserialize, Serialize)]
 #[serde(rename_all = "camelCase")]
@@ -21,12 +15,12 @@ pub struct Drive {
     start_period: i32,
     start_yardline: i32,
     start_yards_to_goal: i32,
-    start_time: DriveClock,
+    start_time: PlayClock,
     end_period: i32,
     end_yardline: i32,
     end_yards_to_goal: i32,
-    end_time: DriveClock,
-    elapsed: DriveClock,
+    end_time: PlayClock,
+    elapsed: PlayClock,
     plays: i32,
     yards: i32,
     drive_result: String,
