@@ -9,6 +9,7 @@ pub mod get_game_params;
 pub mod media_type;
 pub mod play;
 pub mod play_clock;
+pub mod play_query;
 pub mod poll_week;
 pub mod season_type;
 pub mod team;
