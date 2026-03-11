@@ -11,6 +11,8 @@ pub mod play;
 pub mod play_clock;
 pub mod play_query;
 pub mod poll_week;
+pub mod roster_player;
+pub mod roster_query;
 pub mod season_type;
 pub mod team;
 pub mod team_params;
