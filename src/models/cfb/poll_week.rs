@@ -27,3 +27,4 @@ pub struct PollWeek {
     pub week: i32,
     pub polls: Vec<Poll>,
 }
+
