@@ -1,3 +1,4 @@
+pub mod coaches;
 pub mod conference;
 pub mod drives;
 pub mod games;

@@ -1,3 +1,5 @@
+pub mod coach;
+pub mod coach_query;
 pub mod conference;
 pub mod division_classification;
 pub mod drive;
