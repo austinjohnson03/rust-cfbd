@@ -4,5 +4,6 @@ pub mod drives;
 pub mod games;
 pub mod info;
 pub mod plays;
+pub mod rankings;
 pub mod teams;
 pub mod venues;
