@@ -16,3 +16,4 @@ pub mod roster_query;
 pub mod season_type;
 pub mod team;
 pub mod team_params;
+pub mod venue;
