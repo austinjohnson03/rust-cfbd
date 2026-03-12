@@ -5,5 +5,6 @@ pub mod games;
 pub mod info;
 pub mod plays;
 pub mod rankings;
+pub mod recruiting;
 pub mod teams;
 pub mod venues;
