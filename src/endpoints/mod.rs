@@ -6,5 +6,6 @@ pub mod info;
 pub mod plays;
 pub mod rankings;
 pub mod recruiting;
+pub mod stats;
 pub mod teams;
 pub mod venues;
