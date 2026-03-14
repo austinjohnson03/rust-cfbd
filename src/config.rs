@@ -6,9 +6,9 @@ pub struct Config {
 }
 
 impl Config {
-    pub fn new(api_key: String) -> Self {
+    pub fn new(api_key: impl Into<String>) -> Self {
         Self {
-            api_key,
+            api_key: api_key.into(),
             host: "https://apinext.collegefootballdata.com".to_string(),
             rate_limit_ms: Some(2000),
         }
