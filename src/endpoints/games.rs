@@ -2,7 +2,7 @@ use crate::client::CfbdClient;
 use crate::error::CFBDError;
 use crate::models::cfb::entity::game::Game;
 use crate::models::cfb::entity::game_media::GameMedia;
-use crate::models::cfb::query::game_media_params::GameMediaQuery;
+use crate::models::cfb::query::game_media_query::GameMediaQuery;
 use crate::models::cfb::query::get_game_params::{ById, ByYear, GetGameParams};
 use serde::Serialize;
 

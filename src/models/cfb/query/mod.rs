@@ -1,6 +1,6 @@
 pub mod coach_query;
 pub mod drive_query;
-pub mod game_media_params;
+pub mod game_media_query;
 pub mod get_game_params;
 pub mod play_query;
 pub mod ranking_query;
