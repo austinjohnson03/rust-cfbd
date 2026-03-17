@@ -1,4 +1,4 @@
-use crate::models::cfb::season_type::SeasonType;
+use crate::models::cfb::entity::season_type::SeasonType;
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Deserialize, Serialize)]
@@ -27,4 +27,3 @@ pub struct PollWeek {
     pub week: i32,
     pub polls: Vec<Poll>,
 }
-

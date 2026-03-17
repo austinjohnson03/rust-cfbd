@@ -1,7 +1,7 @@
 use crate::client::CfbdClient;
 use crate::error::CFBDError;
-use crate::models::cfb::coach::Coach;
-use crate::models::cfb::coach_query::CoachQuery;
+use crate::models::cfb::entity::coach::Coach;
+use crate::models::cfb::query::coach_query::CoachQuery;
 
 impl CfbdClient {
     pub async fn get_coaches(&self, params: &CoachQuery) -> Result<Vec<Coach>, CFBDError> {

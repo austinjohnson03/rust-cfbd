@@ -1,8 +1,7 @@
 use serde::Serialize;
 
-use crate::models::cfb::{
-    division_classification::DivisionClassification, season_type::SeasonType,
-};
+use crate::models::cfb::entity::division_classification::DivisionClassification;
+use crate::models::cfb::entity::season_type::SeasonType;
 
 #[derive(Debug, Serialize)]
 #[serde(rename_all = "camelCase")]

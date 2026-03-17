@@ -1,9 +1,8 @@
 use serde::Serialize;
 use std::marker::PhantomData;
 
-use crate::models::cfb::{
-    division_classification::DivisionClassification, season_type::SeasonType,
-};
+use crate::models::cfb::entity::division_classification::DivisionClassification;
+use crate::models::cfb::entity::season_type::SeasonType;
 
 pub struct NoQuery;
 pub struct ById;

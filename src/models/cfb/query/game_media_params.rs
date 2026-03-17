@@ -1,6 +1,6 @@
-use crate::models::cfb::division_classification::DivisionClassification;
-use crate::models::cfb::media_type::MediaType;
-use crate::models::cfb::season_type::SeasonType;
+use crate::models::cfb::entity::division_classification::DivisionClassification;
+use crate::models::cfb::entity::media_type::MediaType;
+use crate::models::cfb::entity::season_type::SeasonType;
 use serde::{Deserialize, Serialize};
 use std::marker::PhantomData;
 

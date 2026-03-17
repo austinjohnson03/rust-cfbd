@@ -1,9 +1,9 @@
 use crate::client::CfbdClient;
 use crate::error::CFBDError;
-use crate::models::cfb::game::Game;
-use crate::models::cfb::game_media::GameMedia;
-use crate::models::cfb::game_media_params::GameMediaQuery;
-use crate::models::cfb::get_game_params::{ById, ByYear, GetGameParams};
+use crate::models::cfb::entity::game::Game;
+use crate::models::cfb::entity::game_media::GameMedia;
+use crate::models::cfb::query::game_media_params::GameMediaQuery;
+use crate::models::cfb::query::get_game_params::{ById, ByYear, GetGameParams};
 use serde::Serialize;
 
 pub trait GameQuery: Serialize {}

@@ -1,5 +1,5 @@
-use crate::models::cfb::division_classification::DivisionClassification;
-use crate::models::cfb::season_type::SeasonType;
+use crate::models::cfb::entity::division_classification::DivisionClassification;
+use crate::models::cfb::entity::season_type::SeasonType;
 use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
 
