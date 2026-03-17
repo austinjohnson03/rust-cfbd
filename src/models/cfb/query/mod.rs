@@ -1,7 +1,7 @@
 pub mod coach_query;
 pub mod drive_query;
 pub mod game_media_query;
-pub mod get_game_params;
+pub mod game_query;
 pub mod play_query;
 pub mod ranking_query;
 pub mod recruit_player_query;
@@ -9,4 +9,4 @@ pub mod recruit_team_query;
 pub mod roster_query;
 pub mod stat_season_query;
 pub mod stats_player_season_query;
-pub mod team_params;
+pub mod team_query;

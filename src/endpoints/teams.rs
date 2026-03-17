@@ -3,7 +3,7 @@ use crate::error::CFBDError;
 use crate::models::cfb::entity::roster_player::RosterPlayer;
 use crate::models::cfb::entity::team::Team;
 use crate::models::cfb::query::roster_query::RosterQuery;
-use crate::models::cfb::query::team_params::TeamQuery;
+use crate::models::cfb::query::team_query::TeamQuery;
 
 impl CfbdClient {
     pub async fn get_teams(&self, params: &TeamQuery) -> Result<Vec<Team>, CFBDError> {

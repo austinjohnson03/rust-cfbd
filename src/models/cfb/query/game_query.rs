@@ -9,7 +9,7 @@ pub struct ById;
 pub struct ByYear;
 
 #[derive(Debug, Serialize)]
-pub struct GetGameParams<Q> {
+pub struct GetGameQuery<Q> {
     #[serde(skip)]
     _query: PhantomData<Q>,
 
@@ -41,7 +41,7 @@ pub struct GetGameParams<Q> {
     conference: Option<String>,
 }
 
-impl GetGameParams<NoQuery> {
+impl GetGameQuery<NoQuery> {
     pub fn new() -> Self {
         Self {
             _query: PhantomData,
@@ -57,8 +57,8 @@ impl GetGameParams<NoQuery> {
         }
     }
 
-    pub fn id(self, id: u32) -> GetGameParams<ById> {
-        GetGameParams {
+    pub fn id(self, id: u32) -> GetGameQuery<ById> {
+        GetGameQuery {
             _query: PhantomData,
             id: Some(id),
             year: None,
@@ -72,8 +72,8 @@ impl GetGameParams<NoQuery> {
         }
     }
 
-    pub fn year(self, year: u32) -> GetGameParams<ByYear> {
-        GetGameParams {
+    pub fn year(self, year: u32) -> GetGameQuery<ByYear> {
+        GetGameQuery {
             _query: PhantomData,
             id: None,
             year: Some(year),
@@ -88,7 +88,7 @@ impl GetGameParams<NoQuery> {
     }
 }
 
-impl<Q> GetGameParams<Q> {
+impl<Q> GetGameQuery<Q> {
     pub fn week(mut self, week: u32) -> Self {
         self.week = Some(week);
         self
