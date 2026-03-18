@@ -1,7 +1,7 @@
 use dotenvy::dotenv;
 use rust_cfbd::client::CfbdClient;
 use rust_cfbd::config::Config;
-use rust_cfbd::models::cfb::play_query::PlayQueryBuilder;
+use rust_cfbd::models::cfb::query::play_query::PlayQueryBuilder;
 use std::env;
 
 #[tokio::main]

@@ -1,13 +1,16 @@
 use dotenvy::dotenv;
 use rust_cfbd::client::CfbdClient;
 use rust_cfbd::config::Config;
-use rust_cfbd::models::cfb::team_params::TeamQuery;
+use rust_cfbd::models::cfb::query::team_query::TeamQueryBuilder;
 use std::env;
 
 #[tokio::main]
 async fn main() {
     dotenv().ok();
-    let params = TeamQuery::new().conference(String::from("SEC")).year(2024);
+    let params = TeamQueryBuilder::new()
+        .conference(String::from("SEC"))
+        .year(2024)
+        .build();
 
     let api_key = env::var("CFBD_API_KEY").expect("CFBD_API_KEY not set");
 
