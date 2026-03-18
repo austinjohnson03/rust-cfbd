@@ -3,15 +3,10 @@ use crate::error::CFBDError;
 use crate::models::cfb::entity::game::Game;
 use crate::models::cfb::entity::game_media::GameMedia;
 use crate::models::cfb::query::game_media_query::GameMediaQuery;
-use crate::models::cfb::query::game_query::{ById, ByYear, GameQueryBuilder};
-use serde::Serialize;
-
-pub trait GameQuery: Serialize {}
-impl GameQuery for GameQueryBuilder<ById> {}
-impl GameQuery for GameQueryBuilder<ByYear> {}
+use crate::models::cfb::query::game_query::GameQuery;
 
 impl CfbdClient {
-    pub async fn get_games<P: GameQuery>(&self, params: &P) -> Result<Vec<Game>, CFBDError> {
+    pub async fn get_games(&self, params: &GameQuery) -> Result<Vec<Game>, CFBDError> {
         self.get("games", Some(params)).await
     }
 
