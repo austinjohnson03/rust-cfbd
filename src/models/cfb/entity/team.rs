@@ -1,4 +1,4 @@
-use crate::models::cfb::division_classification::DivisionClassification;
+use crate::models::cfb::entity::division_classification::DivisionClassification;
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Deserialize, Serialize)]

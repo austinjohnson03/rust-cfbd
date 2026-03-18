@@ -1,7 +1,7 @@
 use serde::Serialize;
 use std::marker::PhantomData;
 
-use crate::models::cfb::division_classification::DivisionClassification;
+use crate::models::cfb::entity::division_classification::DivisionClassification;
 
 pub struct InvalidQuery;
 pub struct ValidQuery;

@@ -1,6 +1,6 @@
 use serde::Serialize;
 
-use crate::models::cfb::division_classification::DivisionClassification;
+use crate::models::cfb::entity::division_classification::DivisionClassification;
 
 #[derive(Debug, Serialize)]
 #[serde(rename_all = "camelCase")]

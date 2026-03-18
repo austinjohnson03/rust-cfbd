@@ -1,4 +1,4 @@
-use crate::models::cfb::play_clock::PlayClock;
+use crate::models::cfb::entity::play_clock::PlayClock;
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Deserialize, Serialize)]

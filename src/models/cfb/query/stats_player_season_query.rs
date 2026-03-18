@@ -1,7 +1,7 @@
 use serde::Serialize;
 use std::marker::PhantomData;
 
-use crate::models::cfb::season_type::SeasonType;
+use crate::models::cfb::entity::season_type::SeasonType;
 
 pub struct InvalidQuery;
 pub struct ValidQuery;

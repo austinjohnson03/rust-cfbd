@@ -1,48 +1,50 @@
 use serde::Serialize;
 use std::marker::PhantomData;
 
-use crate::models::cfb::{
-    division_classification::DivisionClassification, season_type::SeasonType,
-};
+use crate::models::cfb::entity::division_classification::DivisionClassification;
+use crate::models::cfb::entity::season_type::SeasonType;
 
 pub struct NoQuery;
 pub struct ById;
 pub struct ByYear;
 
 #[derive(Debug, Serialize)]
-pub struct GetGameParams<Q> {
-    #[serde(skip)]
-    _query: PhantomData<Q>,
-
+pub struct GameQuery {
     #[serde(skip_serializing_if = "Option::is_none")]
     id: Option<u32>,
-
     #[serde(skip_serializing_if = "Option::is_none")]
     year: Option<u32>,
-
     #[serde(skip_serializing_if = "Option::is_none")]
     week: Option<u32>,
-
     #[serde(skip_serializing_if = "Option::is_none")]
     season_type: Option<SeasonType>,
-
     #[serde(skip_serializing_if = "Option::is_none")]
     classification: Option<DivisionClassification>,
-
     #[serde(skip_serializing_if = "Option::is_none")]
     team: Option<String>,
-
     #[serde(skip_serializing_if = "Option::is_none")]
     home: Option<String>,
-
     #[serde(skip_serializing_if = "Option::is_none")]
     away: Option<String>,
-
     #[serde(skip_serializing_if = "Option::is_none")]
     conference: Option<String>,
 }
 
-impl GetGameParams<NoQuery> {
+pub struct GameQueryBuilder<Q> {
+    _query: PhantomData<Q>,
+
+    id: Option<u32>,
+    year: Option<u32>,
+    week: Option<u32>,
+    season_type: Option<SeasonType>,
+    classification: Option<DivisionClassification>,
+    team: Option<String>,
+    home: Option<String>,
+    away: Option<String>,
+    conference: Option<String>,
+}
+
+impl GameQueryBuilder<NoQuery> {
     pub fn new() -> Self {
         Self {
             _query: PhantomData,
@@ -58,8 +60,8 @@ impl GetGameParams<NoQuery> {
         }
     }
 
-    pub fn id(self, id: u32) -> GetGameParams<ById> {
-        GetGameParams {
+    pub fn id(self, id: u32) -> GameQueryBuilder<ById> {
+        GameQueryBuilder {
             _query: PhantomData,
             id: Some(id),
             year: None,
@@ -73,8 +75,8 @@ impl GetGameParams<NoQuery> {
         }
     }
 
-    pub fn year(self, year: u32) -> GetGameParams<ByYear> {
-        GetGameParams {
+    pub fn year(self, year: u32) -> GameQueryBuilder<ByYear> {
+        GameQueryBuilder {
             _query: PhantomData,
             id: None,
             year: Some(year),
@@ -89,7 +91,7 @@ impl GetGameParams<NoQuery> {
     }
 }
 
-impl<Q> GetGameParams<Q> {
+impl<Q> GameQueryBuilder<Q> {
     pub fn week(mut self, week: u32) -> Self {
         self.week = Some(week);
         self
@@ -117,5 +119,37 @@ impl<Q> GetGameParams<Q> {
     pub fn conference(mut self, conference: String) -> Self {
         self.conference = Some(conference);
         self
+    }
+}
+
+impl GameQueryBuilder<ById> {
+    pub fn build(self) -> GameQuery {
+        GameQuery {
+            id: self.id,
+            year: None,
+            week: None,
+            season_type: None,
+            classification: None,
+            team: None,
+            home: None,
+            away: None,
+            conference: None,
+        }
+    }
+}
+
+impl GameQueryBuilder<ByYear> {
+    pub fn build(self) -> GameQuery {
+        GameQuery {
+            id: None,
+            year: self.year,
+            week: self.week,
+            season_type: self.season_type,
+            classification: self.classification,
+            team: self.team,
+            home: self.home,
+            away: self.away,
+            conference: self.conference,
+        }
     }
 }

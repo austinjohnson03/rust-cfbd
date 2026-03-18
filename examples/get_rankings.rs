@@ -1,7 +1,7 @@
 use dotenvy::dotenv;
 use rust_cfbd::client::CfbdClient;
 use rust_cfbd::config::Config;
-use rust_cfbd::models::cfb::ranking_query::RankingQueryBuilder;
+use rust_cfbd::models::cfb::query::ranking_query::RankingQueryBuilder;
 use std::env;
 
 #[tokio::main]
