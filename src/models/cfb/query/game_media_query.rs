@@ -1,6 +1,6 @@
-use crate::models::cfb::division_classification::DivisionClassification;
-use crate::models::cfb::media_type::MediaType;
-use crate::models::cfb::season_type::SeasonType;
+use crate::models::cfb::entity::division_classification::DivisionClassification;
+use crate::models::cfb::entity::media_type::MediaType;
+use crate::models::cfb::entity::season_type::SeasonType;
 use serde::{Deserialize, Serialize};
 use std::marker::PhantomData;
 
@@ -26,7 +26,7 @@ pub struct GameMediaQuery {
 }
 
 #[derive(Debug, Serialize)]
-pub struct GameMediaParams<Q> {
+pub struct GameMediaQueryBuilder<Q> {
     #[serde(skip)]
     _query: PhantomData<Q>,
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -45,9 +45,9 @@ pub struct GameMediaParams<Q> {
     pub classification: Option<DivisionClassification>,
 }
 
-impl GameMediaParams<NoQuery> {
+impl GameMediaQueryBuilder<NoQuery> {
     pub fn new() -> Self {
-        GameMediaParams {
+        GameMediaQueryBuilder {
             _query: PhantomData,
             year: None,
             season_type: None,
@@ -59,8 +59,8 @@ impl GameMediaParams<NoQuery> {
         }
     }
 
-    pub fn year(self, year: i32) -> GameMediaParams<ByYear> {
-        GameMediaParams {
+    pub fn year(self, year: i32) -> GameMediaQueryBuilder<ByYear> {
+        GameMediaQueryBuilder {
             _query: PhantomData,
             year: Some(year),
             season_type: self.season_type,
@@ -73,13 +73,13 @@ impl GameMediaParams<NoQuery> {
     }
 }
 
-impl Default for GameMediaParams<NoQuery> {
+impl Default for GameMediaQueryBuilder<NoQuery> {
     fn default() -> Self {
         Self::new()
     }
 }
 
-impl GameMediaParams<ByYear> {
+impl GameMediaQueryBuilder<ByYear> {
     pub fn build(self) -> GameMediaQuery {
         GameMediaQuery {
             year: self.year.unwrap(),
@@ -93,7 +93,7 @@ impl GameMediaParams<ByYear> {
     }
 }
 
-impl<Q> GameMediaParams<Q> {
+impl<Q> GameMediaQueryBuilder<Q> {
     pub fn season_type(mut self, season_type: SeasonType) -> Self {
         self.season_type = Some(season_type);
         self

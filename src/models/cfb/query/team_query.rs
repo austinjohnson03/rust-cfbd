@@ -9,9 +9,14 @@ pub struct TeamQuery {
     year: Option<i32>,
 }
 
-impl TeamQuery {
+pub struct TeamQueryBuilder {
+    conference: Option<String>,
+    year: Option<i32>,
+}
+
+impl TeamQueryBuilder {
     pub fn new() -> Self {
-        TeamQuery {
+        TeamQueryBuilder {
             conference: None,
             year: None,
         }
@@ -25,5 +30,12 @@ impl TeamQuery {
     pub fn year(mut self, year: i32) -> Self {
         self.year = Some(year);
         self
+    }
+
+    pub fn build(self) -> TeamQuery {
+        TeamQuery {
+            conference: self.conference,
+            year: self.year,
+        }
     }
 }

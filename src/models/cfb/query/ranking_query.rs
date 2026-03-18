@@ -1,4 +1,4 @@
-use crate::models::cfb::season_type::SeasonType;
+use crate::models::cfb::entity::season_type::SeasonType;
 use serde::Serialize;
 
 pub struct NoQuery;

@@ -12,6 +12,6 @@ async fn main() {
 
     let client = CfbdClient::new(Config::new(api_key));
 
-    let resp: UserInfo = client.get("info", &()).await.unwrap();
+    let resp: UserInfo = client.get_user_info().await.unwrap();
     println!("{}", resp);
 }

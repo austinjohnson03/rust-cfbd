@@ -1,7 +1,7 @@
 use dotenvy::dotenv;
 use rust_cfbd::client::CfbdClient;
 use rust_cfbd::config::Config;
-use rust_cfbd::models::cfb::roster_query::RosterQueryBuilder;
+use rust_cfbd::models::cfb::query::roster_query::RosterQueryBuilder;
 use std::env;
 
 #[tokio::main]

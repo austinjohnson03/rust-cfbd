@@ -1,9 +1,9 @@
 use crate::client::CfbdClient;
 use crate::error::CFBDError;
-use crate::models::cfb::recruit::Recruit;
-use crate::models::cfb::recruit_player_query::RecruitPlayerQuery;
-use crate::models::cfb::recruit_team_query::RecruitTeamQuery;
-use crate::models::cfb::team_recruiting_ranking::TeamRecruitingRanking;
+use crate::models::cfb::entity::recruit::Recruit;
+use crate::models::cfb::entity::team_recruiting_ranking::TeamRecruitingRanking;
+use crate::models::cfb::query::recruit_player_query::RecruitPlayerQuery;
+use crate::models::cfb::query::recruit_team_query::RecruitTeamQuery;
 
 impl CfbdClient {
     pub async fn get_recruiting_players(
