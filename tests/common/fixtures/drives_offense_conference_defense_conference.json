@@ -1,0 +1,5654 @@
+[
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 6
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 4
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752665,
+    "id": "4017526652",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 10
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 59
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 13
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752665,
+    "id": "4017526654",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 12
+    },
+    "startYardline": 35,
+    "startYardsToGoal": 65,
+    "yards": 65
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 39
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 44
+    },
+    "endYardline": 73,
+    "endYardsToGoal": 27,
+    "gameId": 401752665,
+    "id": "4017526656",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 23
+    },
+    "startYardline": 21,
+    "startYardsToGoal": 79,
+    "yards": 52
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 36
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 35,
+    "endYardsToGoal": 65,
+    "gameId": 401752665,
+    "id": "4017526658",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 36
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 15
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 41
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 17,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 19
+    },
+    "endYardline": 31,
+    "endYardsToGoal": 69,
+    "gameId": 401752665,
+    "id": "4017526659",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 15,
+    "startYardsToGoal": 85,
+    "yards": 16
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 37
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 24,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 45
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752665,
+    "id": "40175266511",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 2,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 22
+    },
+    "startYardline": 32,
+    "startYardsToGoal": 68,
+    "yards": 68
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 43
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 24,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 16
+    },
+    "endYardline": 57,
+    "endYardsToGoal": 43,
+    "gameId": 401752665,
+    "id": "40175266513",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 24,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 59
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 32
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 16,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 39
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 24,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 16
+    },
+    "endYardline": 21,
+    "endYardsToGoal": 79,
+    "gameId": 401752665,
+    "id": "40175266516",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 24,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 55
+    },
+    "startYardline": 28,
+    "startYardsToGoal": 72,
+    "yards": -7
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 18,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 43
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 31,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 17
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752665,
+    "id": "40175266518",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 24,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 0
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "driveResult": "END OF GAME",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 39
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 31,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 65,
+    "endYardsToGoal": 35,
+    "gameId": 401752665,
+    "id": "40175266520",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 31,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 39
+    },
+    "startYardline": 49,
+    "startYardsToGoal": 51,
+    "yards": 16
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 18
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 30
+    },
+    "endYardline": 10,
+    "endYardsToGoal": 90,
+    "gameId": 401752671,
+    "id": "4017526712",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 48
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": -10
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 54
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 57
+    },
+    "endYardline": 76,
+    "endYardsToGoal": 24,
+    "gameId": 401752671,
+    "id": "4017526714",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 51
+    },
+    "startYardline": 76,
+    "startYardsToGoal": 24,
+    "yards": 0
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 45
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 40
+    },
+    "endYardline": 56,
+    "endYardsToGoal": 44,
+    "gameId": 401752671,
+    "id": "4017526716",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 25
+    },
+    "startYardline": 15,
+    "startYardsToGoal": 85,
+    "yards": 41
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 6,
+      "seconds": 17
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 36
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752671,
+    "id": "4017526718",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 13,
+    "scoring": true,
+    "startDefenseScore": 3,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 53
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 9
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 12,
+    "endYardsToGoal": 88,
+    "gameId": 401752671,
+    "id": "40175267110",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 9
+    },
+    "startYardline": 13,
+    "startYardsToGoal": 87,
+    "yards": -1
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 13
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 10,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 47
+    },
+    "endYardline": 70,
+    "endYardsToGoal": 30,
+    "gameId": 401752671,
+    "id": "40175267111",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 10,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 45
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 44
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 10,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 15
+    },
+    "endYardline": 35,
+    "endYardsToGoal": 65,
+    "gameId": 401752671,
+    "id": "40175267113",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 10,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 59
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 10
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 23
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 10,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 9
+    },
+    "endYardline": 34,
+    "endYardsToGoal": 66,
+    "gameId": 401752671,
+    "id": "40175267115",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 10,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 32
+    },
+    "startYardline": 29,
+    "startYardsToGoal": 71,
+    "yards": 5
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 16
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 2
+    },
+    "endYardline": 67,
+    "endYardsToGoal": 33,
+    "gameId": 401752671,
+    "id": "40175267117",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 18
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 42
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 4
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 22
+    },
+    "endYardline": 22,
+    "endYardsToGoal": 78,
+    "gameId": 401752671,
+    "id": "40175267119",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 26
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 2
+  },
+  {
+    "defense": "LSU",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 51
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 59
+    },
+    "endYardline": 85,
+    "endYardsToGoal": 15,
+    "gameId": 401752671,
+    "id": "40175267121",
+    "isHomeOffense": true,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 50
+    },
+    "startYardline": 43,
+    "startYardsToGoal": 57,
+    "yards": 42
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 9
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 37
+    },
+    "endYardline": 50,
+    "endYardsToGoal": 50,
+    "gameId": 401752676,
+    "id": "4017526762",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 46
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 25
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 9
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 53
+    },
+    "endYardline": 79,
+    "endYardsToGoal": 79,
+    "gameId": 401752676,
+    "id": "4017526764",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 2
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -4
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "FUMBLE TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 10
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 56
+    },
+    "endYardline": 71,
+    "endYardsToGoal": 71,
+    "gameId": 401752676,
+    "id": "4017526766",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 6
+    },
+    "startYardline": 71,
+    "startYardsToGoal": 71,
+    "yards": -7
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 7,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 16
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 40
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401752676,
+    "id": "4017526767",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 11,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 56
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 22
+    },
+    "endDefenseScore": 24,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 52
+    },
+    "endYardline": 36,
+    "endYardsToGoal": 36,
+    "gameId": 401752676,
+    "id": "4017526769",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 10,
+    "scoring": false,
+    "startDefenseScore": 24,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 14
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 39
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 38
+    },
+    "endDefenseScore": 24,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 55
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401752676,
+    "id": "40175267611",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 24,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 33
+    },
+    "startYardline": 49,
+    "startYardsToGoal": 49,
+    "yards": 49
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 21
+    },
+    "endDefenseScore": 31,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 86,
+    "endYardsToGoal": 86,
+    "gameId": 401752676,
+    "id": "40175267613",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 31,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 21
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -11
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 14,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 11
+    },
+    "endDefenseScore": 31,
+    "endOffenseScore": 14,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 49
+    },
+    "endYardline": 75,
+    "endYardsToGoal": 75,
+    "gameId": 401752676,
+    "id": "40175267614",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 31,
+    "startOffenseScore": 14,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 0
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 16,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 49
+    },
+    "endDefenseScore": 38,
+    "endOffenseScore": 20,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 33
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401752676,
+    "id": "40175267616",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 12,
+    "scoring": true,
+    "startDefenseScore": 38,
+    "startOffenseScore": 14,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 22
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 18,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 40
+    },
+    "endDefenseScore": 38,
+    "endOffenseScore": 20,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 44
+    },
+    "endYardline": 81,
+    "endYardsToGoal": 81,
+    "gameId": 401752676,
+    "id": "40175267618",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 38,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 24
+    },
+    "startYardline": 83,
+    "startYardsToGoal": 83,
+    "yards": 2
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 19
+    },
+    "endDefenseScore": 38,
+    "endOffenseScore": 26,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 54
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401752676,
+    "id": "40175267620",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 14,
+    "scoring": true,
+    "startDefenseScore": 38,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 13
+    },
+    "startYardline": 88,
+    "startYardsToGoal": 88,
+    "yards": 88
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 27
+    },
+    "endDefenseScore": 38,
+    "endOffenseScore": 26,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 39
+    },
+    "endYardline": 90,
+    "endYardsToGoal": 90,
+    "gameId": 401752676,
+    "id": "40175267622",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 38,
+    "startOffenseScore": 26,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 6
+    },
+    "startYardline": 89,
+    "startYardsToGoal": 89,
+    "yards": -1
+  },
+  {
+    "defense": "Tennessee",
+    "defenseConference": "SEC",
+    "driveNumber": 24,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 2
+    },
+    "endDefenseScore": 45,
+    "endOffenseScore": 26,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 55
+    },
+    "endYardline": 4,
+    "endYardsToGoal": 4,
+    "gameId": 401752676,
+    "id": "40175267624",
+    "isHomeOffense": false,
+    "offense": "Syracuse",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 45,
+    "startOffenseScore": 26,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 57
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 71
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 35
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 9
+    },
+    "endYardline": 85,
+    "endYardsToGoal": 85,
+    "gameId": 401752680,
+    "id": "4017526802",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 9
+    },
+    "startYardline": 98,
+    "startYardsToGoal": 98,
+    "yards": 0
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 18
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 9
+    },
+    "endYardline": 20,
+    "endYardsToGoal": 20,
+    "gameId": 401752680,
+    "id": "4017526804",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 27
+    },
+    "startYardline": 90,
+    "startYardsToGoal": 90,
+    "yards": 70
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 2
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 2,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 31
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401752680,
+    "id": "4017526806",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 2,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 33
+    },
+    "startYardline": 55,
+    "startYardsToGoal": 55,
+    "yards": -14
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 32
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 5,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 45
+    },
+    "endYardline": 12,
+    "endYardsToGoal": 12,
+    "gameId": 401752680,
+    "id": "4017526808",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 2,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 17
+    },
+    "startYardline": 71,
+    "startYardsToGoal": 71,
+    "yards": 59
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 38
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 5,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 43
+    },
+    "endYardline": 64,
+    "endYardsToGoal": 64,
+    "gameId": 401752680,
+    "id": "40175268010",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 5,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 21
+    },
+    "startYardline": 84,
+    "startYardsToGoal": 84,
+    "yards": 20
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 42
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 8,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 65,
+    "endYardsToGoal": 65,
+    "gameId": 401752680,
+    "id": "40175268012",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 11,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 5,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 42
+    },
+    "startYardline": 100,
+    "startYardsToGoal": 100,
+    "yards": 37
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 12
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 8,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 48
+    },
+    "endYardline": 52,
+    "endYardsToGoal": 52,
+    "gameId": 401752680,
+    "id": "40175268013",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 8,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 84,
+    "startYardsToGoal": 84,
+    "yards": 32
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 41
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 8,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 22
+    },
+    "endYardline": 60,
+    "endYardsToGoal": 60,
+    "gameId": 401752680,
+    "id": "40175268015",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 8,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 3
+    },
+    "startYardline": 93,
+    "startYardsToGoal": 93,
+    "yards": 33
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "PUNT RETURN TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 2
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 8,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 36
+    },
+    "endYardline": 77,
+    "endYardsToGoal": 77,
+    "gameId": 401752680,
+    "id": "40175268017",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 8,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 38
+    },
+    "startYardline": 69,
+    "startYardsToGoal": 69,
+    "yards": -8
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 18,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 36
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 11,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 0
+    },
+    "endYardline": 22,
+    "endYardsToGoal": 22,
+    "gameId": 401752680,
+    "id": "40175268018",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 8,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 36
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": 58
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 59
+    },
+    "endDefenseScore": 24,
+    "endOffenseScore": 11,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 43
+    },
+    "endYardline": 48,
+    "endYardsToGoal": 48,
+    "gameId": 401752680,
+    "id": "40175268020",
+    "isHomeOffense": false,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 24,
+    "startOffenseScore": 11,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 42
+    },
+    "startYardline": 77,
+    "startYardsToGoal": 77,
+    "yards": 29
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 7,
+      "seconds": 49
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 11
+    },
+    "endYardline": 89,
+    "endYardsToGoal": 11,
+    "gameId": 401752695,
+    "id": "4017526951",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 15,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 64
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 3,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 27
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 6
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752695,
+    "id": "4017526953",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 33
+    },
+    "startYardline": 15,
+    "startYardsToGoal": 85,
+    "yards": 85
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 5,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 51
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 0
+    },
+    "endYardline": 24,
+    "endYardsToGoal": 76,
+    "gameId": 401752695,
+    "id": "4017526955",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 51
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": -1
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 7,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 15
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 10
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752695,
+    "id": "4017526957",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 25
+    },
+    "startYardline": 73,
+    "startYardsToGoal": 27,
+    "yards": 27
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 19
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 20,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 90,
+    "endYardsToGoal": 10,
+    "gameId": 401752695,
+    "id": "4017526959",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 13,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 19
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 65
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 12
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 20,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 50
+    },
+    "endYardline": 34,
+    "endYardsToGoal": 66,
+    "gameId": 401752695,
+    "id": "40175269511",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 2
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 9
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 41
+    },
+    "endDefenseScore": 23,
+    "endOffenseScore": 20,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 43
+    },
+    "endYardline": 12,
+    "endYardsToGoal": 88,
+    "gameId": 401752695,
+    "id": "40175269513",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 23,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 24
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": -13
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 29
+    },
+    "endDefenseScore": 30,
+    "endOffenseScore": 20,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 44
+    },
+    "endYardline": 25,
+    "endYardsToGoal": 75,
+    "gameId": 401752695,
+    "id": "40175269515",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 30,
+    "startOffenseScore": 20,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 13
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 0
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 32
+    },
+    "endDefenseScore": 37,
+    "endOffenseScore": 20,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 33
+    },
+    "endYardline": 31,
+    "endYardsToGoal": 69,
+    "gameId": 401752695,
+    "id": "40175269517",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 37,
+    "startOffenseScore": 20,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 5
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 6
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 13
+    },
+    "endDefenseScore": 44,
+    "endOffenseScore": 20,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 59
+    },
+    "endYardline": 44,
+    "endYardsToGoal": 56,
+    "gameId": 401752695,
+    "id": "40175269519",
+    "isHomeOffense": true,
+    "offense": "Virginia Tech",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 44,
+    "startOffenseScore": 20,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 12
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 19
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 31
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 25
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752709,
+    "id": "4017527092",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 56
+    },
+    "startYardline": 44,
+    "startYardsToGoal": 56,
+    "yards": 56
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 8,
+      "seconds": 19
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 4
+    },
+    "endYardline": 65,
+    "endYardsToGoal": 35,
+    "gameId": 401752709,
+    "id": "4017527094",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 16,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 7,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 23
+    },
+    "startYardline": 28,
+    "startYardsToGoal": 72,
+    "yards": 37
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 46
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 7
+    },
+    "endYardline": 54,
+    "endYardsToGoal": 46,
+    "gameId": 401752709,
+    "id": "4017527096",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 53
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 34
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 0
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 14
+    },
+    "endYardline": 53,
+    "endYardsToGoal": 47,
+    "gameId": 401752709,
+    "id": "4017527098",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 14
+    },
+    "startYardline": 57,
+    "startYardsToGoal": 43,
+    "yards": -4
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 22
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 13,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 29
+    },
+    "endYardline": 90,
+    "endYardsToGoal": 10,
+    "gameId": 401752709,
+    "id": "40175270910",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 51
+    },
+    "startYardline": 38,
+    "startYardsToGoal": 62,
+    "yards": 52
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 43
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 13,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 28,
+    "endYardsToGoal": 72,
+    "gameId": 401752709,
+    "id": "40175270912",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 13,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 43
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 3
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 24
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 13,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 36
+    },
+    "endYardline": 61,
+    "endYardsToGoal": 39,
+    "gameId": 401752709,
+    "id": "40175270913",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 11,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 13,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 19,
+    "startYardsToGoal": 81,
+    "yards": 42
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 8
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 13,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 16
+    },
+    "endYardline": 25,
+    "endYardsToGoal": 75,
+    "gameId": 401752709,
+    "id": "40175270915",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 13,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 24
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 0
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 30
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 13,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 20
+    },
+    "endYardline": 32,
+    "endYardsToGoal": 68,
+    "gameId": 401752709,
+    "id": "40175270917",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 13,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 50
+    },
+    "startYardline": 31,
+    "startYardsToGoal": 69,
+    "yards": 1
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 7,
+      "seconds": 12
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 19,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 8
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752709,
+    "id": "40175270919",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 13,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 13,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 20
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 80
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 2
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 26,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 56
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752709,
+    "id": "40175270921",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 19,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 58
+    },
+    "startYardline": 77,
+    "startYardsToGoal": 23,
+    "yards": 22
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 23,
+    "driveResult": "END OF GAME",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 26,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 74,
+    "endYardsToGoal": 26,
+    "gameId": 401752709,
+    "id": "40175270923",
+    "isHomeOffense": true,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 26,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "startYardline": 73,
+    "startYardsToGoal": 27,
+    "yards": 1
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 57
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "endYardline": 83,
+    "endYardsToGoal": 83,
+    "gameId": 401752785,
+    "id": "4017527852",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -8
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 3,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 1
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 24
+    },
+    "endYardline": 24,
+    "endYardsToGoal": 24,
+    "gameId": 401752785,
+    "id": "4017527855",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 25
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 51
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 5,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 10
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 39
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401752785,
+    "id": "4017527858",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 49
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 7,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 53
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 45
+    },
+    "endYardline": 26,
+    "endYardsToGoal": 26,
+    "gameId": 401752785,
+    "id": "40175278512",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 38
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 49
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 18
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 14,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 59
+    },
+    "endYardline": 60,
+    "endYardsToGoal": 60,
+    "gameId": 401752785,
+    "id": "40175278520",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 14,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 7
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": 20
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 19
+    },
+    "endDefenseScore": 24,
+    "endOffenseScore": 14,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 28
+    },
+    "endYardline": 80,
+    "endYardsToGoal": 80,
+    "gameId": 401752785,
+    "id": "40175278523",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 24,
+    "startOffenseScore": 14,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 47
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -5
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 43
+    },
+    "endDefenseScore": 31,
+    "endOffenseScore": 14,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 14
+    },
+    "endYardline": 23,
+    "endYardsToGoal": 23,
+    "gameId": 401752785,
+    "id": "40175278526",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 31,
+    "startOffenseScore": 14,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 55
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 52
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 26
+    },
+    "endDefenseScore": 34,
+    "endOffenseScore": 21,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 7
+    },
+    "endYardline": 17,
+    "endYardsToGoal": 17,
+    "gameId": 401752785,
+    "id": "40175278529",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 11,
+    "scoring": true,
+    "startDefenseScore": 34,
+    "startOffenseScore": 14,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 33
+    },
+    "startYardline": 83,
+    "startYardsToGoal": 83,
+    "yards": 83
+  },
+  {
+    "defense": "Florida",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 56
+    },
+    "endDefenseScore": 40,
+    "endOffenseScore": 21,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 49,
+    "endYardsToGoal": 49,
+    "gameId": 401752785,
+    "id": "40175278533",
+    "isHomeOffense": false,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 40,
+    "startOffenseScore": 21,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 56
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 43
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 40
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 17
+    },
+    "endYardline": 43,
+    "endYardsToGoal": 57,
+    "gameId": 401752786,
+    "id": "4017527862",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 57
+    },
+    "startYardline": 3,
+    "startYardsToGoal": 97,
+    "yards": 40
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 3,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 27
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 20
+    },
+    "endYardline": 87,
+    "endYardsToGoal": 13,
+    "gameId": 401752786,
+    "id": "4017527864",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 30
+    },
+    "startYardline": 63,
+    "startYardsToGoal": 37,
+    "yards": 24
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 5,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 17
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 25
+    },
+    "endYardline": 33,
+    "endYardsToGoal": 67,
+    "gameId": 401752786,
+    "id": "4017527868",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 42
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 8
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 7,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 20
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 15
+    },
+    "endYardline": 27,
+    "endYardsToGoal": 73,
+    "gameId": 401752786,
+    "id": "40175278611",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 35
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 2
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 1
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 1
+    },
+    "endYardline": 24,
+    "endYardsToGoal": 76,
+    "gameId": 401752786,
+    "id": "40175278614",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 13,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 1
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": -1
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 14
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 3,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 16
+    },
+    "endYardline": 96,
+    "endYardsToGoal": 4,
+    "gameId": 401752786,
+    "id": "40175278617",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 13,
+    "startOffenseScore": 3,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 20
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 31
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 2
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 6,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 33
+    },
+    "endYardline": 74,
+    "endYardsToGoal": 26,
+    "gameId": 401752786,
+    "id": "40175278619",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 13,
+    "startOffenseScore": 3,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 24
+    },
+    "startYardline": 47,
+    "startYardsToGoal": 53,
+    "yards": 27
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 45
+    },
+    "endDefenseScore": 16,
+    "endOffenseScore": 6,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 25
+    },
+    "endYardline": 54,
+    "endYardsToGoal": 46,
+    "gameId": 401752786,
+    "id": "40175278623",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 16,
+    "startOffenseScore": 6,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 10
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 29
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 36
+    },
+    "endDefenseScore": 16,
+    "endOffenseScore": 9,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 30
+    },
+    "endYardline": 76,
+    "endYardsToGoal": 24,
+    "gameId": 401752786,
+    "id": "40175278625",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 16,
+    "startOffenseScore": 6,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 54
+    },
+    "startYardline": 12,
+    "startYardsToGoal": 88,
+    "yards": 64
+  },
+  {
+    "defense": "Georgia",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "END OF GAME",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 14
+    },
+    "endDefenseScore": 16,
+    "endOffenseScore": 9,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 1
+    },
+    "endYardline": 56,
+    "endYardsToGoal": 44,
+    "gameId": 401752786,
+    "id": "40175278628",
+    "isHomeOffense": true,
+    "offense": "Georgia Tech",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 16,
+    "startOffenseScore": 9,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 7
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 36
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 59
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 27
+    },
+    "endYardline": 47,
+    "endYardsToGoal": 53,
+    "gameId": 401752787,
+    "id": "4017527873",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 16
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 22
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 55
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 44
+    },
+    "endYardline": 97,
+    "endYardsToGoal": 3,
+    "gameId": 401752787,
+    "id": "4017527875",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 33
+    },
+    "startYardline": 90,
+    "startYardsToGoal": 10,
+    "yards": 10
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 11
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 56
+    },
+    "endYardline": 84,
+    "endYardsToGoal": 16,
+    "gameId": 401752787,
+    "id": "4017527878",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 7,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 47
+    },
+    "startYardline": 34,
+    "startYardsToGoal": 66,
+    "yards": 50
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 24
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 18
+    },
+    "endYardline": 97,
+    "endYardsToGoal": 3,
+    "gameId": 401752787,
+    "id": "40175278711",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 31
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 80
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 15
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 20,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endYardline": 94,
+    "endYardsToGoal": 6,
+    "gameId": 401752787,
+    "id": "40175278714",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 55
+    },
+    "startYardline": 46,
+    "startYardsToGoal": 54,
+    "yards": 48
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 56
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 20,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 19
+    },
+    "endYardline": 64,
+    "endYardsToGoal": 36,
+    "gameId": 401752787,
+    "id": "40175278717",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 20,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 48
+    },
+    "startYardline": 29,
+    "startYardsToGoal": 71,
+    "yards": 35
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 26
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 20,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 34
+    },
+    "endYardline": 43,
+    "endYardsToGoal": 57,
+    "gameId": 401752787,
+    "id": "40175278719",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 18
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 49
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 20,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 41
+    },
+    "endYardline": 62,
+    "endYardsToGoal": 38,
+    "gameId": 401752787,
+    "id": "40175278721",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 59
+    },
+    "startYardline": 63,
+    "startYardsToGoal": 37,
+    "yards": -1
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 41
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 27,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 23
+    },
+    "endYardline": 97,
+    "endYardsToGoal": 3,
+    "gameId": 401752787,
+    "id": "40175278723",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 2,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 57
+    },
+    "startYardline": 85,
+    "startYardsToGoal": 15,
+    "yards": 15
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 10,
+      "seconds": 27
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 34,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 22
+    },
+    "endYardline": 97,
+    "endYardsToGoal": 3,
+    "gameId": 401752787,
+    "id": "40175278726",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 17,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 27,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 43
+    },
+    "startYardline": 1,
+    "startYardsToGoal": 99,
+    "yards": 99
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 4
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 41,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 23
+    },
+    "endYardline": 97,
+    "endYardsToGoal": 3,
+    "gameId": 401752787,
+    "id": "40175278729",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 34,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 4
+    },
+    "startYardline": 70,
+    "startYardsToGoal": 30,
+    "yards": 30
+  },
+  {
+    "defense": "Kentucky",
+    "defenseConference": "SEC",
+    "driveNumber": 23,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 21
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 41,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 53
+    },
+    "endYardline": 34,
+    "endYardsToGoal": 66,
+    "gameId": 401752787,
+    "id": "40175278732",
+    "isHomeOffense": true,
+    "offense": "Louisville",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 41,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 8
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 9
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 37
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 23
+    },
+    "endYardline": 48,
+    "endYardsToGoal": 48,
+    "gameId": 401752790,
+    "id": "4017527902",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 27
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 3,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 11
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 22
+    },
+    "endYardline": 51,
+    "endYardsToGoal": 51,
+    "gameId": 401752790,
+    "id": "4017527904",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 28
+    },
+    "startYardline": 55,
+    "startYardsToGoal": 55,
+    "yards": 4
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 5,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 1
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 43
+    },
+    "endYardline": 19,
+    "endYardsToGoal": 19,
+    "gameId": 401752790,
+    "id": "4017527906",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 38
+    },
+    "startYardline": 45,
+    "startYardsToGoal": 45,
+    "yards": 26
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 7,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 37
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 37
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401752790,
+    "id": "4017527908",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 4
+    },
+    "startYardline": 78,
+    "startYardsToGoal": 78,
+    "yards": 78
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 20
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 48
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401752790,
+    "id": "40175279012",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 11,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 8
+    },
+    "startYardline": 85,
+    "startYardsToGoal": 85,
+    "yards": 85
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 33
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 20,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 56
+    },
+    "endYardline": 21,
+    "endYardsToGoal": 21,
+    "gameId": 401752790,
+    "id": "40175279016",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 12,
+    "scoring": true,
+    "startDefenseScore": 14,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 29
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 54
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 19
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 1
+    },
+    "endYardline": 50,
+    "endYardsToGoal": 50,
+    "gameId": 401752790,
+    "id": "40175279019",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 14
+    },
+    "startYardline": 67,
+    "startYardsToGoal": 67,
+    "yards": 17
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 33
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 20,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 32
+    },
+    "endYardline": 24,
+    "endYardsToGoal": 24,
+    "gameId": 401752790,
+    "id": "40175279022",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 12,
+    "scoring": true,
+    "startDefenseScore": 14,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 59
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": 56
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 40
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 20,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 13
+    },
+    "endYardline": 87,
+    "endYardsToGoal": 87,
+    "gameId": 401752790,
+    "id": "40175279025",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 48
+    },
+    "startYardline": 96,
+    "startYardsToGoal": 96,
+    "yards": 9
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 55
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 20,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 18
+    },
+    "endYardline": 47,
+    "endYardsToGoal": 47,
+    "gameId": 401752790,
+    "id": "40175279027",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 20,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 12
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": 33
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 19
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 20,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 29
+    },
+    "endYardline": 43,
+    "endYardsToGoal": 43,
+    "gameId": 401752790,
+    "id": "40175279029",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 20,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 31
+    },
+    "startYardline": 66,
+    "startYardsToGoal": 66,
+    "yards": 23
+  },
+  {
+    "defense": "South Carolina",
+    "defenseConference": "SEC",
+    "driveNumber": 24,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 33
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 28,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 4
+    },
+    "endYardline": 45,
+    "endYardsToGoal": 45,
+    "gameId": 401752790,
+    "id": "40175279033",
+    "isHomeOffense": false,
+    "offense": "Clemson",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 28,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 31
+    },
+    "startYardline": 40,
+    "startYardsToGoal": 40,
+    "yards": -5
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 7,
+      "seconds": 21
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 22
+    },
+    "endYardline": 20,
+    "endYardsToGoal": 20,
+    "gameId": 401769075,
+    "id": "4017690753",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 13,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 43
+    },
+    "startYardline": 64,
+    "startYardsToGoal": 64,
+    "yards": 44
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 47
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 24
+    },
+    "endYardline": 51,
+    "endYardsToGoal": 51,
+    "gameId": 401769075,
+    "id": "4017690756",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 11
+    },
+    "startYardline": 77,
+    "startYardsToGoal": 77,
+    "yards": 26
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 7,
+      "seconds": 41
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 9
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401769075,
+    "id": "40176907510",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 15,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 50
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 20
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 18
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401769075,
+    "id": "40176907514",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 38
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 24
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 55
+    },
+    "endYardline": 76,
+    "endYardsToGoal": 76,
+    "gameId": 401769075,
+    "id": "40176907517",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 19
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -6
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 11
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 10
+    },
+    "endYardline": 66,
+    "endYardsToGoal": 66,
+    "gameId": 401769075,
+    "id": "40176907520",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 13,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 11
+    },
+    "startYardline": 65,
+    "startYardsToGoal": 65,
+    "yards": -1
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 7
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 17,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 53
+    },
+    "endYardline": 33,
+    "endYardsToGoal": 33,
+    "gameId": 401769075,
+    "id": "40176907522",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 13,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 42
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 7,
+      "seconds": 37
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 17,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 19
+    },
+    "endYardline": 14,
+    "endYardsToGoal": 14,
+    "gameId": 401769075,
+    "id": "40176907524",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 13,
+    "scoring": false,
+    "startDefenseScore": 13,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 56
+    },
+    "startYardline": 66,
+    "startYardsToGoal": 66,
+    "yards": 42
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 3
+    },
+    "endDefenseScore": 16,
+    "endOffenseScore": 17,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 19
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 58,
+    "gameId": 401769075,
+    "id": "40176907527",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 16,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 22
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 17
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 56
+    },
+    "endDefenseScore": 19,
+    "endOffenseScore": 24,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 4
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401769075,
+    "id": "40176907530",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 19,
+    "startOffenseScore": 17,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Ole Miss",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 55
+    },
+    "endDefenseScore": 27,
+    "endOffenseScore": 31,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 18
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401769075,
+    "id": "40176907534",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 15,
+    "scoring": true,
+    "startDefenseScore": 27,
+    "startOffenseScore": 24,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 13
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 34
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 18
+    },
+    "endYardline": 27,
+    "endYardsToGoal": 27,
+    "gameId": 401778322,
+    "id": "4017783224",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 10,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 52
+    },
+    "startYardline": 79,
+    "startYardsToGoal": 79,
+    "yards": 51
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 50
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 17
+    },
+    "endYardline": 25,
+    "endYardsToGoal": 25,
+    "gameId": 401778322,
+    "id": "4017783226",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 12,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 57
+    },
+    "startYardline": 67,
+    "startYardsToGoal": 67,
+    "yards": 42
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 3
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 22
+    },
+    "endYardline": 26,
+    "endYardsToGoal": 26,
+    "gameId": 401778322,
+    "id": "4017783229",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 11,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 20
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": 54
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 45
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 21
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 58,
+    "gameId": 401778322,
+    "id": "40177832212",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 53
+    },
+    "startYardline": 76,
+    "startYardsToGoal": 76,
+    "yards": 18
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 10,
+      "seconds": 7
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 10,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 10
+    },
+    "endYardline": 2,
+    "endYardsToGoal": 2,
+    "gameId": 401778322,
+    "id": "40177832215",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 19,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 3,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 3
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 13,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 0
+    },
+    "endYardline": 21,
+    "endYardsToGoal": 21,
+    "gameId": 401778322,
+    "id": "40177832218",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 10,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 55
+    },
+    "startYardline": 35,
+    "startYardsToGoal": 35,
+    "yards": 14
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 11
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 13,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 42
+    },
+    "endYardline": 43,
+    "endYardsToGoal": 43,
+    "gameId": 401778322,
+    "id": "40177832221",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 13,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 47
+    },
+    "startYardline": 61,
+    "startYardsToGoal": 61,
+    "yards": 18
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 17
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 13,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 28
+    },
+    "endYardline": 39,
+    "endYardsToGoal": 39,
+    "gameId": 401778322,
+    "id": "40177832223",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 13,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 39
+    },
+    "startYardline": 58,
+    "startYardsToGoal": 58,
+    "yards": 19
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 24
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 13,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 33
+    },
+    "endYardline": 53,
+    "endYardsToGoal": 53,
+    "gameId": 401778322,
+    "id": "40177832225",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 13,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 52
+    },
+    "startYardline": 60,
+    "startYardsToGoal": 60,
+    "yards": 8
+  },
+  {
+    "defense": "Missouri",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "END OF GAME",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 1
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 13,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 1
+    },
+    "endYardline": 80,
+    "endYardsToGoal": 80,
+    "gameId": 401778322,
+    "id": "40177832227",
+    "isHomeOffense": false,
+    "offense": "Virginia",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 13,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 1
+    },
+    "startYardline": 79,
+    "startYardsToGoal": 79,
+    "yards": -1
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 8,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 12
+    },
+    "endYardline": 67,
+    "endYardsToGoal": 67,
+    "gameId": 401778334,
+    "id": "4017783344",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 3,
+    "startOffenseScore": 8,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 46
+    },
+    "startYardline": 81,
+    "startYardsToGoal": 81,
+    "yards": 14
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 8,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 12
+    },
+    "endYardline": 67,
+    "endYardsToGoal": 67,
+    "gameId": 401778334,
+    "id": "4017783346",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 8,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 55
+    },
+    "startYardline": 81,
+    "startYardsToGoal": 81,
+    "yards": 14
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 23
+    },
+    "endDefenseScore": 6,
+    "endOffenseScore": 15,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 49
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401778334,
+    "id": "4017783349",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 6,
+    "startOffenseScore": 8,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 12
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 58
+    },
+    "endDefenseScore": 6,
+    "endOffenseScore": 15,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 42
+    },
+    "endYardline": 76,
+    "endYardsToGoal": 76,
+    "gameId": 401778334,
+    "id": "40177833412",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 6,
+    "startOffenseScore": 15,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 40
+    },
+    "startYardline": 77,
+    "startYardsToGoal": 77,
+    "yards": 1
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 53
+    },
+    "endDefenseScore": 6,
+    "endOffenseScore": 15,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "endYardline": 87,
+    "endYardsToGoal": 87,
+    "gameId": 401778334,
+    "id": "40177833414",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 6,
+    "startOffenseScore": 15,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 19
+    },
+    "startYardline": 90,
+    "startYardsToGoal": 90,
+    "yards": 3
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 28
+    },
+    "endDefenseScore": 9,
+    "endOffenseScore": 15,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 47
+    },
+    "endYardline": 40,
+    "endYardsToGoal": 40,
+    "gameId": 401778334,
+    "id": "40177833417",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 9,
+    "startOffenseScore": 15,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 15
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 40
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 14,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 17
+    },
+    "endDefenseScore": 9,
+    "endOffenseScore": 15,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 32
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 58,
+    "gameId": 401778334,
+    "id": "40177833419",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 9,
+    "startOffenseScore": 15,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 49
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": 22
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 16,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 54
+    },
+    "endDefenseScore": 9,
+    "endOffenseScore": 23,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 6
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401778334,
+    "id": "40177833422",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 9,
+    "startOffenseScore": 15,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 18,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 35
+    },
+    "endDefenseScore": 9,
+    "endOffenseScore": 23,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 31
+    },
+    "endYardline": 66,
+    "endYardsToGoal": 66,
+    "gameId": 401778334,
+    "id": "40177833425",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 9,
+    "startOffenseScore": 23,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 6
+    },
+    "startYardline": 67,
+    "startYardsToGoal": 67,
+    "yards": 1
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 5
+    },
+    "endDefenseScore": 12,
+    "endOffenseScore": 30,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 19
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401778334,
+    "id": "40177833428",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 11,
+    "scoring": true,
+    "startDefenseScore": 12,
+    "startOffenseScore": 23,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 24
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 27
+    },
+    "endDefenseScore": 20,
+    "endOffenseScore": 30,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "endYardline": 55,
+    "endYardsToGoal": 55,
+    "gameId": 401778334,
+    "id": "40177833432",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 12,
+    "startOffenseScore": 30,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 53
+    },
+    "startYardline": 64,
+    "startYardsToGoal": 64,
+    "yards": 9
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 24,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 6,
+      "seconds": 3
+    },
+    "endDefenseScore": 29,
+    "endOffenseScore": 36,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 7
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401778334,
+    "id": "40177833435",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 27,
+    "startOffenseScore": 30,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 10
+    },
+    "startYardline": 63,
+    "startYardsToGoal": 63,
+    "yards": 63
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 26,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 20
+    },
+    "endDefenseScore": 29,
+    "endOffenseScore": 43,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 15
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401778334,
+    "id": "40177833438",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 29,
+    "startOffenseScore": 36,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 35
+    },
+    "startYardline": 65,
+    "startYardsToGoal": 65,
+    "yards": 65
+  },
+  {
+    "defense": "Mississippi State",
+    "defenseConference": "SEC",
+    "driveNumber": 28,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 2
+    },
+    "endDefenseScore": 29,
+    "endOffenseScore": 43,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 34,
+    "endYardsToGoal": 34,
+    "gameId": 401778334,
+    "id": "40177833441",
+    "isHomeOffense": false,
+    "offense": "Wake Forest",
+    "offenseConference": "ACC",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 29,
+    "startOffenseScore": 43,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 2
+    },
+    "startYardline": 32,
+    "startYardsToGoal": 32,
+    "yards": -2
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 50
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 27
+    },
+    "endYardline": 77,
+    "endYardsToGoal": 77,
+    "gameId": 401779841,
+    "id": "4017798413",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 6
+    },
+    "startYardline": 92,
+    "startYardsToGoal": 92,
+    "yards": 15
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 12
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 54
+    },
+    "endYardline": 56,
+    "endYardsToGoal": 56,
+    "gameId": 401779841,
+    "id": "4017798415",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 5
+    },
+    "startYardline": 69,
+    "startYardsToGoal": 69,
+    "yards": 13
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 32
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 19
+    },
+    "endYardline": 68,
+    "endYardsToGoal": 68,
+    "gameId": 401779841,
+    "id": "4017798417",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 45
+    },
+    "startYardline": 66,
+    "startYardsToGoal": 66,
+    "yards": -2
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 16
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 16
+    },
+    "endYardline": 75,
+    "endYardsToGoal": 75,
+    "gameId": 401779841,
+    "id": "4017798419",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 24
+    },
+    "startYardline": 87,
+    "startYardsToGoal": 87,
+    "yards": 18
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 11
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 30
+    },
+    "endYardline": 29,
+    "endYardsToGoal": 29,
+    "gameId": 401779841,
+    "id": "40177984111",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 32
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 25,
+    "yards": -4
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 51
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 3
+    },
+    "endYardline": 22,
+    "endYardsToGoal": 22,
+    "gameId": 401779841,
+    "id": "40177984113",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 47
+    },
+    "startYardline": 46,
+    "startYardsToGoal": 46,
+    "yards": 24
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 26
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 34
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401779841,
+    "id": "40177984115",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 72
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 24
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 13
+    },
+    "endYardline": 17,
+    "endYardsToGoal": 17,
+    "gameId": 401779841,
+    "id": "40177984118",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 24
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 20,
+    "yards": 3
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 0
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 33
+    },
+    "endYardline": 53,
+    "endYardsToGoal": 53,
+    "gameId": 401779841,
+    "id": "40177984120",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 26
+    },
+    "startYardline": 69,
+    "startYardsToGoal": 69,
+    "yards": 16
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 52
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 3,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 11
+    },
+    "endYardline": 51,
+    "endYardsToGoal": 51,
+    "gameId": 401779841,
+    "id": "40177984123",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 3,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 3
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 28
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 18
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 44
+    },
+    "endYardline": 3,
+    "endYardsToGoal": 3,
+    "gameId": 401779841,
+    "id": "40177984125",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 3,
+    "startOffenseScore": 3,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 50
+    },
+    "startYardline": 86,
+    "startYardsToGoal": 86,
+    "yards": 86
+  },
+  {
+    "defense": "Texas A&M",
+    "defenseConference": "SEC",
+    "driveNumber": 23,
+    "driveResult": "Uncategorized",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 24
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 23
+    },
+    "endYardline": 81,
+    "endYardsToGoal": 81,
+    "gameId": 401779841,
+    "id": "40177984128",
+    "isHomeOffense": false,
+    "offense": "Miami",
+    "offenseConference": "ACC",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 23
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": -1
+  }
+]

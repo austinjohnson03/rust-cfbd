@@ -1,0 +1,3194 @@
+[
+  {
+    "firstName": "Pete",
+    "hireDate": null,
+    "lastName": "Alamar",
+    "seasons": [
+      {
+        "games": 4,
+        "losses": 2,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Rice",
+        "spDefense": 30.4,
+        "spOffense": 20.5,
+        "spOverall": -11.4,
+        "srs": -8.6,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "hireDate": "2021-07-14T00:00:00.000Z",
+    "lastName": "Albin",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Ohio",
+        "spDefense": 23.9,
+        "spOffense": 27.2,
+        "spOverall": 2.3,
+        "srs": 1.7,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Blake",
+    "hireDate": "2020-12-12T00:00:00.000Z",
+    "lastName": "Anderson",
+    "seasons": [
+      {
+        "games": 0,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 40.3,
+        "spOffense": 30.2,
+        "spOverall": -10.4,
+        "srs": -11.7,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Major",
+    "hireDate": "2024-01-18T00:00:00.000Z",
+    "lastName": "Applewhite",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "South Alabama",
+        "spDefense": 26.9,
+        "spOffense": 29.9,
+        "spOverall": 2.8,
+        "srs": -1.7,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Dave",
+    "hireDate": "2020-01-22T00:00:00.000Z",
+    "lastName": "Aranda",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Baylor",
+        "spDefense": 26.2,
+        "spOffense": 33.5,
+        "spOverall": 8.4,
+        "srs": 11.5,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Shane",
+    "hireDate": "2020-12-06T00:00:00.000Z",
+    "lastName": "Beamer",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": 19,
+        "preseasonRank": null,
+        "school": "South Carolina",
+        "spDefense": 16,
+        "spOffense": 32.1,
+        "spOverall": 16.9,
+        "srs": 15.8,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "hireDate": "2022-12-04T00:00:00.000Z",
+    "lastName": "Beck",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Coastal Carolina",
+        "spDefense": 33.4,
+        "spOffense": 25.5,
+        "spOverall": -6.9,
+        "srs": -9.2,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Bret",
+    "hireDate": "2020-12-19T00:00:00.000Z",
+    "lastName": "Bielema",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": 16,
+        "preseasonRank": null,
+        "school": "Illinois",
+        "spDefense": 20.9,
+        "spOffense": 29,
+        "spOverall": 9.6,
+        "srs": 8.8,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "hireDate": "2017-12-06T00:00:00.000Z",
+    "lastName": "Bloomgren",
+    "seasons": [
+      {
+        "games": 8,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Rice",
+        "spDefense": 30.4,
+        "spOffense": 20.5,
+        "spOverall": -11.4,
+        "srs": -8.6,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Brian",
+    "hireDate": null,
+    "lastName": "Bohannon",
+    "seasons": [
+      {
+        "games": 9,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Kennesaw State",
+        "spDefense": 35.1,
+        "spOffense": 10.2,
+        "spOverall": -25.1,
+        "srs": -23.3,
+        "ties": 0,
+        "wins": 1,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "David",
+    "hireDate": "2023-07-10T00:00:00.000Z",
+    "lastName": "Braun",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Northwestern",
+        "spDefense": 24.3,
+        "spOffense": 17.5,
+        "spOverall": -8.2,
+        "srs": -3.3,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Trent",
+    "hireDate": "2023-11-28T00:00:00.000Z",
+    "lastName": "Bray",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Oregon State",
+        "spDefense": 32.7,
+        "spOffense": 26.1,
+        "spOverall": -6.7,
+        "srs": -9.2,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Brent",
+    "hireDate": "2024-01-16T00:00:00.000Z",
+    "lastName": "Brennan",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": 21,
+        "school": "Arizona",
+        "spDefense": 29,
+        "spOffense": 24.4,
+        "spOverall": -2.8,
+        "srs": -3.9,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "hireDate": null,
+    "lastName": "Brewster",
+    "seasons": [
+      {
+        "games": 2,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Charlotte",
+        "spDefense": 37.6,
+        "spOffense": 21.4,
+        "spOverall": -15.3,
+        "srs": -12.4,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jeff",
+    "hireDate": "2022-12-07T00:00:00.000Z",
+    "lastName": "Brohm",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Louisville",
+        "spDefense": 22.9,
+        "spOffense": 37.7,
+        "spOverall": 13.6,
+        "srs": 15.4,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Don",
+    "hireDate": "2021-11-22T00:00:00.000Z",
+    "lastName": "Brown",
+    "seasons": [
+      {
+        "games": 10,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Massachusetts",
+        "spDefense": 40.3,
+        "spOffense": 20.5,
+        "spOverall": -21.9,
+        "srs": -17.4,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Fran",
+    "hireDate": "2023-11-28T00:00:00.000Z",
+    "lastName": "Brown",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": 20,
+        "preseasonRank": null,
+        "school": "Syracuse",
+        "spDefense": 28.9,
+        "spOffense": 35.8,
+        "spOverall": 5.5,
+        "srs": 6,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mack",
+    "hireDate": "2018-11-27T00:00:00.000Z",
+    "lastName": "Brown",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "North Carolina",
+        "spDefense": 26.3,
+        "spOffense": 31.5,
+        "spOverall": 5,
+        "srs": 0.7,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Neal",
+    "hireDate": "2019-01-04T00:00:00.000Z",
+    "lastName": "Brown",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "West Virginia",
+        "spDefense": 29.7,
+        "spOffense": 30.1,
+        "spOverall": 2.1,
+        "srs": 1.2,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Chandler",
+    "hireDate": null,
+    "lastName": "Burks",
+    "seasons": [
+      {
+        "games": 3,
+        "losses": 2,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Kennesaw State",
+        "spDefense": 35.1,
+        "spOffense": 10.2,
+        "spOverall": -25.1,
+        "srs": -23.3,
+        "ties": 0,
+        "wins": 1,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Kenni",
+    "hireDate": "2022-12-14T00:00:00.000Z",
+    "lastName": "Burns",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 12,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Kent State",
+        "spDefense": 43.8,
+        "spOffense": 12.6,
+        "spOverall": -33,
+        "srs": -26.8,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Troy",
+    "hireDate": "2006-12-22T00:00:00.000Z",
+    "lastName": "Calhoun",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Air Force",
+        "spDefense": 27.5,
+        "spOffense": 17.8,
+        "spOverall": -11.7,
+        "srs": -11.5,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Matt",
+    "hireDate": "2015-11-29T00:00:00.000Z",
+    "lastName": "Campbell",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": 15,
+        "preseasonRank": null,
+        "school": "Iowa State",
+        "spDefense": 20.2,
+        "spOffense": 30.8,
+        "spOverall": 10.3,
+        "srs": 11.2,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jason",
+    "hireDate": "2015-12-02T00:00:00.000Z",
+    "lastName": "Candle",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Toledo",
+        "spDefense": 26.3,
+        "spOffense": 24.5,
+        "spOverall": -2.5,
+        "srs": -2,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jamey",
+    "hireDate": "2022-12-04T00:00:00.000Z",
+    "lastName": "Chadwell",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Liberty",
+        "spDefense": 26.6,
+        "spOffense": 28.2,
+        "spOverall": 0.2,
+        "srs": -9.9,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Timmy",
+    "hireDate": "2022-01-22T00:00:00.000Z",
+    "lastName": "Chang",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Hawai'i",
+        "spDefense": 30,
+        "spOffense": 20.9,
+        "spOverall": -10.9,
+        "srs": -12.9,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Bob",
+    "hireDate": "2023-12-07T00:00:00.000Z",
+    "lastName": "Chesney",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "James Madison",
+        "spDefense": 22.9,
+        "spOffense": 29.7,
+        "spOverall": 7.5,
+        "srs": 1.3,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jeff",
+    "hireDate": "2023-12-04T00:00:00.000Z",
+    "lastName": "Choate",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 10,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Nevada",
+        "spDefense": 34.2,
+        "spOffense": 21,
+        "spOverall": -15.2,
+        "srs": -9.2,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Curt",
+    "hireDate": "2023-11-30T00:00:00.000Z",
+    "lastName": "Cignetti",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 2,
+        "postseasonRank": 10,
+        "preseasonRank": null,
+        "school": "Indiana",
+        "spDefense": 16.4,
+        "spOffense": 35,
+        "spOverall": 20.1,
+        "srs": 17.7,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Shawn",
+    "hireDate": "2019-12-13T00:00:00.000Z",
+    "lastName": "Clark",
+    "seasons": [
+      {
+        "games": 11,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "App State",
+        "spDefense": 33.6,
+        "spOffense": 27.2,
+        "spOverall": -8.1,
+        "srs": -7.6,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Dave",
+    "hireDate": "2013-12-09T00:00:00.000Z",
+    "lastName": "Clawson",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Wake Forest",
+        "spDefense": 31.8,
+        "spOffense": 25.8,
+        "spOverall": -5.7,
+        "srs": -6.2,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Brad",
+    "hireDate": null,
+    "lastName": "Cornelsen",
+    "seasons": [
+      {
+        "games": 1,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Sam Houston",
+        "spDefense": 23.8,
+        "spOffense": 19,
+        "spOverall": -6.9,
+        "srs": -6.2,
+        "ties": 0,
+        "wins": 1,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Chris",
+    "hireDate": "2013-12-11T00:00:00.000Z",
+    "lastName": "Creighton",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Eastern Michigan",
+        "spDefense": 34.3,
+        "spOffense": 20.5,
+        "spOverall": -13.3,
+        "srs": -12.1,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mario",
+    "hireDate": "2021-12-06T00:00:00.000Z",
+    "lastName": "Cristobal",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": 18,
+        "preseasonRank": 19,
+        "school": "Miami",
+        "spDefense": 24.3,
+        "spOffense": 44.2,
+        "spOverall": 21.6,
+        "srs": 15.5,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Sonny",
+    "hireDate": "2021-11-30T00:00:00.000Z",
+    "lastName": "Cumbie",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Louisiana Tech",
+        "spDefense": 26.3,
+        "spOffense": 15.9,
+        "spOverall": -11.6,
+        "srs": -12.6,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Spencer",
+    "hireDate": "2023-12-03T00:00:00.000Z",
+    "lastName": "Danielson",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 2,
+        "postseasonRank": 8,
+        "preseasonRank": null,
+        "school": "Boise State",
+        "spDefense": 24.2,
+        "spOffense": 35.3,
+        "spOverall": 10.1,
+        "srs": 9.9,
+        "ties": 0,
+        "wins": 12,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Ryan",
+    "hireDate": "2018-12-04T00:00:00.000Z",
+    "lastName": "Day",
+    "seasons": [
+      {
+        "games": 16,
+        "losses": 2,
+        "postseasonRank": 1,
+        "preseasonRank": 2,
+        "school": "Ohio State",
+        "spDefense": 9.2,
+        "spOffense": 39.5,
+        "spOverall": 31.2,
+        "srs": 24.6,
+        "ties": 0,
+        "wins": 14,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Kalen",
+    "hireDate": "2024-01-12T00:00:00.000Z",
+    "lastName": "DeBoer",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": 17,
+        "preseasonRank": 5,
+        "school": "Alabama",
+        "spDefense": 14.6,
+        "spOffense": 37.9,
+        "spOverall": 25,
+        "srs": 18.1,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "hireDate": "2021-12-05T00:00:00.000Z",
+    "lastName": "Desormeaux",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Louisiana",
+        "spDefense": 27.8,
+        "spOffense": 31.5,
+        "spOverall": 4.8,
+        "srs": -1.7,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Manny",
+    "hireDate": "2023-12-07T00:00:00.000Z",
+    "lastName": "Diaz",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Duke",
+        "spDefense": 21.3,
+        "spOffense": 26.7,
+        "spOverall": 5.6,
+        "srs": 1.6,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jake",
+    "hireDate": "2021-10-18T00:00:00.000Z",
+    "lastName": "Dickert",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Washington State",
+        "spDefense": 31.1,
+        "spOffense": 34,
+        "spOverall": 1.3,
+        "srs": -0.3,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Trent",
+    "hireDate": "2022-11-30T00:00:00.000Z",
+    "lastName": "Dilfer",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "UAB",
+        "spDefense": 38,
+        "spOffense": 25.9,
+        "spOverall": -11.3,
+        "srs": -11.6,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Kenny",
+    "hireDate": "2022-11-27T00:00:00.000Z",
+    "lastName": "Dillingham",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": 7,
+        "preseasonRank": null,
+        "school": "Arizona State",
+        "spDefense": 20.9,
+        "spOffense": 32.4,
+        "spOverall": 9.4,
+        "srs": 13.4,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Dave",
+    "hireDate": "2012-12-01T00:00:00.000Z",
+    "lastName": "Doeren",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": 24,
+        "school": "NC State",
+        "spDefense": 26.5,
+        "spOffense": 29.9,
+        "spOverall": 3.9,
+        "srs": -2.1,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Stan",
+    "hireDate": "2021-12-15T00:00:00.000Z",
+    "lastName": "Drayton",
+    "seasons": [
+      {
+        "games": 10,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Temple",
+        "spDefense": 37.8,
+        "spOffense": 17.3,
+        "spOverall": -20.3,
+        "srs": -17,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Nate",
+    "hireDate": null,
+    "lastName": "Dreiling",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 40.3,
+        "spOffense": 30.2,
+        "spOverall": -10.4,
+        "srs": -11.7,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Eli",
+    "hireDate": "2019-12-09T00:00:00.000Z",
+    "lastName": "Drinkwitz",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": 22,
+        "preseasonRank": 11,
+        "school": "Missouri",
+        "spDefense": 18.7,
+        "spOffense": 33.7,
+        "spOverall": 14,
+        "srs": 8.9,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Sonny",
+    "hireDate": "2021-11-29T00:00:00.000Z",
+    "lastName": "Dykes",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "TCU",
+        "spDefense": 22.8,
+        "spOffense": 34.6,
+        "spOverall": 10.8,
+        "srs": 9.2,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "hireDate": "2023-11-27T00:00:00.000Z",
+    "lastName": "Elko",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": 20,
+        "school": "Texas A&M",
+        "spDefense": 18.6,
+        "spOffense": 34,
+        "spOverall": 17,
+        "srs": 12.2,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Shawn",
+    "hireDate": "2016-12-08T00:00:00.000Z",
+    "lastName": "Elliott",
+    "seasons": [
+      {
+        "games": 0,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Georgia State",
+        "spDefense": 37.4,
+        "spOffense": 21,
+        "spOverall": -17.9,
+        "srs": -12.9,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tony",
+    "hireDate": "2021-12-10T00:00:00.000Z",
+    "lastName": "Elliott",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Virginia",
+        "spDefense": 29.3,
+        "spOffense": 23.7,
+        "spOverall": -5.1,
+        "srs": -1.9,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Kirk",
+    "hireDate": "1998-12-02T00:00:00.000Z",
+    "lastName": "Ferentz",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": 25,
+        "school": "Iowa",
+        "spDefense": 13.3,
+        "spOffense": 27,
+        "spOverall": 15.8,
+        "srs": 12.4,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Luke",
+    "hireDate": "2022-11-27T00:00:00.000Z",
+    "lastName": "Fickell",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Wisconsin",
+        "spDefense": 19.8,
+        "spOffense": 23,
+        "spOverall": 3,
+        "srs": 4,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jedd",
+    "hireDate": "2024-01-14T00:00:00.000Z",
+    "lastName": "Fisch",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Washington",
+        "spDefense": 22.4,
+        "spOffense": 27.3,
+        "spOverall": 3.1,
+        "srs": 4.8,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "P.J.",
+    "hireDate": "2017-01-06T00:00:00.000Z",
+    "lastName": "Fleck",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Minnesota",
+        "spDefense": 15.4,
+        "spOffense": 25.6,
+        "spOverall": 10.4,
+        "srs": 12.6,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Deshaun",
+    "hireDate": "2024-02-12T00:00:00.000Z",
+    "lastName": "Foster",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "UCLA",
+        "spDefense": 23.3,
+        "spOffense": 21.3,
+        "spOverall": -1.3,
+        "srs": 2.1,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "James",
+    "hireDate": "2014-01-11T00:00:00.000Z",
+    "lastName": "Franklin",
+    "seasons": [
+      {
+        "games": 16,
+        "losses": 3,
+        "postseasonRank": 5,
+        "preseasonRank": 8,
+        "school": "Penn State",
+        "spDefense": 13.1,
+        "spOffense": 37.5,
+        "spOverall": 24.6,
+        "srs": 19.3,
+        "ties": 0,
+        "wins": 13,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Marcus",
+    "hireDate": "2021-12-03T00:00:00.000Z",
+    "lastName": "Freeman",
+    "seasons": [
+      {
+        "games": 16,
+        "losses": 2,
+        "postseasonRank": 2,
+        "preseasonRank": 7,
+        "school": "Notre Dame",
+        "spDefense": 14.1,
+        "spOffense": 38.6,
+        "spOverall": 23.9,
+        "srs": 22,
+        "ties": 0,
+        "wins": 14,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Hugh",
+    "hireDate": "2022-11-29T00:00:00.000Z",
+    "lastName": "Freeze",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Auburn",
+        "spDefense": 17.8,
+        "spOffense": 27.9,
+        "spOverall": 9.5,
+        "srs": 6.3,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Willie",
+    "hireDate": null,
+    "lastName": "Fritz",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Houston",
+        "spDefense": 24.5,
+        "spOffense": 18.1,
+        "spOverall": -8.2,
+        "srs": -2,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Alex",
+    "hireDate": "2022-12-04T00:00:00.000Z",
+    "lastName": "Golesh",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "South Florida",
+        "spDefense": 33.4,
+        "spOffense": 29.5,
+        "spOverall": -2.3,
+        "srs": -4.5,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "hireDate": "2005-01-03T00:00:00.000Z",
+    "lastName": "Gundy",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": 17,
+        "school": "Oklahoma State",
+        "spDefense": 31.7,
+        "spOffense": 29.4,
+        "spOverall": -2.6,
+        "srs": -1.8,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Will",
+    "hireDate": "2020-12-02T00:00:00.000Z",
+    "lastName": "Hall",
+    "seasons": [
+      {
+        "games": 7,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Southern Miss",
+        "spDefense": 39.4,
+        "spOffense": 14.4,
+        "spOverall": -25.6,
+        "srs": -23.9,
+        "ties": 0,
+        "wins": 1,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Thomas",
+    "hireDate": "2019-01-18T00:00:00.000Z",
+    "lastName": "Hammock",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Northern Illinois",
+        "spDefense": 21.6,
+        "spOffense": 20,
+        "spOverall": -3.5,
+        "srs": -1.1,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Blake",
+    "hireDate": null,
+    "lastName": "Harrell",
+    "seasons": [
+      {
+        "games": 6,
+        "losses": 1,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "East Carolina",
+        "spDefense": 29.7,
+        "spOffense": 28.5,
+        "spOverall": -1,
+        "srs": -5.3,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Clay",
+    "hireDate": "2021-11-02T00:00:00.000Z",
+    "lastName": "Helton",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Georgia Southern",
+        "spDefense": 30.1,
+        "spOffense": 26.5,
+        "spOverall": -1.7,
+        "srs": -2.5,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tyson",
+    "hireDate": "2018-11-27T00:00:00.000Z",
+    "lastName": "Helton",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Western Kentucky",
+        "spDefense": 26.1,
+        "spOffense": 22.1,
+        "spOverall": -2.2,
+        "srs": -5.4,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tom",
+    "hireDate": "2022-12-01T00:00:00.000Z",
+    "lastName": "Herman",
+    "seasons": [
+      {
+        "games": 10,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Florida Atlantic",
+        "spDefense": 32.1,
+        "spOffense": 20.8,
+        "spOverall": -12.7,
+        "srs": -15.4,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Josh",
+    "hireDate": "2021-01-27T00:00:00.000Z",
+    "lastName": "Heupel",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": 9,
+        "preseasonRank": 15,
+        "school": "Tennessee",
+        "spDefense": 13.5,
+        "spOffense": 33.7,
+        "spOverall": 22,
+        "srs": 14.3,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Dana",
+    "hireDate": "2019-01-01T00:00:00.000Z",
+    "lastName": "Holgorsen",
+    "seasons": [
+      {
+        "games": 0,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Houston",
+        "spDefense": 24.5,
+        "spOffense": 18.1,
+        "spOverall": -8.2,
+        "srs": -2,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "hireDate": "2018-12-03T00:00:00.000Z",
+    "lastName": "Houston",
+    "seasons": [
+      {
+        "games": 7,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "East Carolina",
+        "spDefense": 29.7,
+        "spOffense": 28.5,
+        "spOverall": -1,
+        "srs": -5.3,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Charles",
+    "hireDate": "2021-01-16T00:00:00.000Z",
+    "lastName": "Huff",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Marshall",
+        "spDefense": 26.9,
+        "spOffense": 29.6,
+        "spOverall": 3.1,
+        "srs": 3.5,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Colin",
+    "hireDate": null,
+    "lastName": "Johnson",
+    "seasons": [
+      {
+        "games": 2,
+        "losses": 2,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Ball State",
+        "spDefense": 40.8,
+        "spOffense": 21.3,
+        "spOverall": -19.8,
+        "srs": -13.4,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Butch",
+    "hireDate": "2020-12-12T00:00:00.000Z",
+    "lastName": "Jones",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Arkansas State",
+        "spDefense": 35.2,
+        "spOffense": 24.6,
+        "spOverall": -9.9,
+        "srs": -11.5,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Pete",
+    "hireDate": null,
+    "lastName": "Kaligis",
+    "seasons": [
+      {
+        "games": 1,
+        "losses": 1,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Washington State",
+        "spDefense": 31.1,
+        "spOffense": 34,
+        "spOverall": 1.3,
+        "srs": -0.3,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "K.C.",
+    "hireDate": "2014-01-23T00:00:00.000Z",
+    "lastName": "Keeler",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Sam Houston",
+        "spDefense": 23.8,
+        "spOffense": 19,
+        "spOverall": -6.9,
+        "srs": -6.2,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Brian",
+    "hireDate": "2021-11-30T00:00:00.000Z",
+    "lastName": "Kelly",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": 13,
+        "school": "LSU",
+        "spDefense": 21.7,
+        "spOffense": 36.8,
+        "spOverall": 15.9,
+        "srs": 12.9,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Brent",
+    "hireDate": "2022-11-29T00:00:00.000Z",
+    "lastName": "Key",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Georgia Tech",
+        "spDefense": 27.9,
+        "spOffense": 31.1,
+        "spOverall": 1.9,
+        "srs": 5.5,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Lane",
+    "hireDate": "2019-12-07T00:00:00.000Z",
+    "lastName": "Kiffin",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": 11,
+        "preseasonRank": 6,
+        "school": "Ole Miss",
+        "spDefense": 11.9,
+        "spOffense": 37.7,
+        "spOverall": 27.9,
+        "srs": 19.2,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "G.J.",
+    "hireDate": "2022-12-02T00:00:00.000Z",
+    "lastName": "Kinne",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Texas State",
+        "spDefense": 28.4,
+        "spOffense": 34.2,
+        "spOverall": 5.4,
+        "srs": 0.9,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Freddie",
+    "hireDate": null,
+    "lastName": "Kitchens",
+    "seasons": [
+      {
+        "games": 1,
+        "losses": 1,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "North Carolina",
+        "spDefense": 26.3,
+        "spOffense": 31.5,
+        "spOverall": 5,
+        "srs": 0.7,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Chris",
+    "hireDate": "2018-12-10T00:00:00.000Z",
+    "lastName": "Klieman",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": 18,
+        "school": "Kansas State",
+        "spDefense": 20.4,
+        "spOffense": 33,
+        "spOverall": 14.1,
+        "srs": 11.8,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Dan",
+    "hireDate": "2021-12-11T00:00:00.000Z",
+    "lastName": "Lanning",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 1,
+        "postseasonRank": 3,
+        "preseasonRank": 3,
+        "school": "Oregon",
+        "spDefense": 16.3,
+        "spOffense": 40.8,
+        "spOverall": 26,
+        "srs": 17.1,
+        "ties": 0,
+        "wins": 13,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Rhett",
+    "hireDate": "2021-11-30T00:00:00.000Z",
+    "lastName": "Lashlee",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": 12,
+        "preseasonRank": null,
+        "school": "SMU",
+        "spDefense": 21.1,
+        "spOffense": 38.2,
+        "spOverall": 17.5,
+        "srs": 15.7,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Clark",
+    "hireDate": "2020-12-14T00:00:00.000Z",
+    "lastName": "Lea",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Vanderbilt",
+        "spDefense": 25.4,
+        "spOffense": 28.2,
+        "spOverall": 4.9,
+        "srs": 7.4,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jeff",
+    "hireDate": "2023-11-26T00:00:00.000Z",
+    "lastName": "Lebby",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 10,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Mississippi State",
+        "spDefense": 31.2,
+        "spOffense": 25.5,
+        "spOverall": -4.1,
+        "srs": -1.6,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Lance",
+    "hireDate": "2021-04-30T00:00:00.000Z",
+    "lastName": "Leipold",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": 22,
+        "school": "Kansas",
+        "spDefense": 26.5,
+        "spOffense": 32.4,
+        "spOverall": 4.9,
+        "srs": 10.8,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Pete",
+    "hireDate": null,
+    "lastName": "Lembo",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Buffalo",
+        "spDefense": 30.2,
+        "spOffense": 25.4,
+        "spOverall": -4,
+        "srs": -6.1,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Sean",
+    "hireDate": "2023-11-29T00:00:00.000Z",
+    "lastName": "Lewis",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "San Diego State",
+        "spDefense": 32.1,
+        "spOffense": 17.7,
+        "spOverall": -15.4,
+        "srs": -16.6,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Maurice",
+    "hireDate": "2014-12-01T00:00:00.000Z",
+    "lastName": "Linguist",
+    "seasons": [
+      {
+        "games": 0,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Buffalo",
+        "spDefense": 30.2,
+        "spOffense": 25.4,
+        "spOverall": -4,
+        "srs": -6.1,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "hireDate": "2018-12-04T00:00:00.000Z",
+    "lastName": "Locksley",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Maryland",
+        "spDefense": 27.1,
+        "spOffense": 23.3,
+        "spOverall": -3.9,
+        "srs": -2,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Scot",
+    "hireDate": "2018-11-28T00:00:00.000Z",
+    "lastName": "Loeffler",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Bowling Green",
+        "spDefense": 27.2,
+        "spOffense": 25.6,
+        "spOverall": -1.8,
+        "srs": -1.9,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Chad",
+    "hireDate": null,
+    "lastName": "Lunsford",
+    "seasons": [
+      {
+        "games": 2,
+        "losses": 1,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Florida Atlantic",
+        "spDefense": 32.1,
+        "spOffense": 20.8,
+        "spOverall": -12.7,
+        "srs": -15.4,
+        "ties": 0,
+        "wins": 1,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "hireDate": "2021-12-09T00:00:00.000Z",
+    "lastName": "MacIntyre",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Florida International",
+        "spDefense": 31.3,
+        "spOffense": 20.5,
+        "spOverall": -12.1,
+        "srs": -11.6,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Gus",
+    "hireDate": "2021-02-15T00:00:00.000Z",
+    "lastName": "Malzahn",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "UCF",
+        "spDefense": 25.8,
+        "spOffense": 29,
+        "spOverall": 2.8,
+        "srs": 6.2,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Chuck",
+    "hireDate": "2013-12-03T00:00:00.000Z",
+    "lastName": "Martin",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Miami (OH)",
+        "spDefense": 23.2,
+        "spOffense": 23.2,
+        "spOverall": 1.3,
+        "srs": -0.1,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Derek",
+    "hireDate": "2023-12-06T00:00:00.000Z",
+    "lastName": "Mason",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Middle Tennessee",
+        "spDefense": 37.3,
+        "spOffense": 13.7,
+        "spOverall": -24.4,
+        "srs": -23.2,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jim",
+    "hireDate": "2018-12-03T00:00:00.000Z",
+    "lastName": "McElwain",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Central Michigan",
+        "spDefense": 34.3,
+        "spOffense": 17.7,
+        "spOverall": -15.8,
+        "srs": -13.1,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Dell",
+    "hireDate": null,
+    "lastName": "McGee",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Georgia State",
+        "spDefense": 37.4,
+        "spOffense": 21,
+        "spOverall": -17.9,
+        "srs": -12.9,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Joey",
+    "hireDate": "2021-11-08T00:00:00.000Z",
+    "lastName": "McGuire",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Texas Tech",
+        "spDefense": 30.8,
+        "spOffense": 33.5,
+        "spOverall": 4.3,
+        "srs": 3.9,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Bronco",
+    "hireDate": "2023-12-05T00:00:00.000Z",
+    "lastName": "Mendenhall",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "New Mexico",
+        "spDefense": 40.5,
+        "spOffense": 27.6,
+        "spOverall": -14.8,
+        "srs": -12.4,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jeff",
+    "hireDate": "2013-12-24T00:00:00.000Z",
+    "lastName": "Monken",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 2,
+        "postseasonRank": 21,
+        "preseasonRank": null,
+        "school": "Army",
+        "spDefense": 21.7,
+        "spOffense": 31.1,
+        "spOverall": 9.2,
+        "srs": 6.6,
+        "ties": 0,
+        "wins": 12,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Shane",
+    "hireDate": null,
+    "lastName": "Montgomery",
+    "seasons": [
+      {
+        "games": 2,
+        "losses": 2,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Massachusetts",
+        "spDefense": 40.3,
+        "spOffense": 20.5,
+        "spOverall": -21.9,
+        "srs": -17.4,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Sherrone",
+    "hireDate": "2024-01-26T00:00:00.000Z",
+    "lastName": "Moore",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": 9,
+        "school": "Michigan",
+        "spDefense": 15.1,
+        "spOffense": 24.1,
+        "spOverall": 10.6,
+        "srs": 8.9,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Joe",
+    "hireDate": "2021-12-04T00:00:00.000Z",
+    "lastName": "Moorhead",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Akron",
+        "spDefense": 34.6,
+        "spOffense": 15.7,
+        "spOverall": -17.9,
+        "srs": -12.9,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jim",
+    "hireDate": "2021-11-11T00:00:00.000Z",
+    "lastName": "Mora",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "UConn",
+        "spDefense": 25.7,
+        "spOffense": 26.9,
+        "spOverall": 1.5,
+        "srs": -1.1,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Eric",
+    "hireDate": "2022-12-13T00:00:00.000Z",
+    "lastName": "Morris",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "North Texas",
+        "spDefense": 37,
+        "spOffense": 33.3,
+        "spOverall": -4.5,
+        "srs": -5.5,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Billy",
+    "hireDate": "2021-11-28T00:00:00.000Z",
+    "lastName": "Napier",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Florida",
+        "spDefense": 20,
+        "spOffense": 31.7,
+        "spOverall": 13.8,
+        "srs": 11.7,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Pat",
+    "hireDate": "2014-12-16T00:00:00.000Z",
+    "lastName": "Narduzzi",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Pittsburgh",
+        "spDefense": 26.3,
+        "spOffense": 29.3,
+        "spOverall": 4.9,
+        "srs": 4.5,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "hireDate": "2016-01-17T00:00:00.000Z",
+    "lastName": "Neu",
+    "seasons": [
+      {
+        "games": 10,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Ball State",
+        "spDefense": 40.8,
+        "spOffense": 21.3,
+        "spOverall": -19.8,
+        "srs": -13.4,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Brian",
+    "hireDate": "2022-12-19T00:00:00.000Z",
+    "lastName": "Newberry",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Navy",
+        "spDefense": 24.4,
+        "spOffense": 29.5,
+        "spOverall": 3.5,
+        "srs": 5.7,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Ken",
+    "hireDate": "2024-01-21T00:00:00.000Z",
+    "lastName": "Niumatalolo",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "San José State",
+        "spDefense": 30.1,
+        "spOffense": 26.1,
+        "spOverall": -5.5,
+        "srs": -7.1,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jay",
+    "hireDate": "2021-12-06T00:00:00.000Z",
+    "lastName": "Norvell",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Colorado State",
+        "spDefense": 29.2,
+        "spOffense": 24.2,
+        "spOverall": -5.7,
+        "srs": -8.2,
+        "ties": 0,
+        "wins": 8,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "hireDate": "2019-12-07T00:00:00.000Z",
+    "lastName": "Norvell",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 10,
+        "postseasonRank": null,
+        "preseasonRank": 10,
+        "school": "Florida State",
+        "spDefense": 25.3,
+        "spOffense": 20.1,
+        "spOverall": -3.2,
+        "srs": -6.7,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Bill",
+    "hireDate": "2024-02-09T00:00:00.000Z",
+    "lastName": "O'Brien",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Boston College",
+        "spDefense": 24.7,
+        "spOffense": 28,
+        "spOverall": 1.2,
+        "srs": 6.1,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Barry",
+    "hireDate": "2022-12-06T00:00:00.000Z",
+    "lastName": "Odom",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": 23,
+        "preseasonRank": null,
+        "school": "UNLV",
+        "spDefense": 24.6,
+        "spOffense": 32.6,
+        "spOverall": 9.3,
+        "srs": 7.2,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Gerad",
+    "hireDate": "2023-12-18T00:00:00.000Z",
+    "lastName": "Parker",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Troy",
+        "spDefense": 30.1,
+        "spOffense": 24.1,
+        "spOverall": -6.6,
+        "srs": -9.6,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Sam",
+    "hireDate": "2019-12-08T00:00:00.000Z",
+    "lastName": "Pittman",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Arkansas",
+        "spDefense": 21.7,
+        "spOffense": 31.4,
+        "spOverall": 11,
+        "srs": 6.1,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Biff",
+    "hireDate": "2022-11-15T00:00:00.000Z",
+    "lastName": "Poggi",
+    "seasons": [
+      {
+        "games": 10,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Charlotte",
+        "spDefense": 37.6,
+        "spOffense": 21.4,
+        "spOverall": -15.3,
+        "srs": -12.4,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Brent",
+    "hireDate": "2021-11-30T00:00:00.000Z",
+    "lastName": "Pry",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Virginia Tech",
+        "spDefense": 22.4,
+        "spOffense": 31.3,
+        "spOverall": 10,
+        "srs": 10.4,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Ricky",
+    "hireDate": "2019-12-07T00:00:00.000Z",
+    "lastName": "Rahne",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Old Dominion",
+        "spDefense": 31.3,
+        "spOffense": 25.7,
+        "spOverall": -6,
+        "srs": -1.6,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Matt",
+    "hireDate": "2022-11-26T00:00:00.000Z",
+    "lastName": "Rhule",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Nebraska",
+        "spDefense": 15.8,
+        "spOffense": 23.1,
+        "spOverall": 5.5,
+        "srs": 8.5,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Lincoln",
+    "hireDate": "2021-11-28T00:00:00.000Z",
+    "lastName": "Riley",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": 23,
+        "school": "USC",
+        "spDefense": 24,
+        "spOffense": 35.6,
+        "spOverall": 11.9,
+        "srs": 12.1,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Rich",
+    "hireDate": "2021-11-30T00:00:00.000Z",
+    "lastName": "Rodriguez",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Jacksonville State",
+        "spDefense": 28.3,
+        "spOffense": 28.8,
+        "spOverall": -1,
+        "srs": -2.8,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tony",
+    "hireDate": "2023-12-23T00:00:00.000Z",
+    "lastName": "Sanchez",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "New Mexico State",
+        "spDefense": 38.1,
+        "spOffense": 17.8,
+        "spOverall": -19,
+        "srs": -22.1,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Deion",
+    "hireDate": "2022-12-03T00:00:00.000Z",
+    "lastName": "Sanders",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 4,
+        "postseasonRank": 25,
+        "preseasonRank": null,
+        "school": "Colorado",
+        "spDefense": 23.5,
+        "spOffense": 33.3,
+        "spOverall": 8.1,
+        "srs": 12.7,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Steve",
+    "hireDate": "2021-01-02T00:00:00.000Z",
+    "lastName": "Sarkisian",
+    "seasons": [
+      {
+        "games": 16,
+        "losses": 3,
+        "postseasonRank": 4,
+        "preseasonRank": 4,
+        "school": "Texas",
+        "spDefense": 10.8,
+        "spOffense": 36.6,
+        "spOverall": 24.1,
+        "srs": 19.4,
+        "ties": 0,
+        "wins": 13,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Scott",
+    "hireDate": "2022-12-05T00:00:00.000Z",
+    "lastName": "Satterfield",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Cincinnati",
+        "spDefense": 25,
+        "spOffense": 25.6,
+        "spOverall": -0.1,
+        "srs": 4.4,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jay",
+    "hireDate": "2023-12-06T00:00:00.000Z",
+    "lastName": "Sawvel",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Wyoming",
+        "spDefense": 30.8,
+        "spOffense": 16.3,
+        "spOverall": -13.6,
+        "srs": -12.1,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Greg",
+    "hireDate": "2019-11-30T00:00:00.000Z",
+    "lastName": "Schiano",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Rutgers",
+        "spDefense": 22.8,
+        "spOffense": 28.5,
+        "spOverall": 6.4,
+        "srs": 5.1,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Chad",
+    "hireDate": null,
+    "lastName": "Scott",
+    "seasons": [
+      {
+        "games": 1,
+        "losses": 1,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "West Virginia",
+        "spDefense": 29.7,
+        "spOffense": 30.1,
+        "spOverall": 2.1,
+        "srs": 1.2,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Ryan",
+    "hireDate": "2019-12-13T00:00:00.000Z",
+    "lastName": "Silverfield",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 2,
+        "postseasonRank": 24,
+        "preseasonRank": null,
+        "school": "Memphis",
+        "spDefense": 28.2,
+        "spOffense": 36.7,
+        "spOverall": 9.6,
+        "srs": 3.2,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Kalani",
+    "hireDate": "2015-12-19T00:00:00.000Z",
+    "lastName": "Sitake",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 2,
+        "postseasonRank": 13,
+        "preseasonRank": null,
+        "school": "BYU",
+        "spDefense": 18.8,
+        "spOffense": 32,
+        "spOverall": 15.3,
+        "srs": 14.8,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "hireDate": "2024-07-15T00:00:00.000Z",
+    "lastName": "Skipper",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Fresno State",
+        "spDefense": 27.6,
+        "spOffense": 25.1,
+        "spOverall": -3.8,
+        "srs": -6,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Kirby",
+    "hireDate": "2015-12-06T00:00:00.000Z",
+    "lastName": "Smart",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": 6,
+        "preseasonRank": 1,
+        "school": "Georgia",
+        "spDefense": 14.9,
+        "spOffense": 37.3,
+        "spOverall": 24.3,
+        "srs": 16.3,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jonathan",
+    "hireDate": "2023-11-25T00:00:00.000Z",
+    "lastName": "Smith",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Michigan State",
+        "spDefense": 24.1,
+        "spOffense": 18,
+        "spOverall": -4.6,
+        "srs": -2.8,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Mark",
+    "hireDate": "2012-11-27T00:00:00.000Z",
+    "lastName": "Stoops",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Kentucky",
+        "spDefense": 20.9,
+        "spOffense": 24.5,
+        "spOverall": 5.5,
+        "srs": 3,
+        "ties": 0,
+        "wins": 4,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Reed",
+    "hireDate": null,
+    "lastName": "Stringer",
+    "seasons": [
+      {
+        "games": 5,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Southern Miss",
+        "spDefense": 39.4,
+        "spOffense": 14.4,
+        "spOverall": -25.6,
+        "srs": -23.9,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jon",
+    "hireDate": "2023-12-08T00:00:00.000Z",
+    "lastName": "Sumrall",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Tulane",
+        "spDefense": 27.1,
+        "spOffense": 32.9,
+        "spOverall": 5.7,
+        "srs": 7.4,
+        "ties": 0,
+        "wins": 9,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Dabo",
+    "hireDate": "2008-10-15T00:00:00.000Z",
+    "lastName": "Swinney",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 4,
+        "postseasonRank": 14,
+        "preseasonRank": 14,
+        "school": "Clemson",
+        "spDefense": 20.9,
+        "spOffense": 35.4,
+        "spOverall": 13.3,
+        "srs": 11.9,
+        "ties": 0,
+        "wins": 10,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Ryan",
+    "hireDate": null,
+    "lastName": "Switzer",
+    "seasons": [
+      {
+        "games": 1,
+        "losses": 1,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Tulsa",
+        "spDefense": 40.3,
+        "spOffense": 21.2,
+        "spOverall": -20.6,
+        "srs": -23.8,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Lance",
+    "hireDate": "2022-12-08T00:00:00.000Z",
+    "lastName": "Taylor",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Western Michigan",
+        "spDefense": 36,
+        "spOffense": 24.7,
+        "spOverall": -10.2,
+        "srs": -7.6,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Troy",
+    "hireDate": "2022-12-10T00:00:00.000Z",
+    "lastName": "Taylor",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Stanford",
+        "spDefense": 34.1,
+        "spOffense": 24.4,
+        "spOverall": -8.2,
+        "srs": -5.7,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Jeff",
+    "hireDate": "2019-12-09T00:00:00.000Z",
+    "lastName": "Traylor",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "UTSA",
+        "spDefense": 31.5,
+        "spOffense": 32.3,
+        "spOverall": 2.2,
+        "srs": -3.6,
+        "ties": 0,
+        "wins": 7,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Brent",
+    "hireDate": "2021-12-05T00:00:00.000Z",
+    "lastName": "Venables",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": 16,
+        "school": "Oklahoma",
+        "spDefense": 17.8,
+        "spOffense": 25.9,
+        "spOverall": 9.5,
+        "srs": 7,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Bryant",
+    "hireDate": "2023-12-05T00:00:00.000Z",
+    "lastName": "Vincent",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "UL Monroe",
+        "spDefense": 32.5,
+        "spOffense": 16.9,
+        "spOverall": -16.7,
+        "srs": -9.8,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Scotty",
+    "hireDate": "2023-12-04T00:00:00.000Z",
+    "lastName": "Walden",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "UTEP",
+        "spDefense": 34.2,
+        "spOffense": 13.7,
+        "spOverall": -22.7,
+        "srs": -20.2,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Ryan",
+    "hireDate": "2022-12-13T00:00:00.000Z",
+    "lastName": "Walters",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 11,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Purdue",
+        "spDefense": 33.6,
+        "spOffense": 19.2,
+        "spOverall": -16.2,
+        "srs": -8,
+        "ties": 0,
+        "wins": 1,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Kyle",
+    "hireDate": "2004-12-08T00:00:00.000Z",
+    "lastName": "Whittingham",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": 12,
+        "school": "Utah",
+        "spDefense": 17.2,
+        "spOffense": 23.6,
+        "spOverall": 7.7,
+        "srs": 6.1,
+        "ties": 0,
+        "wins": 5,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Justin",
+    "hireDate": "2017-01-14T00:00:00.000Z",
+    "lastName": "Wilcox",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "California",
+        "spDefense": 22.9,
+        "spOffense": 27.4,
+        "spOverall": 4,
+        "srs": 1.8,
+        "ties": 0,
+        "wins": 6,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Kevin",
+    "hireDate": "2022-12-05T00:00:00.000Z",
+    "lastName": "Wilson",
+    "seasons": [
+      {
+        "games": 11,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Tulsa",
+        "spDefense": 40.3,
+        "spOffense": 21.2,
+        "spOverall": -20.6,
+        "srs": -23.8,
+        "ties": 0,
+        "wins": 3,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Everett",
+    "hireDate": null,
+    "lastName": "Withers",
+    "seasons": [
+      {
+        "games": 2,
+        "losses": 2,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Temple",
+        "spDefense": 37.8,
+        "spOffense": 17.3,
+        "spOverall": -20.3,
+        "srs": -17,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  }
+]
