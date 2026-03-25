@@ -113,28 +113,28 @@ impl<Q> DriveQueryBuilder<Q> {
         self.week = Some(week);
         self
     }
-    pub fn team(mut self, team: String) -> Self {
-        self.team = Some(team);
+    pub fn team(mut self, team: impl Into<String>) -> Self {
+        self.team = Some(team.into());
         self
     }
-    pub fn offense(mut self, offense: String) -> Self {
-        self.offense = Some(offense);
+    pub fn offense(mut self, offense: impl Into<String>) -> Self {
+        self.offense = Some(offense.into());
         self
     }
-    pub fn defense(mut self, defense: String) -> Self {
-        self.defense = Some(defense);
+    pub fn defense(mut self, defense: impl Into<String>) -> Self {
+        self.defense = Some(defense.into());
         self
     }
-    pub fn conference(mut self, conference: String) -> Self {
-        self.conference = Some(conference);
+    pub fn conference(mut self, conference: impl Into<String>) -> Self {
+        self.conference = Some(conference.into());
         self
     }
-    pub fn offense_conference(mut self, offense_conference: String) -> Self {
-        self.offense_conference = Some(offense_conference);
+    pub fn offense_conference(mut self, offense_conference: impl Into<String>) -> Self {
+        self.offense_conference = Some(offense_conference.into());
         self
     }
-    pub fn defense_conference(mut self, defense_conference: String) -> Self {
-        self.defense_conference = Some(defense_conference);
+    pub fn defense_conference(mut self, defense_conference: impl Into<String>) -> Self {
+        self.defense_conference = Some(defense_conference.into());
         self
     }
     pub fn classification(mut self, classification: DivisionClassification) -> Self {
