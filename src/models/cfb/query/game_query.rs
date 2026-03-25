@@ -104,20 +104,20 @@ impl<Q> GameQueryBuilder<Q> {
         self.classification = Some(classification);
         self
     }
-    pub fn team(mut self, team: String) -> Self {
-        self.team = Some(team);
+    pub fn team(mut self, team: impl Into<String>) -> Self {
+        self.team = Some(team.into());
         self
     }
-    pub fn home(mut self, home: String) -> Self {
-        self.home = Some(home);
+    pub fn home(mut self, home: impl Into<String>) -> Self {
+        self.home = Some(home.into());
         self
     }
-    pub fn away(mut self, away: String) -> Self {
-        self.away = Some(away);
+    pub fn away(mut self, away: impl Into<String>) -> Self {
+        self.away = Some(away.into());
         self
     }
-    pub fn conference(mut self, conference: String) -> Self {
-        self.conference = Some(conference);
+    pub fn conference(mut self, conference: impl Into<String>) -> Self {
+        self.conference = Some(conference.into());
         self
     }
 }
