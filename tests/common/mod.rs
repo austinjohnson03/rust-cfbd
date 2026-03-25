@@ -9,6 +9,13 @@ pub use stubs::coaches::{
     mount_coaches_no_params_stub, mount_coaches_team_param_stub, mount_coaches_year_param_stub,
 };
 pub use stubs::conferences::mount_conference_no_params_stub;
+pub use stubs::drives::{
+    mount_drives_classification_param_stub, mount_drives_conference_param_stub,
+    mount_drives_off_conference_def_conference_params_stub,
+    mount_drives_offense_defense_param_stub, mount_drives_required_year_stub,
+    mount_drives_season_type_param_stub, mount_drives_team_param_stub,
+    mount_drives_week_param_stub,
+};
 
 mod stubs;
 
@@ -32,6 +39,16 @@ pub async fn get_server() -> &'static MockServer {
 
     // conferences
     mount_conference_no_params_stub(&server).await;
+
+    // drives
+    mount_drives_off_conference_def_conference_params_stub(&server).await;
+    mount_drives_offense_defense_param_stub(&server).await;
+    mount_drives_classification_param_stub(&server).await;
+    mount_drives_conference_param_stub(&server).await;
+    mount_drives_season_type_param_stub(&server).await;
+    mount_drives_team_param_stub(&server).await;
+    mount_drives_week_param_stub(&server).await;
+    mount_drives_required_year_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }
