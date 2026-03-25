@@ -8,6 +8,7 @@ pub use stubs::coaches::{
     mount_coaches_max_year_param_stub, mount_coaches_min_year_param_stub,
     mount_coaches_no_params_stub, mount_coaches_team_param_stub, mount_coaches_year_param_stub,
 };
+pub use stubs::conferences::mount_conference_no_params_stub;
 
 mod stubs;
 
@@ -19,6 +20,8 @@ pub async fn get_server() -> &'static MockServer {
     }
 
     let server = MockServer::start().await;
+
+    // coaches
     mount_coaches_first_name_param_stub(&server).await;
     mount_coaches_last_name_param_stub(&server).await;
     mount_coaches_max_year_param_stub(&server).await;
@@ -26,6 +29,9 @@ pub async fn get_server() -> &'static MockServer {
     mount_coaches_team_param_stub(&server).await;
     mount_coaches_year_param_stub(&server).await;
     mount_coaches_no_params_stub(&server).await;
+
+    // conferences
+    mount_conference_no_params_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }
