@@ -18,9 +18,12 @@ pub use stubs::drives::{
 };
 pub use stubs::games::{
     mount_games_classification_param_stub, mount_games_conference_param_stub,
-    mount_games_home_away_params_stub, mount_games_required_id_param_stub,
-    mount_games_required_year_param_stub, mount_games_season_type_param_stub,
-    mount_games_team_param_stub, mount_games_week_stub,
+    mount_games_home_away_params_stub, mount_games_media_classification_param_stub,
+    mount_games_media_conference_param_stub, mount_games_media_media_type_param_stub,
+    mount_games_media_required_year_param_stub, mount_games_media_season_type_param_stub,
+    mount_games_media_team_param_stub, mount_games_media_week_param_stub,
+    mount_games_required_id_param_stub, mount_games_required_year_param_stub,
+    mount_games_season_type_param_stub, mount_games_team_param_stub, mount_games_week_stub,
 };
 
 mod stubs;
@@ -65,6 +68,15 @@ pub async fn get_server() -> &'static MockServer {
     mount_games_week_stub(&server).await;
     mount_games_required_year_param_stub(&server).await;
     mount_games_required_id_param_stub(&server).await;
+
+    // games/media
+    mount_games_media_classification_param_stub(&server).await;
+    mount_games_media_season_type_param_stub(&server).await;
+    mount_games_media_conference_param_stub(&server).await;
+    mount_games_media_media_type_param_stub(&server).await;
+    mount_games_media_team_param_stub(&server).await;
+    mount_games_media_week_param_stub(&server).await;
+    mount_games_media_required_year_param_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }

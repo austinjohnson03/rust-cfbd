@@ -107,7 +107,7 @@ pub async fn mount_games_conference_param_stub(server: &MockServer) {
 
 pub async fn mount_games_media_required_year_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/games"))
+        .and(path("/games/media"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/games_media_required_year.json"),
@@ -119,7 +119,7 @@ pub async fn mount_games_media_required_year_param_stub(server: &MockServer) {
 
 pub async fn mount_games_media_season_type_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/games"))
+        .and(path("/games/media"))
         .and(query_param("seasonType", "postseason"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -132,7 +132,7 @@ pub async fn mount_games_media_season_type_param_stub(server: &MockServer) {
 
 pub async fn mount_games_media_week_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/games"))
+        .and(path("/games/media"))
         .and(query_param("year", "2023"))
         .and(query_param("week", "1"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -145,7 +145,7 @@ pub async fn mount_games_media_week_param_stub(server: &MockServer) {
 
 pub async fn mount_games_media_team_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/games"))
+        .and(path("/games/media"))
         .and(query_param("year", "2023"))
         .and(query_param("team", "alabama"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -158,7 +158,7 @@ pub async fn mount_games_media_team_param_stub(server: &MockServer) {
 
 pub async fn mount_games_media_conference_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/games"))
+        .and(path("/games/media"))
         .and(query_param("conference", "sec"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -171,7 +171,7 @@ pub async fn mount_games_media_conference_param_stub(server: &MockServer) {
 
 pub async fn mount_games_media_media_type_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/games"))
+        .and(path("/games/media"))
         .and(query_param("mediaType", "tv"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -184,7 +184,7 @@ pub async fn mount_games_media_media_type_param_stub(server: &MockServer) {
 
 pub async fn mount_games_media_classification_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/games"))
+        .and(path("/games/media"))
         .and(query_param("classification", "fcs"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
