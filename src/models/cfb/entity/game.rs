@@ -3,7 +3,7 @@ use crate::models::cfb::entity::season_type::SeasonType;
 use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct Game {
     pub id: i32,
