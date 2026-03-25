@@ -13,22 +13,6 @@ pub async fn mount_coaches_no_params_stub(server: &MockServer) {
         .await;
 }
 
-pub async fn mount_coaches_all_params_stub(server: &MockServer) {
-    Mock::given(method("GET"))
-        .and(path("/coaches"))
-        .and(query_param("year", "2015"))
-        .and(query_param("firstName", "Nick"))
-        .and(query_param("lastName", "Saban"))
-        .and(query_param("team", "Alabama"))
-        .and(query_param("minYear", "2012"))
-        .and(query_param("maxYear", "2024"))
-        .respond_with(ResponseTemplate::new(200).set_body_raw(
-            include_str!("../fixtures/coaches_all_params.json"),
-            "application/json",
-        ))
-        .mount(server)
-        .await;
-}
 pub async fn mount_coaches_first_name_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
         .and(path("/coaches"))

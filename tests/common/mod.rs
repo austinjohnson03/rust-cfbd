@@ -3,6 +3,12 @@ use rust_cfbd::client::CfbdClient;
 use rust_cfbd::config::Config;
 use wiremock::MockServer;
 
+pub use stubs::coaches::{
+    mount_coaches_first_name_param_stub, mount_coaches_last_name_param_stub,
+    mount_coaches_max_year_param_stub, mount_coaches_min_year_param_stub,
+    mount_coaches_no_params_stub, mount_coaches_team_param_stub, mount_coaches_year_param_stub,
+};
+
 mod stubs;
 
 static MOCK_SERVER: OnceCell<MockServer> = OnceCell::new();
@@ -13,6 +19,14 @@ pub async fn get_server() -> &'static MockServer {
     }
 
     let server = MockServer::start().await;
+    mount_coaches_first_name_param_stub(&server).await;
+    mount_coaches_last_name_param_stub(&server).await;
+    mount_coaches_max_year_param_stub(&server).await;
+    mount_coaches_min_year_param_stub(&server).await;
+    mount_coaches_team_param_stub(&server).await;
+    mount_coaches_year_param_stub(&server).await;
+    mount_coaches_no_params_stub(&server).await;
+
     MOCK_SERVER.get_or_init(|| server)
 }
 
