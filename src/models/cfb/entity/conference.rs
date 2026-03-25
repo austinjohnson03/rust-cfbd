@@ -2,7 +2,7 @@ use serde::{Deserialize, Serialize};
 
 use crate::models::cfb::entity::division_classification::DivisionClassification;
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct Conference {
     pub id: u32,
