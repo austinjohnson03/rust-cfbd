@@ -42,8 +42,8 @@ pub async fn mount_games_week_stub(server: &MockServer) {
 pub async fn mount_games_season_type_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
         .and(path("/games"))
-        .and(query_param("seasonType", "postseason"))
         .and(query_param("year", "2023"))
+        .and(query_param("seasonType", "postseason"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/games_season_type.json"),
             "application/json",
