@@ -9,6 +9,7 @@ pub struct ById;
 pub struct ByYear;
 
 #[derive(Debug, Serialize)]
+#[serde(rename_all = "camelCase")]
 pub struct GameQuery {
     #[serde(skip_serializing_if = "Option::is_none")]
     id: Option<u32>,
