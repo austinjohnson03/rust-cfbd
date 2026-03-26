@@ -1,7 +1,7 @@
 use crate::models::cfb::entity::season_type::SeasonType;
 use serde::{Deserialize, Serialize};
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct PollRank {
     pub rank: Option<i32>,
@@ -12,14 +12,14 @@ pub struct PollRank {
     pub points: Option<i32>,
 }
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct Poll {
     pub poll: String,
     pub ranks: Vec<PollRank>,
 }
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct PollWeek {
     pub season: i32,
