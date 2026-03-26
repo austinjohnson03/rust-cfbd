@@ -1,7 +1,7 @@
 use dotenvy::dotenv;
 use rust_cfbd::client::CfbdClient;
 use rust_cfbd::config::Config;
-use rust_cfbd::models::shared::info::UserInfo;
+use rust_cfbd::models::shared::entity::info::UserInfo;
 use std::env;
 
 #[tokio::main]
