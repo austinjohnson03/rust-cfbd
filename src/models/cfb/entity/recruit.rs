@@ -1,16 +1,15 @@
 use serde::{Deserialize, Serialize};
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
+#[serde(rename_all = "PascalCase")]
 pub enum RecruitClassification {
     #[serde(rename = "JUCO")]
     Juco,
-    #[serde(rename = "PrepSchool")]
     PrepSchool,
-    #[serde(rename = "HighSchool")]
     HighSchool,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Serialize, Deserialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct HometownInfo {
     pub fips_code: Option<String>,
@@ -18,7 +17,7 @@ pub struct HometownInfo {
     pub latitude: Option<f64>,
 }
 
-#[derive(Debug, Serialize, Deserialize)]
+#[derive(Debug, Serialize, Deserialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct Recruit {
     pub id: String,
