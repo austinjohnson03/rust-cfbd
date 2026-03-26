@@ -32,7 +32,10 @@ pub use stubs::plays::{
     mount_plays_play_type_param_stub, mount_plays_required_year_week_stub,
     mount_plays_season_type_param_stub, mount_plays_team_param_stub,
 };
-
+pub use stubs::rankings::{
+    mount_rankings_required_year_param_stub, mount_rankings_season_type_param_stub,
+    mount_rankings_week_param_stub,
+};
 mod stubs;
 
 static MOCK_SERVER: OnceCell<MockServer> = OnceCell::new();
@@ -97,6 +100,11 @@ pub async fn get_server() -> &'static MockServer {
     mount_plays_play_type_param_stub(&server).await;
     mount_plays_team_param_stub(&server).await;
     mount_plays_required_year_week_stub(&server).await;
+
+    // rankings
+    mount_rankings_season_type_param_stub(&server).await;
+    mount_rankings_week_param_stub(&server).await;
+    mount_rankings_required_year_param_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }
