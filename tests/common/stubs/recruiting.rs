@@ -67,7 +67,7 @@ pub async fn mount_recruiting_players_classification_param_stub(server: &MockSer
 
 pub async fn mount_recruiting_teams_no_params_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/recruiting"))
+        .and(path("/recruiting/teams"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/recruiting_teams_no_params.json"),
             "application/json",
@@ -78,7 +78,7 @@ pub async fn mount_recruiting_teams_no_params_stub(server: &MockServer) {
 
 pub async fn mount_recruiting_teams_year_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/recruiting"))
+        .and(path("/recruiting/teams"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/recruiting_teams_year.json"),
@@ -90,7 +90,7 @@ pub async fn mount_recruiting_teams_year_param_stub(server: &MockServer) {
 
 pub async fn mount_recruiting_teams_team_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/recruiting"))
+        .and(path("/recruiting/teams"))
         .and(query_param("team", "clemson"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/recruiting_teams_team.json"),
