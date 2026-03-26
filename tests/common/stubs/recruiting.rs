@@ -4,7 +4,7 @@ use wiremock::{Mock, MockServer, ResponseTemplate};
 
 pub async fn mount_recruiting_players_required_year_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/recruiting"))
+        .and(path("/recruiting/players"))
         .and(query_param("year", "2022"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/recruiting_players_required_year.json"),
@@ -16,7 +16,7 @@ pub async fn mount_recruiting_players_required_year_param_stub(server: &MockServ
 
 pub async fn mount_recruiting_players_required_team_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/recruiting"))
+        .and(path("/recruiting/players"))
         .and(query_param("team", "alabama"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/recruiting_players_required_team.json"),
@@ -28,7 +28,7 @@ pub async fn mount_recruiting_players_required_team_param_stub(server: &MockServ
 
 pub async fn mount_recruiting_players_position_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/recruiting"))
+        .and(path("/recruiting/players"))
         .and(query_param("year", "2022"))
         .and(query_param("position", "qb"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -41,7 +41,7 @@ pub async fn mount_recruiting_players_position_param_stub(server: &MockServer) {
 
 pub async fn mount_recruiting_players_state_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/recruiting"))
+        .and(path("/recruiting/players"))
         .and(query_param("year", "2022"))
         .and(query_param("state", "al"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -54,7 +54,7 @@ pub async fn mount_recruiting_players_state_param_stub(server: &MockServer) {
 
 pub async fn mount_recruiting_players_classification_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/recruiting"))
+        .and(path("/recruiting/players"))
         .and(query_param("year", "2022"))
         .and(query_param("classification", "HighSchool"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
