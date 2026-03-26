@@ -26,6 +26,12 @@ pub use stubs::games::{
     mount_games_season_type_param_stub, mount_games_team_param_stub, mount_games_week_stub,
 };
 pub use stubs::info::mount_info_no_params_stub;
+pub use stubs::plays::{
+    mount_plays_classification_param_stub, mount_plays_conference_param_stub,
+    mount_plays_off_conference_def_conference_params_stub, mount_plays_offense_defense_params_stub,
+    mount_plays_play_type_param_stub, mount_plays_required_year_week_stub,
+    mount_plays_season_type_param_stub, mount_plays_team_param_stub,
+};
 
 mod stubs;
 
@@ -81,6 +87,16 @@ pub async fn get_server() -> &'static MockServer {
 
     // info
     mount_info_no_params_stub(&server).await;
+
+    // plays
+    mount_plays_off_conference_def_conference_params_stub(&server).await;
+    mount_plays_offense_defense_params_stub(&server).await;
+    mount_plays_classification_param_stub(&server).await;
+    mount_plays_season_type_param_stub(&server).await;
+    mount_plays_conference_param_stub(&server).await;
+    mount_plays_play_type_param_stub(&server).await;
+    mount_plays_team_param_stub(&server).await;
+    mount_plays_required_year_week_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }
