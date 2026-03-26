@@ -25,6 +25,7 @@ pub use stubs::games::{
     mount_games_required_id_param_stub, mount_games_required_year_param_stub,
     mount_games_season_type_param_stub, mount_games_team_param_stub, mount_games_week_stub,
 };
+pub use stubs::info::mount_info_no_params_stub;
 
 mod stubs;
 
@@ -77,6 +78,9 @@ pub async fn get_server() -> &'static MockServer {
     mount_games_media_team_param_stub(&server).await;
     mount_games_media_week_param_stub(&server).await;
     mount_games_media_required_year_param_stub(&server).await;
+
+    // info
+    mount_info_no_params_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }
