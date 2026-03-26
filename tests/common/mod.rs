@@ -36,6 +36,12 @@ pub use stubs::rankings::{
     mount_rankings_required_year_param_stub, mount_rankings_season_type_param_stub,
     mount_rankings_week_param_stub,
 };
+pub use stubs::recruiting::{
+    mount_recruiting_players_classification_param_stub,
+    mount_recruiting_players_position_param_stub,
+    mount_recruiting_players_required_team_param_stub,
+    mount_recruiting_players_required_year_param_stub, mount_recruiting_players_state_param_stub,
+};
 mod stubs;
 
 static MOCK_SERVER: OnceCell<MockServer> = OnceCell::new();
@@ -105,6 +111,13 @@ pub async fn get_server() -> &'static MockServer {
     mount_rankings_season_type_param_stub(&server).await;
     mount_rankings_week_param_stub(&server).await;
     mount_rankings_required_year_param_stub(&server).await;
+
+    // recruiting
+    mount_recruiting_players_classification_param_stub(&server).await;
+    mount_recruiting_players_position_param_stub(&server).await;
+    mount_recruiting_players_state_param_stub(&server).await;
+    mount_recruiting_players_required_year_param_stub(&server).await;
+    mount_recruiting_players_required_team_param_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }
