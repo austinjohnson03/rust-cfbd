@@ -4,7 +4,7 @@ use wiremock::{Mock, MockServer, ResponseTemplate};
 
 pub async fn mount_stats_player_season_required_year_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/player/season"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/stats_player_season_required_year.json"),
@@ -16,7 +16,7 @@ pub async fn mount_stats_player_season_required_year_param_stub(server: &MockSer
 
 pub async fn mount_stats_player_season_conference_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/player/season"))
         .and(query_param("conference", "sec"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -29,7 +29,7 @@ pub async fn mount_stats_player_season_conference_param_stub(server: &MockServer
 
 pub async fn mount_stats_player_season_team_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/player/season"))
         .and(query_param("team", "alabama"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -42,7 +42,7 @@ pub async fn mount_stats_player_season_team_param_stub(server: &MockServer) {
 
 pub async fn mount_stats_player_season_week_range_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/player/season"))
         .and(query_param("startWeek", "2"))
         .and(query_param("endWeek", "6"))
         .and(query_param("year", "2023"))
@@ -56,7 +56,7 @@ pub async fn mount_stats_player_season_week_range_param_stub(server: &MockServer
 
 pub async fn mount_stats_player_season_season_type_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/player/season"))
         .and(query_param("year", "2023"))
         .and(query_param("seasonType", "postseason"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -69,7 +69,7 @@ pub async fn mount_stats_player_season_season_type_param_stub(server: &MockServe
 
 pub async fn mount_stats_player_season_category_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/player/season"))
         .and(query_param("year", "2023"))
         .and(query_param("category", "passingTDs"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -82,7 +82,7 @@ pub async fn mount_stats_player_season_category_param_stub(server: &MockServer) 
 
 pub async fn mount_stats_season_required_year_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/season"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/stats_season_required_year.json"),
@@ -94,7 +94,7 @@ pub async fn mount_stats_season_required_year_param_stub(server: &MockServer) {
 
 pub async fn mount_stats_season_required_team_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/season"))
         .and(query_param("team", "alabama"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
             include_str!("../fixtures/stats_season_required_team.json"),
@@ -106,7 +106,7 @@ pub async fn mount_stats_season_required_team_param_stub(server: &MockServer) {
 
 pub async fn mount_stats_season_conference_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/season"))
         .and(query_param("conference", "sec"))
         .and(query_param("year", "2023"))
         .respond_with(ResponseTemplate::new(200).set_body_raw(
@@ -119,7 +119,7 @@ pub async fn mount_stats_season_conference_param_stub(server: &MockServer) {
 
 pub async fn mount_stats_season_week_range_param_stub(server: &MockServer) {
     Mock::given(method("GET"))
-        .and(path("/stats"))
+        .and(path("/stats/season"))
         .and(query_param("endWeek", "6"))
         .and(query_param("startWeek", "2"))
         .and(query_param("year", "2023"))
