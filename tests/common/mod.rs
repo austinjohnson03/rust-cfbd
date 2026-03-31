@@ -45,10 +45,16 @@ pub use stubs::recruiting::{
     mount_recruiting_teams_year_param_stub,
 };
 pub use stubs::roster::{
-    mount_teams_roster_classification_param_stub,
-    mount_teams_roster_team_param_stub,
-    mount_teams_roster_year_param_stub,
-    mount_teams_roster_no_params_stub,
+    mount_teams_roster_classification_param_stub, mount_teams_roster_no_params_stub,
+    mount_teams_roster_team_param_stub, mount_teams_roster_year_param_stub,
+};
+pub use stubs::stats::{
+    mount_stats_player_season_category_param_stub, mount_stats_player_season_conference_param_stub,
+    mount_stats_player_season_required_year_param_stub,
+    mount_stats_player_season_season_type_param_stub, mount_stats_player_season_team_param_stub,
+    mount_stats_player_season_week_range_param_stub, mount_stats_season_conference_param_stub,
+    mount_stats_season_required_team_param_stub, mount_stats_season_required_year_param_stub,
+    mount_stats_season_week_range_param_stub,
 };
 
 mod stubs;
@@ -132,12 +138,26 @@ pub async fn get_server() -> &'static MockServer {
     mount_recruiting_teams_team_param_stub(&server).await;
     mount_recruiting_teams_year_param_stub(&server).await;
     mount_recruiting_teams_no_params_stub(&server).await;
-    
+
     // roster
     mount_teams_roster_classification_param_stub(&server).await;
     mount_teams_roster_year_param_stub(&server).await;
     mount_teams_roster_team_param_stub(&server).await;
     mount_teams_roster_no_params_stub(&server).await;
+
+    // stats/player/season
+    mount_stats_player_season_season_type_param_stub(&server).await;
+    mount_stats_player_season_week_range_param_stub(&server).await;
+    mount_stats_player_season_conference_param_stub(&server).await;
+    mount_stats_player_season_category_param_stub(&server).await;
+    mount_stats_player_season_team_param_stub(&server).await;
+    mount_stats_player_season_required_year_param_stub(&server).await;
+
+    // stats/season
+    mount_stats_season_conference_param_stub(&server).await;
+    mount_stats_season_week_range_param_stub(&server).await;
+    mount_stats_season_required_year_param_stub(&server).await;
+    mount_stats_season_required_team_param_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }
