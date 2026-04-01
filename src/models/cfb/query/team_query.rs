@@ -22,8 +22,8 @@ impl TeamQueryBuilder {
         }
     }
 
-    pub fn conference(mut self, conference: String) -> Self {
-        self.conference = Some(conference);
+    pub fn conference(mut self, conference: impl Into<String>) -> Self {
+        self.conference = Some(conference.into());
         self
     }
 
