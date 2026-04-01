@@ -1,7 +1,7 @@
 use crate::models::cfb::entity::division_classification::DivisionClassification;
 use serde::{Deserialize, Serialize};
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct TeamLocation {
     pub id: Option<i32>,
@@ -20,7 +20,7 @@ pub struct TeamLocation {
     pub dome: Option<bool>,
 }
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct Team {
     pub id: i32,
