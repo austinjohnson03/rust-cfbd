@@ -1,2 +1,6 @@
 /target
 .env
+
+# seed_fixtures.rs files
+errors.txt
+param_fixtures.csv

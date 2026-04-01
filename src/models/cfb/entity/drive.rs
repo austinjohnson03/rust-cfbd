@@ -1,7 +1,7 @@
 use crate::models::cfb::entity::play_clock::PlayClock;
 use serde::{Deserialize, Serialize};
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Serialize, PartialEq)]
 #[serde(rename_all = "camelCase")]
 pub struct Drive {
     offense: String,

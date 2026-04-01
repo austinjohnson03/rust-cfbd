@@ -1,0 +1,35 @@
+[
+  {
+    "category": "defensive",
+    "conference": "Mountain West",
+    "player": "Michael Dansby",
+    "playerId": "2094390",
+    "position": "DB",
+    "season": 2023,
+    "stat": "1",
+    "statType": "PD",
+    "team": "San José State"
+  },
+  {
+    "category": "defensive",
+    "conference": "Mountain West",
+    "player": "Michael Dansby",
+    "playerId": "2094390",
+    "position": "DB",
+    "season": 2023,
+    "stat": "0",
+    "statType": "QB HUR",
+    "team": "San José State"
+  },
+  {
+    "category": "defensive",
+    "conference": "Mountain West",
+    "player": "Michael Dansby",
+    "playerId": "2094390",
+    "position": "DB",
+    "season": 2023,
+    "stat": "0",
+    "statType": "SACKS",
+    "team": "San José State"
+  }
+]

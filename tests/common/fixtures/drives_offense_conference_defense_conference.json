@@ -1,0 +1,110 @@
+[
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 6
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 4
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752665,
+    "id": "4017526652",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 10
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 59
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 13
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401752665,
+    "id": "4017526654",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 12
+    },
+    "startYardline": 35,
+    "startYardsToGoal": 65,
+    "yards": 65
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 39
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 44
+    },
+    "endYardline": 73,
+    "endYardsToGoal": 27,
+    "gameId": 401752665,
+    "id": "4017526656",
+    "isHomeOffense": true,
+    "offense": "Florida State",
+    "offenseConference": "ACC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 23
+    },
+    "startYardline": 21,
+    "startYardsToGoal": 79,
+    "yards": 52
+  }
+]

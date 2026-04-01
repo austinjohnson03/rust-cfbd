@@ -1,0 +1,35 @@
+[
+  {
+    "category": "defensive",
+    "conference": "SEC",
+    "player": "Jaylen Key",
+    "playerId": "4363417",
+    "position": "DB",
+    "season": 2023,
+    "stat": "1",
+    "statType": "PD",
+    "team": "Alabama"
+  },
+  {
+    "category": "defensive",
+    "conference": "SEC",
+    "player": "Jaylen Key",
+    "playerId": "4363417",
+    "position": "DB",
+    "season": 2023,
+    "stat": "0",
+    "statType": "QB HUR",
+    "team": "Alabama"
+  },
+  {
+    "category": "defensive",
+    "conference": "SEC",
+    "player": "Jaylen Key",
+    "playerId": "4363417",
+    "position": "DB",
+    "season": 2023,
+    "stat": "0",
+    "statType": "SACKS",
+    "team": "Alabama"
+  }
+]

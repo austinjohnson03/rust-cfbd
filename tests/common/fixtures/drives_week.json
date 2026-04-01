@@ -1,0 +1,182 @@
+[
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 23
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 37
+    },
+    "endYardline": 33,
+    "endYardsToGoal": 67,
+    "gameId": 401520145,
+    "id": "4015201451",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 8
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 2,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 37
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 0
+    },
+    "endYardline": 53,
+    "endYardsToGoal": 53,
+    "gameId": 401520145,
+    "id": "4015201452",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 37
+    },
+    "startYardline": 95,
+    "startYardsToGoal": 95,
+    "yards": 42
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 3,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 3
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 57
+    },
+    "endYardline": 77,
+    "endYardsToGoal": 23,
+    "gameId": 401520145,
+    "id": "4015201453",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 0
+    },
+    "startYardline": 53,
+    "startYardsToGoal": 47,
+    "yards": 24
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 4,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 51
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 6
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 58,
+    "gameId": 401520145,
+    "id": "4015201454",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 57
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 17
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 5,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 40
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 26
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520145,
+    "id": "4015201455",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 12,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 6
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 80
+  }
+]

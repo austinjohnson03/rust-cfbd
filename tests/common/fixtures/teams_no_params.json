@@ -1,0 +1,104 @@
+[
+  {
+    "abbreviation": "ACU",
+    "alternateColor": "#b1b3b3",
+    "alternateNames": [
+      "ACU",
+      "Abilene Chrstn"
+    ],
+    "classification": "fcs",
+    "color": "#592d82",
+    "conference": "UAC",
+    "division": null,
+    "id": 2000,
+    "location": {
+      "capacity": 12000,
+      "city": "Abilene",
+      "constructionYear": 2017,
+      "countryCode": "US",
+      "dome": false,
+      "elevation": "520.9",
+      "grass": false,
+      "id": 5440,
+      "latitude": 32.472275,
+      "longitude": -99.710464,
+      "name": "Wildcat Stadium (TX)",
+      "state": "TX",
+      "timezone": "America/Chicago",
+      "zip": "79601"
+    },
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png"
+    ],
+    "mascot": "Wildcats",
+    "school": "Abilene Christian",
+    "twitter": "@ACUFootball"
+  },
+  {
+    "abbreviation": null,
+    "alternateColor": "#null",
+    "alternateNames": [],
+    "classification": null,
+    "color": "#null",
+    "conference": null,
+    "division": null,
+    "id": 1001074,
+    "location": {
+      "capacity": null,
+      "city": null,
+      "constructionYear": null,
+      "countryCode": null,
+      "dome": null,
+      "elevation": null,
+      "grass": null,
+      "id": null,
+      "latitude": null,
+      "longitude": null,
+      "name": null,
+      "state": null,
+      "timezone": null,
+      "zip": null
+    },
+    "logos": null,
+    "mascot": null,
+    "school": "Adams",
+    "twitter": null
+  },
+  {
+    "abbreviation": "ADST",
+    "alternateColor": "#null",
+    "alternateNames": [
+      "ADST",
+      "Adams St"
+    ],
+    "classification": "ii",
+    "color": "#null",
+    "conference": "Rocky Mountain",
+    "division": null,
+    "id": 2001,
+    "location": {
+      "capacity": 2800,
+      "city": "Alamosa",
+      "constructionYear": null,
+      "countryCode": "US",
+      "dome": false,
+      "elevation": null,
+      "grass": null,
+      "id": 5866,
+      "latitude": 37.5780995,
+      "longitude": -105.7890452,
+      "name": "Rex Stadium",
+      "state": "CO",
+      "timezone": null,
+      "zip": "81101"
+    },
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/2001.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2001.png"
+    ],
+    "mascot": "Grizzlies",
+    "school": "Adams State",
+    "twitter": null
+  }
+]

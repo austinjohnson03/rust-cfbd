@@ -1,0 +1,23 @@
+[
+  {
+    "conference": "Mountain West",
+    "season": 2023,
+    "statName": "firstDowns",
+    "statValue": 255,
+    "team": "Air Force"
+  },
+  {
+    "conference": "Mountain West",
+    "season": 2023,
+    "statName": "firstDownsOpponent",
+    "statValue": 191,
+    "team": "Air Force"
+  },
+  {
+    "conference": "Mountain West",
+    "season": 2023,
+    "statName": "fourthDownConversions",
+    "statValue": 17,
+    "team": "Air Force"
+  }
+]

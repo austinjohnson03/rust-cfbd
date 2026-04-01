@@ -1,0 +1,71 @@
+[
+  {
+    "athleteId": "4685415",
+    "city": "Suwanee",
+    "committedTo": "Jackson State",
+    "country": "USA",
+    "height": 73,
+    "hometownInfo": {
+      "fipsCode": "13135",
+      "latitude": 34.0514898,
+      "longitude": -84.0712997
+    },
+    "id": "113544",
+    "name": "Travis Hunter",
+    "position": "CB",
+    "ranking": 1,
+    "rating": 0.9999,
+    "recruitType": "HighSchool",
+    "school": "Collins Hill",
+    "stars": 5,
+    "stateProvince": "GA",
+    "weight": 165,
+    "year": 2022
+  },
+  {
+    "athleteId": "4685503",
+    "city": "Powell",
+    "committedTo": "Texas A&M",
+    "country": "USA",
+    "height": 76,
+    "hometownInfo": {
+      "fipsCode": "47093",
+      "latitude": 36.0317472,
+      "longitude": -84.0279677
+    },
+    "id": "113545",
+    "name": "Walter Nolen",
+    "position": "DL",
+    "ranking": 2,
+    "rating": 0.9997,
+    "recruitType": "HighSchool",
+    "school": "Powell",
+    "stars": 5,
+    "stateProvince": "TN",
+    "weight": 325,
+    "year": 2022
+  },
+  {
+    "athleteId": "4685278",
+    "city": "East St. Louis",
+    "committedTo": "Missouri",
+    "country": "USA",
+    "height": 72,
+    "hometownInfo": {
+      "fipsCode": "17163",
+      "latitude": 38.6244952,
+      "longitude": -90.1509429
+    },
+    "id": "113546",
+    "name": "Luther Burden III",
+    "position": "WR",
+    "ranking": 3,
+    "rating": 0.9974,
+    "recruitType": "HighSchool",
+    "school": "East St. Louis",
+    "stars": 5,
+    "stateProvince": "IL",
+    "weight": 200,
+    "year": 2022
+  }
+]

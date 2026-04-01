@@ -1,0 +1,110 @@
+[
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 5
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 55
+    },
+    "endYardline": 48,
+    "endYardsToGoal": 48,
+    "gameId": 401520183,
+    "id": "4015201831",
+    "isHomeOffense": false,
+    "offense": "Texas",
+    "offenseConference": "Big 12",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 27
+  },
+  {
+    "defense": "Texas",
+    "defenseConference": "Big 12",
+    "driveNumber": 2,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 28
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 27
+    },
+    "endYardline": 41,
+    "endYardsToGoal": 59,
+    "gameId": 401520183,
+    "id": "4015201832",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 55
+    },
+    "startYardline": 3,
+    "startYardsToGoal": 97,
+    "yards": 38
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 3,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 45
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 42
+    },
+    "endYardline": 4,
+    "endYardsToGoal": 4,
+    "gameId": 401520183,
+    "id": "4015201833",
+    "isHomeOffense": false,
+    "offense": "Texas",
+    "offenseConference": "Big 12",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 27
+    },
+    "startYardline": 30,
+    "startYardsToGoal": 30,
+    "yards": 26
+  }
+]

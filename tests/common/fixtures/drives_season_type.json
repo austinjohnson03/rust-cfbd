@@ -1,0 +1,110 @@
+[
+  {
+    "defense": "Florida A&M",
+    "defenseConference": "SWAC",
+    "driveNumber": 1,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 34
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 26
+    },
+    "endYardline": 41,
+    "endYardsToGoal": 41,
+    "gameId": 401539485,
+    "id": "4015394851",
+    "isHomeOffense": false,
+    "offense": "Prairie View A&M",
+    "offenseConference": "SWAC",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 74,
+    "startYardsToGoal": 74,
+    "yards": 33
+  },
+  {
+    "defense": "Prairie View A&M",
+    "defenseConference": "SWAC",
+    "driveNumber": 2,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 41
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401539485,
+    "id": "4015394852",
+    "isHomeOffense": true,
+    "offense": "Florida A&M",
+    "offenseConference": "SWAC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 26
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Florida A&M",
+    "defenseConference": "SWAC",
+    "driveNumber": 3,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 31
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 10
+    },
+    "endYardline": 73,
+    "endYardsToGoal": 73,
+    "gameId": 401539485,
+    "id": "4015394853",
+    "isHomeOffense": false,
+    "offense": "Prairie View A&M",
+    "offenseConference": "SWAC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 41
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 2
+  }
+]

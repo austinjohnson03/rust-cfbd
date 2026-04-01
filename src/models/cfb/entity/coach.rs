@@ -1,7 +1,7 @@
 use chrono::{DateTime, Utc};
 use serde::{Deserialize, Serialize};
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, PartialEq, Serialize)]
 #[serde(rename_all = "camelCase")]
 pub struct CoachSeason {
     pub school: String,
@@ -18,11 +18,13 @@ pub struct CoachSeason {
     pub sp_defense: Option<f64>,
 }
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, PartialEq, Serialize)]
 #[serde(rename_all = "camelCase")]
 pub struct Coach {
     pub first_name: String,
     pub last_name: String,
     pub hire_date: Option<DateTime<Utc>>,
     pub seasons: Vec<CoachSeason>,
+    #[cfg(test)]
+    pub simulate_error: Option<String>,
 }

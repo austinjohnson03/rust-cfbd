@@ -1,0 +1,65 @@
+[
+  {
+    "firstName": "Pete",
+    "hireDate": null,
+    "lastName": "Alamar",
+    "seasons": [
+      {
+        "games": 4,
+        "losses": 2,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Rice",
+        "spDefense": 30.4,
+        "spOffense": 20.5,
+        "spOverall": -11.4,
+        "srs": -8.6,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "hireDate": "2021-07-14T00:00:00.000Z",
+    "lastName": "Albin",
+    "seasons": [
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Ohio",
+        "spDefense": 23.9,
+        "spOffense": 27.2,
+        "spOverall": 2.3,
+        "srs": 1.7,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Blake",
+    "hireDate": "2020-12-12T00:00:00.000Z",
+    "lastName": "Anderson",
+    "seasons": [
+      {
+        "games": 0,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 40.3,
+        "spOffense": 30.2,
+        "spOverall": -10.4,
+        "srs": -11.7,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  }
+]

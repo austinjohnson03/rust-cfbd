@@ -1,0 +1,146 @@
+[
+  {
+    "abbreviation": "ALA",
+    "alternateColor": "#ffffff",
+    "alternateNames": [
+      "ALA",
+      "Alabama"
+    ],
+    "classification": "fbs",
+    "color": "#9e1632",
+    "conference": "SEC",
+    "division": null,
+    "id": 333,
+    "location": {
+      "capacity": 101821,
+      "city": "Tuscaloosa",
+      "constructionYear": 1929,
+      "countryCode": "US",
+      "dome": false,
+      "elevation": "70.05136108",
+      "grass": true,
+      "id": 3657,
+      "latitude": 33.2082752,
+      "longitude": -87.5503836,
+      "name": "Bryant-Denny Stadium",
+      "state": "AL",
+      "timezone": "America/Chicago",
+      "zip": "35487"
+    },
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
+    ],
+    "mascot": "Crimson Tide",
+    "school": "Alabama",
+    "twitter": "@AlabamaFTBL"
+  },
+  {
+    "abbreviation": "ARK",
+    "alternateColor": "#ffffff",
+    "alternateNames": [
+      "ARK",
+      "Arkansas"
+    ],
+    "classification": "fbs",
+    "color": "#a41f35",
+    "conference": "SEC",
+    "division": null,
+    "id": 8,
+    "location": {
+      "capacity": 80000,
+      "city": "Fayetteville",
+      "constructionYear": 1938,
+      "countryCode": "US",
+      "dome": false,
+      "elevation": "403.7972412",
+      "grass": false,
+      "id": 3887,
+      "latitude": 36.0680662,
+      "longitude": -94.1789534,
+      "name": "Razorback Stadium",
+      "state": "AR",
+      "timezone": "America/Chicago",
+      "zip": "72702"
+    },
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
+    ],
+    "mascot": "Razorbacks",
+    "school": "Arkansas",
+    "twitter": "@RazorbackFB"
+  },
+  {
+    "abbreviation": "AUB",
+    "alternateColor": "#f26522",
+    "alternateNames": [
+      "AUB",
+      "Auburn"
+    ],
+    "classification": "fbs",
+    "color": "#002b5c",
+    "conference": "SEC",
+    "division": null,
+    "id": 2,
+    "location": {
+      "capacity": 87451,
+      "city": "Auburn",
+      "constructionYear": 1939,
+      "countryCode": "US",
+      "dome": false,
+      "elevation": "201.1737976",
+      "grass": true,
+      "id": 3785,
+      "latitude": 32.6025532,
+      "longitude": -85.4897479,
+      "name": "Jordan-Hare Stadium",
+      "state": "AL",
+      "timezone": "America/Chicago",
+      "zip": "36849"
+    },
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2.png"
+    ],
+    "mascot": "Tigers",
+    "school": "Auburn",
+    "twitter": "@AuburnFootball"
+  },
+  {
+    "abbreviation": "FLA",
+    "alternateColor": "#fa4616",
+    "alternateNames": [
+      "FLA",
+      "Florida"
+    ],
+    "classification": "fbs",
+    "color": "#0021a5",
+    "conference": "SEC",
+    "division": null,
+    "id": 57,
+    "location": {
+      "capacity": 88548,
+      "city": "Gainesville",
+      "constructionYear": 1930,
+      "countryCode": "US",
+      "dome": false,
+      "elevation": "44.97250748",
+      "grass": true,
+      "id": 3634,
+      "latitude": 29.6499357,
+      "longitude": -82.3485788,
+      "name": "Ben Hill Griffin Stadium",
+      "state": "FL",
+      "timezone": "America/New_York",
+      "zip": "32653"
+    },
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/57.png"
+    ],
+    "mascot": "Gators",
+    "school": "Florida",
+    "twitter": "@GatorsFB"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "athleteId": "4685413",
+    "city": "Austin",
+    "committedTo": "Clemson",
+    "country": "USA",
+    "height": 74.5,
+    "hometownInfo": {
+      "fipsCode": "48453",
+      "latitude": 30.2711286,
+      "longitude": -97.7436995
+    },
+    "id": "113549",
+    "name": "Cade Klubnik",
+    "position": "QB",
+    "ranking": 6,
+    "rating": 0.9951,
+    "recruitType": "HighSchool",
+    "school": "Westlake",
+    "stars": 5,
+    "stateProvince": "TX",
+    "weight": 186,
+    "year": 2022
+  },
+  {
+    "athleteId": "4685574",
+    "city": "Cypress",
+    "committedTo": "Texas A&M",
+    "country": "USA",
+    "height": 74,
+    "hometownInfo": {
+      "fipsCode": "48201",
+      "latitude": 29.9691116,
+      "longitude": -95.6971686
+    },
+    "id": "113565",
+    "name": "Conner Weigman",
+    "position": "QB",
+    "ranking": 22,
+    "rating": 0.9899,
+    "recruitType": "HighSchool",
+    "school": "Bridgeland",
+    "stars": 5,
+    "stateProvince": "TX",
+    "weight": 208,
+    "year": 2022
+  },
+  {
+    "athleteId": "4685522",
+    "city": "Martin",
+    "committedTo": "Alabama",
+    "country": "USA",
+    "height": 74,
+    "hometownInfo": {
+      "fipsCode": "47183",
+      "latitude": 36.3433965,
+      "longitude": -88.850338
+    },
+    "id": "113569",
+    "name": "Ty Simpson",
+    "position": "QB",
+    "ranking": 26,
+    "rating": 0.9883,
+    "recruitType": "HighSchool",
+    "school": "Westview",
+    "stars": 5,
+    "stateProvince": "TN",
+    "weight": 200,
+    "year": 2022
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "conference": "FBS Independents",
+    "season": 1902,
+    "statName": "games",
+    "statValue": 8,
+    "team": "Alabama"
+  },
+  {
+    "conference": "FBS Independents",
+    "season": 1903,
+    "statName": "games",
+    "statValue": 7,
+    "team": "Alabama"
+  },
+  {
+    "conference": "FBS Independents",
+    "season": 1904,
+    "statName": "games",
+    "statValue": 10,
+    "team": "Alabama"
+  }
+]

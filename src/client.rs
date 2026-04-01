@@ -47,15 +47,37 @@ impl CfbdClient {
             }
         };
 
-        if !resp.status().is_success() {
-            return Err(CFBDError::Api {
-                status: resp.status().as_u16(),
-                message: resp.text().await?,
-            });
-        }
+        match resp.status().as_u16() {
+            200..=299 => {
+                let body = resp.text().await?;
+                serde_json::from_str::<T>(&body).map_err(|e| CFBDError::Deserialize(e, body))
+            }
+            400 => Err(CFBDError::BadRequest {
+                message: resp.text().await.unwrap_or_default(),
+            }),
+            401 => Err(CFBDError::Unauthorized),
+            404 => Err(CFBDError::NotFound { resource: url }),
+            429 => {
+                let retry_after = resp
+                    .headers()
+                    .get("retry-after")
+                    .and_then(|v| v.to_str().ok())
+                    .and_then(|v| v.parse().ok())
+                    .unwrap_or(60);
 
-        let data = resp.json::<T>().await?;
-        Ok(data)
+                Err(CFBDError::RateLimited {
+                    retry_after: retry_after,
+                })
+            }
+            status @ 500..=599 => Err(CFBDError::ServerError {
+                status,
+                message: resp.text().await.unwrap_or_default(),
+            }),
+            status => Err(CFBDError::Unexpected {
+                status,
+                message: resp.text().await.unwrap_or_default(),
+            }),
+        }
     }
 
     pub async fn get_raw_json<P: Serialize>(

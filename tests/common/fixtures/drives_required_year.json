@@ -1,0 +1,3170 @@
+[
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 23
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 37
+    },
+    "endYardline": 33,
+    "endYardsToGoal": 67,
+    "gameId": 401520145,
+    "id": "4015201451",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 8
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 2,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 37
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 0
+    },
+    "endYardline": 53,
+    "endYardsToGoal": 53,
+    "gameId": 401520145,
+    "id": "4015201452",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 37
+    },
+    "startYardline": 95,
+    "startYardsToGoal": 95,
+    "yards": 42
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 3,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 3
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 57
+    },
+    "endYardline": 77,
+    "endYardsToGoal": 23,
+    "gameId": 401520145,
+    "id": "4015201453",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 0
+    },
+    "startYardline": 53,
+    "startYardsToGoal": 47,
+    "yards": 24
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 4,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 51
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 6
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 58,
+    "gameId": 401520145,
+    "id": "4015201454",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 57
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 17
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 5,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 40
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 26
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520145,
+    "id": "4015201455",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 12,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 6
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 80
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 6,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 7,
+      "seconds": 0
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 26
+    },
+    "endYardline": 26,
+    "endYardsToGoal": 26,
+    "gameId": 401520145,
+    "id": "4015201456",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 12,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 26
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 49
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 7,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 2
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 24
+    },
+    "endYardline": 27,
+    "endYardsToGoal": 73,
+    "gameId": 401520145,
+    "id": "4015201457",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 26
+    },
+    "startYardline": 26,
+    "startYardsToGoal": 74,
+    "yards": 1
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 8,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 0
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 24
+    },
+    "endYardline": 39,
+    "endYardsToGoal": 39,
+    "gameId": 401520145,
+    "id": "4015201458",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 24
+    },
+    "startYardline": 71,
+    "startYardsToGoal": 71,
+    "yards": 32
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 9,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 53
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 31
+    },
+    "endYardline": 46,
+    "endYardsToGoal": 54,
+    "gameId": 401520145,
+    "id": "4015201459",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 24
+    },
+    "startYardline": 39,
+    "startYardsToGoal": 61,
+    "yards": 7
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 10,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 31
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520145,
+    "id": "40152014510",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 31
+    },
+    "startYardline": 74,
+    "startYardsToGoal": 74,
+    "yards": 74
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 11,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 5
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 55
+    },
+    "endYardline": 52,
+    "endYardsToGoal": 52,
+    "gameId": 401520145,
+    "id": "40152014511",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 23
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 12,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 21
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 10,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 34
+    },
+    "endYardline": 70,
+    "endYardsToGoal": 30,
+    "gameId": 401520145,
+    "id": "40152014512",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 10,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 55
+    },
+    "startYardline": 41,
+    "startYardsToGoal": 59,
+    "yards": 29
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 13,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 0
+    },
+    "endYardline": 67,
+    "endYardsToGoal": 67,
+    "gameId": 401520145,
+    "id": "40152014513",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 34
+    },
+    "startYardline": 70,
+    "startYardsToGoal": 70,
+    "yards": 3
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 14,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 13
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 17,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 47
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520145,
+    "id": "40152014514",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 10,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 0
+    },
+    "startYardline": 34,
+    "startYardsToGoal": 66,
+    "yards": 66
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 3
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 44
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401520145,
+    "id": "40152014515",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 47
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 6
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 16,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 23
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 17,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 21
+    },
+    "endYardline": 74,
+    "endYardsToGoal": 26,
+    "gameId": 401520145,
+    "id": "40152014516",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 13,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 44
+    },
+    "startYardline": 14,
+    "startYardsToGoal": 86,
+    "yards": 60
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 17,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 2
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 14,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 19
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520145,
+    "id": "40152014517",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 21
+    },
+    "startYardline": 74,
+    "startYardsToGoal": 74,
+    "yards": 74
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 18,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 15
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 17,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 4
+    },
+    "endYardline": 46,
+    "endYardsToGoal": 54,
+    "gameId": 401520145,
+    "id": "40152014518",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 17,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 19
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 21
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 19,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 29
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 14,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 35
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401520145,
+    "id": "40152014519",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 14,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 4
+    },
+    "startYardline": 86,
+    "startYardsToGoal": 86,
+    "yards": 17
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 20,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 54
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 17,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 41
+    },
+    "endYardline": 38,
+    "endYardsToGoal": 62,
+    "gameId": 401520145,
+    "id": "40152014520",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 17,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 35
+    },
+    "startYardline": 32,
+    "startYardsToGoal": 68,
+    "yards": 6
+  },
+  {
+    "defense": "Jacksonville State",
+    "defenseConference": "Conference USA",
+    "driveNumber": 21,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 26
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 14,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 15
+    },
+    "endYardline": 22,
+    "endYardsToGoal": 22,
+    "gameId": 401520145,
+    "id": "40152014521",
+    "isHomeOffense": false,
+    "offense": "UTEP",
+    "offenseConference": "Conference USA",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 14,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 41
+    },
+    "startYardline": 88,
+    "startYardsToGoal": 88,
+    "yards": 66
+  },
+  {
+    "defense": "UTEP",
+    "defenseConference": "Conference USA",
+    "driveNumber": 22,
+    "driveResult": "END OF GAME",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 15
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 17,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 20,
+    "endYardsToGoal": 80,
+    "gameId": 401520145,
+    "id": "40152014522",
+    "isHomeOffense": true,
+    "offense": "Jacksonville State",
+    "offenseConference": "Conference USA",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 17,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 15
+    },
+    "startYardline": 22,
+    "startYardsToGoal": 78,
+    "yards": -2
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 1,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 54
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 6
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520146,
+    "id": "4015201461",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 41
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 25
+    },
+    "endYardline": 41,
+    "endYardsToGoal": 59,
+    "gameId": 401520146,
+    "id": "4015201462",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 6
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 16
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 3,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 18
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 7
+    },
+    "endYardline": 77,
+    "endYardsToGoal": 77,
+    "gameId": 401520146,
+    "id": "4015201463",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 7,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 25
+    },
+    "startYardline": 85,
+    "startYardsToGoal": 85,
+    "yards": 8
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 4,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 55
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 12
+    },
+    "endYardline": 55,
+    "endYardsToGoal": 45,
+    "gameId": 401520146,
+    "id": "4015201464",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 7
+    },
+    "startYardline": 42,
+    "startYardsToGoal": 58,
+    "yards": 13
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 5,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 30
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 42
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520146,
+    "id": "4015201465",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 5,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 7,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 12
+    },
+    "startYardline": 56,
+    "startYardsToGoal": 56,
+    "yards": 56
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 6,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 31
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 4
+    },
+    "endYardline": 77,
+    "endYardsToGoal": 23,
+    "gameId": 401520146,
+    "id": "4015201466",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 14,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 35
+    },
+    "startYardline": 26,
+    "startYardsToGoal": 74,
+    "yards": 51
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 7,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 58
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 6
+    },
+    "endYardline": 26,
+    "endYardsToGoal": 26,
+    "gameId": 401520146,
+    "id": "4015201467",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 3,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 4
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 49
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 8,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 45
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 21
+    },
+    "endYardline": 80,
+    "endYardsToGoal": 20,
+    "gameId": 401520146,
+    "id": "4015201468",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 11,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 6
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 55
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 9,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 24
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 57
+    },
+    "endYardline": 80,
+    "endYardsToGoal": 80,
+    "gameId": 401520146,
+    "id": "4015201469",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 21
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": 0
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 10,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 9
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 10,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 48
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520146,
+    "id": "40152014610",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 1,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 57
+    },
+    "startYardline": 36,
+    "startYardsToGoal": 64,
+    "yards": 64
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 11,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 26
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 22
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401520146,
+    "id": "40152014611",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 48
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 6
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 12,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 22
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 13,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 85,
+    "endYardsToGoal": 15,
+    "gameId": 401520146,
+    "id": "40152014612",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 10,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 22
+    },
+    "startYardline": 11,
+    "startYardsToGoal": 89,
+    "yards": 74
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 13,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 24
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 13,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 36
+    },
+    "endYardline": 55,
+    "endYardsToGoal": 45,
+    "gameId": 401520146,
+    "id": "40152014613",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 13,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 35,
+    "startYardsToGoal": 65,
+    "yards": 20
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 14,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 30
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 17,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 6
+    },
+    "endYardline": 65,
+    "endYardsToGoal": 65,
+    "gameId": 401520146,
+    "id": "40152014614",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 13,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 36
+    },
+    "startYardline": 55,
+    "startYardsToGoal": 55,
+    "yards": -10
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 52
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 13,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 14
+    },
+    "endYardline": 20,
+    "endYardsToGoal": 80,
+    "gameId": 401520146,
+    "id": "40152014615",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 13,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 6
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": -5
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 16,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 18
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 17,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 56
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 58,
+    "gameId": 401520146,
+    "id": "40152014616",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 13,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 14
+    },
+    "startYardline": 65,
+    "startYardsToGoal": 65,
+    "yards": 7
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 17,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 6,
+      "seconds": 28
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 13,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 28
+    },
+    "endYardline": 56,
+    "endYardsToGoal": 44,
+    "gameId": 401520146,
+    "id": "40152014617",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 11,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 13,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 56
+    },
+    "startYardline": 22,
+    "startYardsToGoal": 78,
+    "yards": 34
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 18,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 55
+    },
+    "endDefenseScore": 13,
+    "endOffenseScore": 17,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 33
+    },
+    "endYardline": 86,
+    "endYardsToGoal": 86,
+    "gameId": 401520146,
+    "id": "40152014618",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 13,
+    "startOffenseScore": 17,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 28
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": -6
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 19,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 59
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 16,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 34
+    },
+    "endYardline": 71,
+    "endYardsToGoal": 29,
+    "gameId": 401520146,
+    "id": "40152014619",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 13,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 33
+    },
+    "startYardline": 55,
+    "startYardsToGoal": 45,
+    "yards": 16
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 20,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 15
+    },
+    "endDefenseScore": 16,
+    "endOffenseScore": 17,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 19
+    },
+    "endYardline": 66,
+    "endYardsToGoal": 66,
+    "gameId": 401520146,
+    "id": "40152014620",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 16,
+    "startOffenseScore": 17,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 34
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 9
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 21,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 49
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 16,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 30
+    },
+    "endYardline": 74,
+    "endYardsToGoal": 26,
+    "gameId": 401520146,
+    "id": "40152014621",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 16,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 19
+    },
+    "startYardline": 28,
+    "startYardsToGoal": 72,
+    "yards": 46
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 22,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 2
+    },
+    "endDefenseScore": 16,
+    "endOffenseScore": 17,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 28
+    },
+    "endYardline": 66,
+    "endYardsToGoal": 66,
+    "gameId": 401520146,
+    "id": "40152014622",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 16,
+    "startOffenseScore": 17,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 30
+    },
+    "startYardline": 74,
+    "startYardsToGoal": 74,
+    "yards": 8
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 23,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 27
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 22,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 1
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520146,
+    "id": "40152014623",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 17,
+    "startOffenseScore": 16,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 28
+    },
+    "startYardline": 31,
+    "startYardsToGoal": 69,
+    "yards": 69
+  },
+  {
+    "defense": "Louisiana Tech",
+    "defenseConference": "Conference USA",
+    "driveNumber": 24,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 12
+    },
+    "endDefenseScore": 22,
+    "endOffenseScore": 17,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 49
+    },
+    "endYardline": 80,
+    "endYardsToGoal": 80,
+    "gameId": 401520146,
+    "id": "40152014624",
+    "isHomeOffense": false,
+    "offense": "Florida International",
+    "offenseConference": "Conference USA",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 22,
+    "startOffenseScore": 17,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 1
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -5
+  },
+  {
+    "defense": "Florida International",
+    "defenseConference": "Conference USA",
+    "driveNumber": 25,
+    "driveResult": "END OF GAME",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 49
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 22,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 42,
+    "gameId": 401520146,
+    "id": "40152014625",
+    "isHomeOffense": true,
+    "offense": "Louisiana Tech",
+    "offenseConference": "Conference USA",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 22,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 49
+    },
+    "startYardline": 61,
+    "startYardsToGoal": 39,
+    "yards": -3
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 4
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 32,
+    "endYardsToGoal": 32,
+    "gameId": 401520147,
+    "id": "4015201471",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 52
+    },
+    "startYardline": 27,
+    "startYardsToGoal": 27,
+    "yards": 5
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 4
+    },
+    "endDefenseScore": 6,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 32,
+    "endYardsToGoal": 32,
+    "gameId": 401520147,
+    "id": "4015201472",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 52
+    },
+    "startYardline": 27,
+    "startYardsToGoal": 27,
+    "yards": 5
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 3,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 4
+    },
+    "endDefenseScore": 6,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 48
+    },
+    "endYardline": 68,
+    "endYardsToGoal": 68,
+    "gameId": 401520147,
+    "id": "4015201473",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 6,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 52
+    },
+    "startYardline": 73,
+    "startYardsToGoal": 73,
+    "yards": 5
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 4,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 22
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 16,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201474",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 48
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 32,
+    "yards": 32
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 5,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 22
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 21,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201475",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 16,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 48
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 32,
+    "yards": 32
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 6,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 22
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 21,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201476",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 21,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 48
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 32,
+    "yards": 32
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 7,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201477",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 25,
+    "yards": 75
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201478",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 25,
+    "yards": 75
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 13
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201479",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "Uncategorized",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 29,
+    "endYardsToGoal": 29,
+    "gameId": 401520147,
+    "id": "40152014710",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 53
+    },
+    "startYardline": 30,
+    "startYardsToGoal": 30,
+    "yards": -1
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "Uncategorized",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 29,
+    "endYardsToGoal": 29,
+    "gameId": 401520147,
+    "id": "40152014711",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 53
+    },
+    "startYardline": 30,
+    "startYardsToGoal": 30,
+    "yards": -1
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 16
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 37
+    },
+    "endYardline": 71,
+    "endYardsToGoal": 71,
+    "gameId": 401520147,
+    "id": "40152014712",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 19,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 53
+    },
+    "startYardline": 70,
+    "startYardsToGoal": 70,
+    "yards": -1
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 13,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 41
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 19,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 56
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014713",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 19,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 37
+    },
+    "startYardline": 16,
+    "startYardsToGoal": 84,
+    "yards": 84
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 14,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 28,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014714",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": true,
+    "startDefenseScore": 19,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 48
+    },
+    "startYardline": 32,
+    "startYardsToGoal": 32,
+    "yards": 68
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 28,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014715",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 26,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 48
+    },
+    "startYardline": 32,
+    "startYardsToGoal": 32,
+    "yards": 68
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 16,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014716",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": true,
+    "startDefenseScore": 28,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 48
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 68,
+    "yards": 68
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 17,
+    "driveResult": "DOWNS TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 35,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014717",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 14,
+    "startOffenseScore": 35,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 25,
+    "yards": 39
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 18,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 35,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014718",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 35,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 25,
+    "yards": 39
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 19,
+    "driveResult": "DOWNS TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 28,
+    "endOffenseScore": 35,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "endYardline": 64,
+    "endYardsToGoal": 36,
+    "gameId": 401520147,
+    "id": "40152014719",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 21,
+    "startOffenseScore": 35,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 39
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 38
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 5,
+    "endYardsToGoal": 5,
+    "gameId": 401520147,
+    "id": "40152014720",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 35,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "startYardline": 36,
+    "startYardsToGoal": 36,
+    "yards": 59
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 38
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 5,
+    "endYardsToGoal": 5,
+    "gameId": 401520147,
+    "id": "40152014721",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 35,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "startYardline": 36,
+    "startYardsToGoal": 36,
+    "yards": 59
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 38
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 12
+    },
+    "endYardline": 5,
+    "endYardsToGoal": 5,
+    "gameId": 401520147,
+    "id": "40152014722",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 35,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "startYardline": 64,
+    "startYardsToGoal": 64,
+    "yards": 59
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 10
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 45
+    },
+    "endYardline": 47,
+    "endYardsToGoal": 53,
+    "gameId": 401520148,
+    "id": "4015201481",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 55
+    },
+    "startYardline": 19,
+    "startYardsToGoal": 81,
+    "yards": 28
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 33
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 12
+    },
+    "endYardline": 67,
+    "endYardsToGoal": 67,
+    "gameId": 401520148,
+    "id": "4015201482",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 45
+    },
+    "startYardline": 99,
+    "startYardsToGoal": 99,
+    "yards": 32
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 3,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 7,
+      "seconds": 41
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 31
+    },
+    "endYardline": 84,
+    "endYardsToGoal": 16,
+    "gameId": 401520148,
+    "id": "4015201483",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 13,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 12
+    },
+    "startYardline": 17,
+    "startYardsToGoal": 83,
+    "yards": 67
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 4,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 43
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 42
+    },
+    "endYardline": 49,
+    "endYardsToGoal": 49,
+    "gameId": 401520148,
+    "id": "4015201484",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 25
+    },
+    "startYardline": 82,
+    "startYardsToGoal": 82,
+    "yards": 33
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 5,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 3
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 39
+    },
+    "endYardline": 64,
+    "endYardsToGoal": 36,
+    "gameId": 401520148,
+    "id": "4015201485",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 12,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 42
+    },
+    "startYardline": 26,
+    "startYardsToGoal": 74,
+    "yards": 38
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 6,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 32
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 7
+    },
+    "endYardline": 6,
+    "endYardsToGoal": 6,
+    "gameId": 401520148,
+    "id": "4015201486",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 11,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 39
+    },
+    "startYardline": 64,
+    "startYardsToGoal": 64,
+    "yards": 58
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 7,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 7
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 17,
+    "endYardsToGoal": 83,
+    "gameId": 401520148,
+    "id": "4015201487",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 7
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": -3
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 8,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 48
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 3
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520148,
+    "id": "4015201488",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 2,
+    "scoring": true,
+    "startDefenseScore": 3,
+    "startOffenseScore": 0,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 51
+    },
+    "startYardline": 35,
+    "startYardsToGoal": 35,
+    "yards": 35
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 9,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 29
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 3,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 34
+    },
+    "endYardline": 23,
+    "endYardsToGoal": 77,
+    "gameId": 401520148,
+    "id": "4015201489",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 3,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 3
+    },
+    "startYardline": 19,
+    "startYardsToGoal": 81,
+    "yards": 4
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 10,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 57
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 37
+    },
+    "endYardline": 56,
+    "endYardsToGoal": 56,
+    "gameId": 401520148,
+    "id": "40152014810",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 34
+    },
+    "startYardline": 58,
+    "startYardsToGoal": 58,
+    "yards": 2
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 11,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 18
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 3,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 19
+    },
+    "endYardline": 76,
+    "endYardsToGoal": 24,
+    "gameId": 401520148,
+    "id": "40152014811",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 3,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 37
+    },
+    "startYardline": 18,
+    "startYardsToGoal": 82,
+    "yards": 58
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 12,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 7,
+      "seconds": 37
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 42
+    },
+    "endYardline": 9,
+    "endYardsToGoal": 9,
+    "gameId": 401520148,
+    "id": "40152014812",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 13,
+    "scoring": true,
+    "startDefenseScore": 3,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 19
+    },
+    "startYardline": 89,
+    "startYardsToGoal": 89,
+    "yards": 80
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 13,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 26
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 3,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 16
+    },
+    "endYardline": 19,
+    "endYardsToGoal": 81,
+    "gameId": 401520148,
+    "id": "40152014813",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 3,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 42
+    },
+    "startYardline": 19,
+    "startYardsToGoal": 81,
+    "yards": 0
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 14,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 55
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 21
+    },
+    "endYardline": 62,
+    "endYardsToGoal": 62,
+    "gameId": 401520148,
+    "id": "40152014814",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 16
+    },
+    "startYardline": 62,
+    "startYardsToGoal": 62,
+    "yards": 0
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 15,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 4
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 3,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 17
+    },
+    "endYardline": 31,
+    "endYardsToGoal": 69,
+    "gameId": 401520148,
+    "id": "40152014815",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 3,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 21
+    },
+    "startYardline": 17,
+    "startYardsToGoal": 83,
+    "yards": 14
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 16,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 24
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 53
+    },
+    "endYardline": 47,
+    "endYardsToGoal": 47,
+    "gameId": 401520148,
+    "id": "40152014816",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 17
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 68,
+    "yards": 21
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 17,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 21
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 32
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520148,
+    "id": "40152014817",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 3,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 53
+    },
+    "startYardline": 47,
+    "startYardsToGoal": 53,
+    "yards": 53
+  },
+  {
+    "defense": "Minnesota",
+    "defenseConference": "Big Ten",
+    "driveNumber": 18,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 58
+    },
+    "endYardline": 46,
+    "endYardsToGoal": 46,
+    "gameId": 401520148,
+    "id": "40152014818",
+    "isHomeOffense": false,
+    "offense": "Nebraska",
+    "offenseConference": "Big Ten",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 32
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 29
+  },
+  {
+    "defense": "Nebraska",
+    "defenseConference": "Big Ten",
+    "driveNumber": 19,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 58
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 13,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 71,
+    "endYardsToGoal": 29,
+    "gameId": 401520148,
+    "id": "40152014819",
+    "isHomeOffense": true,
+    "offense": "Minnesota",
+    "offenseConference": "Big Ten",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 58
+    },
+    "startYardline": 49,
+    "startYardsToGoal": 51,
+    "yards": 22
+  }
+]

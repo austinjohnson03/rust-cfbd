@@ -1,0 +1,44 @@
+[
+  {
+    "awayConference": "CAA",
+    "awayTeam": "Elon",
+    "homeConference": "ACC",
+    "homeTeam": "Wake Forest",
+    "id": 401525461,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "ACCN",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-08-31T23:00:00.000Z",
+    "week": 1
+  },
+  {
+    "awayConference": "CAA",
+    "awayTeam": "Rhode Island",
+    "homeConference": "Sun Belt",
+    "homeTeam": "Georgia State",
+    "id": 401531834,
+    "isStartTimeTBD": false,
+    "mediaType": "web",
+    "outlet": "ESPN+",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-08-31T23:00:00.000Z",
+    "week": 1
+  },
+  {
+    "awayConference": "NEC",
+    "awayTeam": "St. Francis (PA)",
+    "homeConference": "Mid-American",
+    "homeTeam": "Western Michigan",
+    "id": 401532393,
+    "isStartTimeTBD": false,
+    "mediaType": "web",
+    "outlet": "ESPN+",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-08-31T23:00:00.000Z",
+    "week": 1
+  }
+]

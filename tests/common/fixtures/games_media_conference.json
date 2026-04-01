@@ -1,0 +1,44 @@
+[
+  {
+    "awayConference": "Mountain West",
+    "awayTeam": "Hawai'i",
+    "homeConference": "SEC",
+    "homeTeam": "Vanderbilt",
+    "id": 401520147,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "SECN",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-08-26T23:30:00.000Z",
+    "week": 1
+  },
+  {
+    "awayConference": "MVFC",
+    "awayTeam": "South Dakota",
+    "homeConference": "SEC",
+    "homeTeam": "Missouri",
+    "id": 401520165,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "SECN",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-09-01T00:00:00.000Z",
+    "week": 1
+  },
+  {
+    "awayConference": "SEC",
+    "awayTeam": "Florida",
+    "homeConference": "Pac-12",
+    "homeTeam": "Utah",
+    "id": 401520176,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "ESPN",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-09-01T00:00:00.000Z",
+    "week": 1
+  }
+]

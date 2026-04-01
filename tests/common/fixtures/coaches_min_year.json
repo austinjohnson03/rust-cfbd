@@ -1,0 +1,457 @@
+[
+  {
+    "firstName": "Scott",
+    "hireDate": null,
+    "lastName": "Abell",
+    "seasons": [
+      {
+        "games": 0,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Rice",
+        "spDefense": 33.9,
+        "spOffense": 17.7,
+        "spOverall": -14.8,
+        "srs": -15.1,
+        "ties": 0,
+        "wins": 0,
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "firstName": "Steve",
+    "hireDate": "2012-12-04T00:00:00.000Z",
+    "lastName": "Addazio",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Boston College",
+        "spDefense": 22.1,
+        "spOffense": 26.5,
+        "spOverall": 2.4,
+        "srs": 5.3,
+        "ties": 0,
+        "wins": 7,
+        "year": 2018
+      },
+      {
+        "games": 12,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Boston College",
+        "spDefense": 35.4,
+        "spOffense": 31.3,
+        "spOverall": -5.7,
+        "srs": -2.9,
+        "ties": 0,
+        "wins": 6,
+        "year": 2019
+      },
+      {
+        "games": 4,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Colorado State",
+        "spDefense": 30.5,
+        "spOffense": 24.2,
+        "spOverall": -6.5,
+        "srs": -11.3,
+        "ties": 0,
+        "wins": 1,
+        "year": 2020
+      },
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Colorado State",
+        "spDefense": 25.9,
+        "spOffense": 23.3,
+        "spOverall": -2.4,
+        "srs": -0.5,
+        "ties": 0,
+        "wins": 3,
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "firstName": "Shaun",
+    "hireDate": "2022-09-18T00:00:00.000Z",
+    "lastName": "Aguano",
+    "seasons": [
+      {
+        "games": 9,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Arizona State",
+        "spDefense": 35.7,
+        "spOffense": 30.5,
+        "spOverall": -4.1,
+        "srs": -3.9,
+        "ties": 0,
+        "wins": 2,
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "firstName": "Pete",
+    "hireDate": null,
+    "lastName": "Alamar",
+    "seasons": [
+      {
+        "games": 4,
+        "losses": 2,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Rice",
+        "spDefense": 30.4,
+        "spOffense": 20.5,
+        "spOverall": -11.4,
+        "srs": -8.6,
+        "ties": 0,
+        "wins": 2,
+        "year": 2024
+      }
+    ]
+  },
+  {
+    "firstName": "Tim",
+    "hireDate": "2021-07-14T00:00:00.000Z",
+    "lastName": "Albin",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Ohio",
+        "spDefense": 35.2,
+        "spOffense": 25.1,
+        "spOverall": -11.6,
+        "srs": -13.8,
+        "ties": 0,
+        "wins": 3,
+        "year": 2021
+      },
+      {
+        "games": 14,
+        "losses": 4,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Ohio",
+        "spDefense": 35.2,
+        "spOffense": 31.6,
+        "spOverall": -4.6,
+        "srs": -3.6,
+        "ties": 0,
+        "wins": 10,
+        "year": 2022
+      },
+      {
+        "games": 13,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Ohio",
+        "spDefense": 18.1,
+        "spOffense": 18.5,
+        "spOverall": -1.6,
+        "srs": -5.8,
+        "ties": 0,
+        "wins": 10,
+        "year": 2023
+      },
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Ohio",
+        "spDefense": 23.9,
+        "spOffense": 27.2,
+        "spOverall": 2.3,
+        "srs": 1.7,
+        "ties": 0,
+        "wins": 11,
+        "year": 2024
+      },
+      {
+        "games": 0,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Charlotte",
+        "spDefense": 39.8,
+        "spOffense": 14.5,
+        "spOverall": -26.7,
+        "srs": -21.8,
+        "ties": 0,
+        "wins": 0,
+        "year": 2025
+      }
+    ]
+  },
+  {
+    "firstName": "Josh",
+    "hireDate": "2022-11-29T00:00:00.000Z",
+    "lastName": "Aldridge",
+    "seasons": [
+      {
+        "games": 1,
+        "losses": 1,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Liberty",
+        "spDefense": 25.4,
+        "spOffense": 24.1,
+        "spOverall": -1.5,
+        "srs": -3.5,
+        "ties": 0,
+        "wins": 0,
+        "year": 2022
+      }
+    ]
+  },
+  {
+    "firstName": "Tom",
+    "hireDate": "2016-12-01T00:00:00.000Z",
+    "lastName": "Allen",
+    "seasons": [
+      {
+        "games": 12,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Indiana",
+        "spDefense": 29.1,
+        "spOffense": 30.2,
+        "spOverall": 1.6,
+        "srs": 1.5,
+        "ties": 0,
+        "wins": 5,
+        "year": 2018
+      },
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Indiana",
+        "spDefense": 23.8,
+        "spOffense": 35.6,
+        "spOverall": 12.8,
+        "srs": 6.8,
+        "ties": 0,
+        "wins": 8,
+        "year": 2019
+      },
+      {
+        "games": 8,
+        "losses": 2,
+        "postseasonRank": 12,
+        "preseasonRank": null,
+        "school": "Indiana",
+        "spDefense": 22.6,
+        "spOffense": 33.6,
+        "spOverall": 11.2,
+        "srs": 13.2,
+        "ties": 0,
+        "wins": 6,
+        "year": 2020
+      },
+      {
+        "games": 12,
+        "losses": 10,
+        "postseasonRank": null,
+        "preseasonRank": 17,
+        "school": "Indiana",
+        "spDefense": 27.3,
+        "spOffense": 20.4,
+        "spOverall": -7.8,
+        "srs": -6.9,
+        "ties": 0,
+        "wins": 2,
+        "year": 2021
+      },
+      {
+        "games": 12,
+        "losses": 8,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Indiana",
+        "spDefense": 36.6,
+        "spOffense": 29.9,
+        "spOverall": -7.1,
+        "srs": -3.5,
+        "ties": 0,
+        "wins": 4,
+        "year": 2022
+      },
+      {
+        "games": 12,
+        "losses": 9,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Indiana",
+        "spDefense": 27.2,
+        "spOffense": 19.6,
+        "spOverall": -7.4,
+        "srs": -3.5,
+        "ties": 0,
+        "wins": 3,
+        "year": 2023
+      }
+    ]
+  },
+  {
+    "firstName": "Gary",
+    "hireDate": "2018-12-09T00:00:00.000Z",
+    "lastName": "Andersen",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 6,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 31,
+        "spOffense": 26.2,
+        "spOverall": -4.3,
+        "srs": -5.3,
+        "ties": 0,
+        "wins": 7,
+        "year": 2019
+      },
+      {
+        "games": 3,
+        "losses": 3,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 37,
+        "spOffense": 20.2,
+        "spOverall": -16.7,
+        "srs": -19.2,
+        "ties": 0,
+        "wins": 0,
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "firstName": "Blake",
+    "hireDate": "2013-12-19T00:00:00.000Z",
+    "lastName": "Anderson",
+    "seasons": [
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Arkansas State",
+        "spDefense": 27.9,
+        "spOffense": 29.9,
+        "spOverall": 1.2,
+        "srs": -2.8,
+        "ties": 0,
+        "wins": 8,
+        "year": 2018
+      },
+      {
+        "games": 13,
+        "losses": 5,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Arkansas State",
+        "spDefense": 34.2,
+        "spOffense": 30.1,
+        "spOverall": -2.9,
+        "srs": -5.6,
+        "ties": 0,
+        "wins": 8,
+        "year": 2019
+      },
+      {
+        "games": 11,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Arkansas State",
+        "spDefense": 37.2,
+        "spOffense": 31.1,
+        "spOverall": -6.5,
+        "srs": -7.3,
+        "ties": 0,
+        "wins": 4,
+        "year": 2020
+      },
+      {
+        "games": 14,
+        "losses": 3,
+        "postseasonRank": 24,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 27.9,
+        "spOffense": 28.4,
+        "spOverall": 0.1,
+        "srs": 0.4,
+        "ties": 0,
+        "wins": 11,
+        "year": 2021
+      },
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 38.5,
+        "spOffense": 25.4,
+        "spOverall": -13.3,
+        "srs": -12.1,
+        "ties": 0,
+        "wins": 6,
+        "year": 2022
+      },
+      {
+        "games": 13,
+        "losses": 7,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 38.6,
+        "spOffense": 28.6,
+        "spOverall": -10.9,
+        "srs": -4.6,
+        "ties": 0,
+        "wins": 6,
+        "year": 2023
+      },
+      {
+        "games": 0,
+        "losses": 0,
+        "postseasonRank": null,
+        "preseasonRank": null,
+        "school": "Utah State",
+        "spDefense": 40.3,
+        "spOffense": 30.2,
+        "spOverall": -10.4,
+        "srs": -11.7,
+        "ties": 0,
+        "wins": 0,
+        "year": 2024
+      }
+    ]
+  }
+]

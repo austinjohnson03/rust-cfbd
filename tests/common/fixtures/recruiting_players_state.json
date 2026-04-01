@@ -1,0 +1,94 @@
+[
+  {
+    "athleteId": "4685243",
+    "city": "Alabaster",
+    "committedTo": "Alabama",
+    "country": "USA",
+    "height": 74,
+    "hometownInfo": {
+      "fipsCode": "01117",
+      "latitude": 33.2442813,
+      "longitude": -86.8163773
+    },
+    "id": "113561",
+    "name": "Jeremiah Alexander",
+    "position": "EDGE",
+    "ranking": 18,
+    "rating": 0.9911,
+    "recruitType": "HighSchool",
+    "school": "Thompson",
+    "stars": 5,
+    "stateProvince": "AL",
+    "weight": 235,
+    "year": 2022
+  },
+  {
+    "athleteId": "4685381",
+    "city": "Hartford",
+    "committedTo": "Alabama",
+    "country": "USA",
+    "height": 73,
+    "hometownInfo": {
+      "fipsCode": "01061",
+      "latitude": 31.1023998,
+      "longitude": -85.6968778
+    },
+    "id": "113584",
+    "name": "Emmanuel Henderson Jr.",
+    "position": "RB",
+    "ranking": 41,
+    "rating": 0.9809,
+    "recruitType": "HighSchool",
+    "school": "Geneva County",
+    "stars": 4,
+    "stateProvince": "AL",
+    "weight": 185,
+    "year": 2022
+  },
+  {
+    "athleteId": "4685505",
+    "city": "Pike Road",
+    "committedTo": "Alabama",
+    "country": "USA",
+    "height": 74,
+    "hometownInfo": {
+      "fipsCode": "01101",
+      "latitude": 32.272931,
+      "longitude": -86.15018999518217
+    },
+    "id": "113608",
+    "name": "Khurtiss Perry",
+    "position": "DL",
+    "ranking": 65,
+    "rating": 0.9722,
+    "recruitType": "HighSchool",
+    "school": "Pike Road",
+    "stars": 4,
+    "stateProvince": "AL",
+    "weight": 265,
+    "year": 2022
+  },
+  {
+    "athleteId": "5083314",
+    "city": "Mobile",
+    "committedTo": "Florida",
+    "country": "USA",
+    "height": 74,
+    "hometownInfo": {
+      "fipsCode": "01097",
+      "latitude": 30.6943566,
+      "longitude": -88.0430541
+    },
+    "id": "113610",
+    "name": "Shemar James",
+    "position": "LB",
+    "ranking": 67,
+    "rating": 0.9715,
+    "recruitType": "HighSchool",
+    "school": "Faith Academy",
+    "stars": 4,
+    "stateProvince": "AL",
+    "weight": 212,
+    "year": 2022
+  }
+]

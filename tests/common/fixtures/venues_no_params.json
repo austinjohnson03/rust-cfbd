@@ -1,0 +1,50 @@
+[
+  {
+    "capacity": 4000,
+    "city": "Portales",
+    "constructionYear": null,
+    "countryCode": "US",
+    "dome": false,
+    "elevation": null,
+    "grass": null,
+    "id": 5938,
+    "latitude": 34.1861922,
+    "longitude": -103.334397,
+    "name": "Al Whitehead Field at Greyhound Stadium",
+    "state": "NM",
+    "timezone": null,
+    "zip": "88130"
+  },
+  {
+    "capacity": 20000,
+    "city": "Miami",
+    "constructionYear": 1995,
+    "countryCode": "US",
+    "dome": false,
+    "elevation": "1.718581796",
+    "grass": false,
+    "id": 218,
+    "latitude": 25.7525014,
+    "longitude": -80.3778912,
+    "name": "FIU Stadium",
+    "state": "FL",
+    "timezone": "America/New_York",
+    "zip": "33199"
+  },
+  {
+    "capacity": 15000,
+    "city": "Nassau",
+    "constructionYear": 1981,
+    "countryCode": "BS",
+    "dome": false,
+    "elevation": "3.182889223",
+    "grass": true,
+    "id": 4779,
+    "latitude": 25.055569,
+    "longitude": -77.358736,
+    "name": "Thomas A. Robinson National Stadium",
+    "state": "",
+    "timezone": null,
+    "zip": null
+  }
+]

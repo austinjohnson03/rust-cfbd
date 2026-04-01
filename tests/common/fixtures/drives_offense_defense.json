@@ -1,0 +1,110 @@
+[
+  {
+    "defense": "Michigan",
+    "defenseConference": "Big Ten",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 7
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 53
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401520434,
+    "id": "4015204341",
+    "isHomeOffense": false,
+    "offense": "Ohio State",
+    "offenseConference": "Big Ten",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 6
+  },
+  {
+    "defense": "Michigan",
+    "defenseConference": "Big Ten",
+    "driveNumber": 3,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 57
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 37
+    },
+    "endYardline": 54,
+    "endYardsToGoal": 54,
+    "gameId": 401520434,
+    "id": "4015204343",
+    "isHomeOffense": false,
+    "offense": "Ohio State",
+    "offenseConference": "Big Ten",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 34
+    },
+    "startYardline": 76,
+    "startYardsToGoal": 76,
+    "yards": 22
+  },
+  {
+    "defense": "Michigan",
+    "defenseConference": "Big Ten",
+    "driveNumber": 5,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 9
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 32
+    },
+    "endYardline": 80,
+    "endYardsToGoal": 80,
+    "gameId": 401520434,
+    "id": "4015204345",
+    "isHomeOffense": false,
+    "offense": "Ohio State",
+    "offenseConference": "Big Ten",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 41
+    },
+    "startYardline": 80,
+    "startYardsToGoal": 80,
+    "yards": 0
+  }
+]

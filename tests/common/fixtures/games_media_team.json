@@ -1,0 +1,44 @@
+[
+  {
+    "awayConference": "Conference USA",
+    "awayTeam": "Middle Tennessee",
+    "homeConference": "SEC",
+    "homeTeam": "Alabama",
+    "id": 401520149,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "SECN",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-09-02T23:30:00.000Z",
+    "week": 1
+  },
+  {
+    "awayConference": "Big 12",
+    "awayTeam": "Texas",
+    "homeConference": "SEC",
+    "homeTeam": "Alabama",
+    "id": 401520183,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "ESPN",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-09-09T23:00:00.000Z",
+    "week": 2
+  },
+  {
+    "awayConference": "SEC",
+    "awayTeam": "Alabama",
+    "homeConference": "American Athletic",
+    "homeTeam": "South Florida",
+    "id": 401520244,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "ABC",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-09-16T19:30:00.000Z",
+    "week": 3
+  }
+]

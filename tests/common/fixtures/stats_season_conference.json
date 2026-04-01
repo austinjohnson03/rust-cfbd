@@ -1,0 +1,23 @@
+[
+  {
+    "conference": "SEC",
+    "season": 2023,
+    "statName": "firstDowns",
+    "statValue": 277,
+    "team": "Alabama"
+  },
+  {
+    "conference": "SEC",
+    "season": 2023,
+    "statName": "firstDownsOpponent",
+    "statValue": 228,
+    "team": "Alabama"
+  },
+  {
+    "conference": "SEC",
+    "season": 2023,
+    "statName": "fourthDownConversions",
+    "statValue": 5,
+    "team": "Alabama"
+  }
+]

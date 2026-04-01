@@ -1,0 +1,47 @@
+[
+  {
+    "attendance": 100077,
+    "awayClassification": "fbs",
+    "awayConference": "SEC",
+    "awayId": 99,
+    "awayLineScores": [
+      7,
+      14,
+      7,
+      0
+    ],
+    "awayPoints": 28,
+    "awayPostgameElo": 1927,
+    "awayPostgameWinProbability": 0.00862953637489372,
+    "awayPregameElo": 1952,
+    "awayTeam": "LSU",
+    "completed": true,
+    "conferenceGame": true,
+    "excitementIndex": 7.5223082005,
+    "highlights": "",
+    "homeClassification": "fbs",
+    "homeConference": "SEC",
+    "homeId": 333,
+    "homeLineScores": [
+      14,
+      7,
+      14,
+      7
+    ],
+    "homePoints": 42,
+    "homePostgameElo": 2014,
+    "homePostgameWinProbability": 0.9913704636251064,
+    "homePregameElo": 1989,
+    "homeTeam": "Alabama",
+    "id": 401520362,
+    "neutralSite": false,
+    "notes": null,
+    "season": 2023,
+    "seasonType": "regular",
+    "startDate": "2023-11-04T23:45:00.000Z",
+    "startTimeTBD": false,
+    "venue": "Bryant-Denny Stadium",
+    "venueId": 3657,
+    "week": 10
+  }
+]

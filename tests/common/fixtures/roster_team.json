@@ -1,0 +1,60 @@
+[
+  {
+    "firstName": "Harrison",
+    "height": 76,
+    "homeCity": "Marietta",
+    "homeCountry": "USA",
+    "homeCountyFIPS": "13067",
+    "homeLatitude": 33.9528472,
+    "homeLongitude": -84.5496148,
+    "homeState": "GA",
+    "id": "4429145",
+    "jersey": 15,
+    "lastName": "Bailey",
+    "position": "QB",
+    "recruitIds": [
+      "118506"
+    ],
+    "team": "Florida",
+    "weight": 237,
+    "year": 4
+  },
+  {
+    "firstName": "Damieon",
+    "height": 78,
+    "homeCity": "Houston",
+    "homeCountry": "USA",
+    "homeCountyFIPS": "48201",
+    "homeLatitude": 29.7589382,
+    "homeLongitude": -95.3676974,
+    "homeState": "TX",
+    "id": "4430891",
+    "jersey": 70,
+    "lastName": "George Jr.",
+    "position": "OL",
+    "recruitIds": [],
+    "team": "Florida",
+    "weight": 365,
+    "year": 4
+  },
+  {
+    "firstName": "Clay",
+    "height": 76,
+    "homeCity": "Snoqualmie",
+    "homeCountry": "USA",
+    "homeCountyFIPS": "53033",
+    "homeLatitude": 47.5289527,
+    "homeLongitude": -121.8270932,
+    "homeState": "WA",
+    "id": "4432733",
+    "jersey": 18,
+    "lastName": "Millen",
+    "position": "QB",
+    "recruitIds": [
+      "116220"
+    ],
+    "team": "Florida",
+    "weight": 184,
+    "year": 4
+  }
+]

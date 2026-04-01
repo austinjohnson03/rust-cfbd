@@ -1,7 +1,7 @@
 use serde::Serialize;
 use std::marker::PhantomData;
 
-use crate::models::cfb::entity::division_classification::DivisionClassification;
+use crate::models::cfb::entity::recruit::RecruitClassification;
 
 pub struct InvalidQuery;
 pub struct ValidQuery;
@@ -18,7 +18,7 @@ pub struct RecruitPlayerQuery {
     #[serde(skip_serializing_if = "Option::is_none")]
     pub state: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
-    pub classification: Option<DivisionClassification>,
+    pub classification: Option<RecruitClassification>,
 }
 
 pub struct RecruitPlayerQueryBuilder<Q> {
@@ -27,7 +27,7 @@ pub struct RecruitPlayerQueryBuilder<Q> {
     team: Option<String>,
     position: Option<String>,
     state: Option<String>,
-    classification: Option<DivisionClassification>,
+    classification: Option<RecruitClassification>,
 }
 
 impl RecruitPlayerQueryBuilder<InvalidQuery> {
@@ -81,7 +81,7 @@ impl<Q> RecruitPlayerQueryBuilder<Q> {
         self
     }
 
-    pub fn classification(mut self, classification: DivisionClassification) -> Self {
+    pub fn classification(mut self, classification: RecruitClassification) -> Self {
         self.classification = Some(classification);
         self
     }

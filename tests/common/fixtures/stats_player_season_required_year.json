@@ -1,0 +1,35 @@
+[
+  {
+    "category": "fumbles",
+    "conference": "SEC",
+    "player": "Will Rogers",
+    "playerId": "102597",
+    "position": "QB",
+    "season": 2023,
+    "stat": "2",
+    "statType": "FUM",
+    "team": "Mississippi State"
+  },
+  {
+    "category": "fumbles",
+    "conference": "SEC",
+    "player": "Will Rogers",
+    "playerId": "102597",
+    "position": "QB",
+    "season": 2023,
+    "stat": "1",
+    "statType": "LOST",
+    "team": "Mississippi State"
+  },
+  {
+    "category": "fumbles",
+    "conference": "SEC",
+    "player": "Will Rogers",
+    "playerId": "102597",
+    "position": "QB",
+    "season": 2023,
+    "stat": "0",
+    "statType": "REC",
+    "team": "Mississippi State"
+  }
+]

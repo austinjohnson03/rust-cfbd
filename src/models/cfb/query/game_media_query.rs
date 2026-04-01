@@ -104,13 +104,13 @@ impl<Q> GameMediaQueryBuilder<Q> {
         self
     }
 
-    pub fn team(mut self, team: String) -> Self {
-        self.team = Some(team);
+    pub fn team(mut self, team: impl Into<String>) -> Self {
+        self.team = Some(team.into());
         self
     }
 
-    pub fn conference(mut self, conference: String) -> Self {
-        self.conference = Some(conference);
+    pub fn conference(mut self, conference: impl Into<String>) -> Self {
+        self.conference = Some(conference.into());
         self
     }
 

@@ -1,0 +1,3494 @@
+[
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 4
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 32,
+    "endYardsToGoal": 32,
+    "gameId": 401520147,
+    "id": "4015201471",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 52
+    },
+    "startYardline": 27,
+    "startYardsToGoal": 27,
+    "yards": 5
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 4
+    },
+    "endDefenseScore": 6,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 32,
+    "endYardsToGoal": 32,
+    "gameId": 401520147,
+    "id": "4015201472",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 52
+    },
+    "startYardline": 27,
+    "startYardsToGoal": 27,
+    "yards": 5
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 3,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 4
+    },
+    "endDefenseScore": 6,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 48
+    },
+    "endYardline": 68,
+    "endYardsToGoal": 68,
+    "gameId": 401520147,
+    "id": "4015201473",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 6,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 52
+    },
+    "startYardline": 73,
+    "startYardsToGoal": 73,
+    "yards": 5
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 4,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 22
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 16,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201474",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 48
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 32,
+    "yards": 32
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 5,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 22
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 21,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201475",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 16,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 48
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 32,
+    "yards": 32
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 6,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 22
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 21,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201476",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 4,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 21,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 48
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 32,
+    "yards": 32
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 7,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201477",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 25,
+    "yards": 75
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201478",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 25,
+    "yards": 75
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 13
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "4015201479",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 26
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "Uncategorized",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 29,
+    "endYardsToGoal": 29,
+    "gameId": 401520147,
+    "id": "40152014710",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 53
+    },
+    "startYardline": 30,
+    "startYardsToGoal": 30,
+    "yards": -1
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "Uncategorized",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 29,
+    "endYardsToGoal": 29,
+    "gameId": 401520147,
+    "id": "40152014711",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 53
+    },
+    "startYardline": 30,
+    "startYardsToGoal": 30,
+    "yards": -1
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 16
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 37
+    },
+    "endYardline": 71,
+    "endYardsToGoal": 71,
+    "gameId": 401520147,
+    "id": "40152014712",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 19,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 53
+    },
+    "startYardline": 70,
+    "startYardsToGoal": 70,
+    "yards": -1
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 13,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 41
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 19,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 56
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014713",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 19,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 37
+    },
+    "startYardline": 16,
+    "startYardsToGoal": 84,
+    "yards": 84
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 14,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 28,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014714",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": true,
+    "startDefenseScore": 19,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 48
+    },
+    "startYardline": 32,
+    "startYardsToGoal": 32,
+    "yards": 68
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 28,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014715",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 26,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 48
+    },
+    "startYardline": 32,
+    "startYardsToGoal": 32,
+    "yards": 68
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 16,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014716",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": true,
+    "startDefenseScore": 28,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 48
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 68,
+    "yards": 68
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 17,
+    "driveResult": "DOWNS TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 35,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014717",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 14,
+    "startOffenseScore": 35,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 25,
+    "yards": 39
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 18,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 35,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520147,
+    "id": "40152014718",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 35,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 25,
+    "yards": 39
+  },
+  {
+    "defense": "Hawai'i",
+    "defenseConference": "Mountain West",
+    "driveNumber": 19,
+    "driveResult": "DOWNS TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 13
+    },
+    "endDefenseScore": 28,
+    "endOffenseScore": 35,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "endYardline": 64,
+    "endYardsToGoal": 36,
+    "gameId": 401520147,
+    "id": "40152014719",
+    "isHomeOffense": true,
+    "offense": "Vanderbilt",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 21,
+    "startOffenseScore": 35,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 39
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 38
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 5,
+    "endYardsToGoal": 5,
+    "gameId": 401520147,
+    "id": "40152014720",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 35,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "startYardline": 36,
+    "startYardsToGoal": 36,
+    "yards": 59
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 21,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 38
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 5,
+    "endYardsToGoal": 5,
+    "gameId": 401520147,
+    "id": "40152014721",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 35,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "startYardline": 36,
+    "startYardsToGoal": 36,
+    "yards": 59
+  },
+  {
+    "defense": "Vanderbilt",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 38
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 12
+    },
+    "endYardline": 5,
+    "endYardsToGoal": 5,
+    "gameId": 401520147,
+    "id": "40152014722",
+    "isHomeOffense": false,
+    "offense": "Hawai'i",
+    "offenseConference": "Mountain West",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 35,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "startYardline": 64,
+    "startYardsToGoal": 64,
+    "yards": 59
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 58
+    },
+    "endDefenseScore": 42,
+    "endOffenseScore": 7,
+    "endPeriod": 0,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 32
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "40152014920",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 11,
+    "scoring": true,
+    "startDefenseScore": 42,
+    "startOffenseScore": 0,
+    "startPeriod": 0,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 30
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 68,
+    "yards": 68
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 13
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 47
+    },
+    "endYardline": 80,
+    "endYardsToGoal": 80,
+    "gameId": 401520149,
+    "id": "4015201491",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -5
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 3,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 58
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 49
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "4015201492",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 47
+    },
+    "startYardline": 37,
+    "startYardsToGoal": 63,
+    "yards": 63
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 28
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 21
+    },
+    "endYardline": 73,
+    "endYardsToGoal": 73,
+    "gameId": 401520149,
+    "id": "4015201493",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 49
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 2
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 5,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 6
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 15
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "4015201494",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 11,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 7,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 21
+    },
+    "startYardline": 53,
+    "startYardsToGoal": 47,
+    "yards": 47
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 55
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 20
+    },
+    "endYardline": 62,
+    "endYardsToGoal": 62,
+    "gameId": 401520149,
+    "id": "4015201495",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 15
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 13
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 7,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 52
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 28
+    },
+    "endYardline": 16,
+    "endYardsToGoal": 84,
+    "gameId": 401520149,
+    "id": "4015201496",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 20
+    },
+    "startYardline": 10,
+    "startYardsToGoal": 90,
+    "yards": 6
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 40
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 48
+    },
+    "endYardline": 14,
+    "endYardsToGoal": 14,
+    "gameId": 401520149,
+    "id": "4015201497",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 10,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 28
+    },
+    "startYardline": 69,
+    "startYardsToGoal": 69,
+    "yards": 55
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 9,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 0
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 14,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 48
+    },
+    "endYardline": 35,
+    "endYardsToGoal": 65,
+    "gameId": 401520149,
+    "id": "4015201498",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 48
+    },
+    "startYardline": 20,
+    "startYardsToGoal": 80,
+    "yards": 15
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 6
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 42
+    },
+    "endYardline": 60,
+    "endYardsToGoal": 60,
+    "gameId": 401520149,
+    "id": "4015201499",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 48
+    },
+    "startYardline": 83,
+    "startYardsToGoal": 83,
+    "yards": 23
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 11,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 35
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 21,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 7
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "40152014910",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 2,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 14,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 42
+    },
+    "startYardline": 58,
+    "startYardsToGoal": 42,
+    "yards": 42
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 2
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 5
+    },
+    "endYardline": 87,
+    "endYardsToGoal": 87,
+    "gameId": 401520149,
+    "id": "40152014911",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 7
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -12
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 13,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 7
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 58
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "40152014912",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 1,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 5
+    },
+    "startYardline": 53,
+    "startYardsToGoal": 47,
+    "yards": 47
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 14,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 5
+    },
+    "endDefenseScore": 28,
+    "endOffenseScore": 0,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 53
+    },
+    "endYardline": 60,
+    "endYardsToGoal": 60,
+    "gameId": 401520149,
+    "id": "40152014913",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 28,
+    "startOffenseScore": 0,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 58
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 15
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 15,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 53
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 31,
+    "endYardsToGoal": 69,
+    "gameId": 401520149,
+    "id": "40152014914",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 53
+    },
+    "startYardline": 12,
+    "startYardsToGoal": 88,
+    "yards": 19
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 16,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 6
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 35,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 54
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "40152014915",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 28,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 75
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 17,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 0,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 6
+    },
+    "endYardline": 91,
+    "endYardsToGoal": 91,
+    "gameId": 401520149,
+    "id": "40152014916",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 35,
+    "startOffenseScore": 0,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 51
+    },
+    "startYardline": 92,
+    "startYardsToGoal": 92,
+    "yards": 1
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 18,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 41
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 42,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 25
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "40152014917",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 2,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 35,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 6
+    },
+    "startYardline": 66,
+    "startYardsToGoal": 34,
+    "yards": 34
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 19,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 10
+    },
+    "endDefenseScore": 42,
+    "endOffenseScore": 0,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 15
+    },
+    "endYardline": 71,
+    "endYardsToGoal": 71,
+    "gameId": 401520149,
+    "id": "40152014918",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 42,
+    "startOffenseScore": 0,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 25
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 4
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 20,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 45
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 42,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 30
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 100,
+    "gameId": 401520149,
+    "id": "40152014919",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 42,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 15
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 5
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 21,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 47
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 49,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 38
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "40152014921",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 10,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 42,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 25
+    },
+    "startYardline": 23,
+    "startYardsToGoal": 77,
+    "yards": 77
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 23
+    },
+    "endDefenseScore": 49,
+    "endOffenseScore": 7,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 15
+    },
+    "endYardline": 65,
+    "endYardsToGoal": 65,
+    "gameId": 401520149,
+    "id": "40152014922",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 49,
+    "startOffenseScore": 7,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 38
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 10
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 23,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 17
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 56,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 58
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520149,
+    "id": "40152014923",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 49,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 15
+    },
+    "startYardline": 67,
+    "startYardsToGoal": 33,
+    "yards": 33
+  },
+  {
+    "defense": "Alabama",
+    "defenseConference": "SEC",
+    "driveNumber": 24,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 0
+    },
+    "endDefenseScore": 56,
+    "endOffenseScore": 7,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 49
+    },
+    "endYardline": 71,
+    "endYardsToGoal": 71,
+    "gameId": 401520149,
+    "id": "40152014924",
+    "isHomeOffense": false,
+    "offense": "Middle Tennessee",
+    "offenseConference": "Conference USA",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 56,
+    "startOffenseScore": 7,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 49
+    },
+    "startYardline": 82,
+    "startYardsToGoal": 82,
+    "yards": 11
+  },
+  {
+    "defense": "Middle Tennessee",
+    "defenseConference": "Conference USA",
+    "driveNumber": 25,
+    "driveResult": "END OF GAME",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 49
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 56,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 13,
+    "endYardsToGoal": 87,
+    "gameId": 401520149,
+    "id": "40152014925",
+    "isHomeOffense": true,
+    "offense": "Alabama",
+    "offenseConference": "SEC",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 56,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 49
+    },
+    "startYardline": 11,
+    "startYardsToGoal": 89,
+    "yards": 2
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 1,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 21
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 39
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401520150,
+    "id": "4015201501",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 6
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 2,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 36
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520150,
+    "id": "4015201502",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 2,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 39
+    },
+    "startYardline": 21,
+    "startYardsToGoal": 79,
+    "yards": 79
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 3,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 57
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 6
+    },
+    "endYardline": 79,
+    "endYardsToGoal": 79,
+    "gameId": 401520150,
+    "id": "4015201503",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 3
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": -4
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 4,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 26
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 40
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520150,
+    "id": "4015201504",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 7,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 6
+    },
+    "startYardline": 53,
+    "startYardsToGoal": 47,
+    "yards": 47
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 5,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 51
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 49
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401520150,
+    "id": "4015201505",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 40
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 6
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 6,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 28
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 14,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 21
+    },
+    "endYardline": 27,
+    "endYardsToGoal": 73,
+    "gameId": 401520150,
+    "id": "4015201506",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 0,
+    "startOffenseScore": 14,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 49
+    },
+    "startYardline": 18,
+    "startYardsToGoal": 82,
+    "yards": 9
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 7,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 11
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 0,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 10
+    },
+    "endYardline": 80,
+    "endYardsToGoal": 80,
+    "gameId": 401520150,
+    "id": "4015201507",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 21
+    },
+    "startYardline": 78,
+    "startYardsToGoal": 78,
+    "yards": -2
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 8,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 7
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 21,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 3,
+      "seconds": 3
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520150,
+    "id": "4015201508",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 1,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 21,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 3,
+      "seconds": 10
+    },
+    "startYardline": 69,
+    "startYardsToGoal": 31,
+    "yards": 31
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 9,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 41
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 3,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 15
+    },
+    "endYardline": 17,
+    "endYardsToGoal": 17,
+    "gameId": 401520150,
+    "id": "4015201509",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 21,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 56
+    },
+    "startYardline": 76,
+    "startYardsToGoal": 76,
+    "yards": 59
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 10,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 16
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 21,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 59
+    },
+    "endYardline": 39,
+    "endYardsToGoal": 61,
+    "gameId": 401520150,
+    "id": "40152015010",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 21,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 15
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 14
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 11,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 29
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 30
+    },
+    "endYardline": 39,
+    "endYardsToGoal": 39,
+    "gameId": 401520150,
+    "id": "40152015011",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 59
+    },
+    "startYardline": 85,
+    "startYardsToGoal": 85,
+    "yards": 46
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 12,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 30
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 21,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 0
+    },
+    "endYardline": 10,
+    "endYardsToGoal": 90,
+    "gameId": 401520150,
+    "id": "40152015012",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 21,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 30
+    },
+    "startYardline": 6,
+    "startYardsToGoal": 94,
+    "yards": 4
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 46
+    },
+    "endDefenseScore": 21,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 14
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401520150,
+    "id": "40152015013",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 2,
+    "scoring": false,
+    "startDefenseScore": 21,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 0
+    },
+    "startYardline": 62,
+    "startYardsToGoal": 62,
+    "yards": -7
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 14,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 18
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 28,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 56
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520150,
+    "id": "40152015014",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 5,
+    "scoring": true,
+    "startDefenseScore": 3,
+    "startOffenseScore": 21,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 14
+    },
+    "startYardline": 68,
+    "startYardsToGoal": 32,
+    "yards": 32
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 15,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 12
+    },
+    "endDefenseScore": 28,
+    "endOffenseScore": 3,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 44
+    },
+    "endYardline": 53,
+    "endYardsToGoal": 53,
+    "gameId": 401520150,
+    "id": "40152015015",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 28,
+    "startOffenseScore": 3,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 56
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 22
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 16,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 44
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 35,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520150,
+    "id": "40152015016",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 3,
+    "startOffenseScore": 28,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 44
+    },
+    "startYardline": 53,
+    "startYardsToGoal": 47,
+    "yards": 47
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 17,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 39
+    },
+    "endDefenseScore": 3,
+    "endOffenseScore": 35,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 11
+    },
+    "endYardline": 2,
+    "endYardsToGoal": 98,
+    "gameId": 401520150,
+    "id": "40152015017",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 3,
+    "startOffenseScore": 35,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 50
+    },
+    "startYardline": 9,
+    "startYardsToGoal": 91,
+    "yards": -7
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 18,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 12
+    },
+    "endDefenseScore": 35,
+    "endOffenseScore": 10,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 59
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520150,
+    "id": "40152015018",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 6,
+    "scoring": true,
+    "startDefenseScore": 35,
+    "startOffenseScore": 3,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 11
+    },
+    "startYardline": 53,
+    "startYardsToGoal": 53,
+    "yards": 53
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 19,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 39
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 42,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 6,
+      "seconds": 13
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520150,
+    "id": "40152015019",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 35,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 52
+    },
+    "startYardline": 31,
+    "startYardsToGoal": 69,
+    "yards": 69
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "driveResult": "INT",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 30
+    },
+    "endDefenseScore": 42,
+    "endOffenseScore": 10,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "endYardline": 46,
+    "endYardsToGoal": 46,
+    "gameId": 401520150,
+    "id": "40152015020",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 9,
+    "scoring": false,
+    "startDefenseScore": 42,
+    "startOffenseScore": 10,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 6,
+      "seconds": 4
+    },
+    "startYardline": 90,
+    "startYardsToGoal": 90,
+    "yards": 44
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 21,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 26
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 42,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 8
+    },
+    "endYardline": 41,
+    "endYardsToGoal": 59,
+    "gameId": 401520150,
+    "id": "40152015021",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 6,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 42,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 1,
+      "seconds": 34
+    },
+    "startYardline": 25,
+    "startYardsToGoal": 75,
+    "yards": 16
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 22
+    },
+    "endDefenseScore": 42,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 46
+    },
+    "endYardline": 65,
+    "endYardsToGoal": 65,
+    "gameId": 401520150,
+    "id": "40152015022",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 42,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 8
+    },
+    "startYardline": 85,
+    "startYardsToGoal": 85,
+    "yards": 20
+  },
+  {
+    "defense": "Western Carolina",
+    "defenseConference": "Southern",
+    "driveNumber": 23,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 51
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 49,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 55
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520150,
+    "id": "40152015023",
+    "isHomeOffense": true,
+    "offense": "Arkansas",
+    "offenseConference": "SEC",
+    "plays": 7,
+    "scoring": true,
+    "startDefenseScore": 10,
+    "startOffenseScore": 42,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 46
+    },
+    "startYardline": 52,
+    "startYardsToGoal": 48,
+    "yards": 48
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 24,
+    "driveResult": "INT TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 36
+    },
+    "endDefenseScore": 56,
+    "endOffenseScore": 10,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 19
+    },
+    "endYardline": 20,
+    "endYardsToGoal": 20,
+    "gameId": 401520150,
+    "id": "40152015024",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 49,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 55
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 55
+  },
+  {
+    "defense": "Arkansas",
+    "defenseConference": "SEC",
+    "driveNumber": 25,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 19
+    },
+    "endDefenseScore": 56,
+    "endOffenseScore": 13,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 15,
+    "endYardsToGoal": 15,
+    "gameId": 401520150,
+    "id": "40152015025",
+    "isHomeOffense": false,
+    "offense": "Western Carolina",
+    "offenseConference": "Southern",
+    "plays": 13,
+    "scoring": true,
+    "startDefenseScore": 56,
+    "startOffenseScore": 10,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 19
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 60
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 1,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 26
+    },
+    "endDefenseScore": 0,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 11,
+      "seconds": 28
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "4015201511",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 11,
+    "scoring": true,
+    "startDefenseScore": 0,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 38,
+    "startYardsToGoal": 62,
+    "yards": 62
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 2,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 2
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 20
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "4015201512",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 8,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 0,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 11,
+      "seconds": 28
+    },
+    "startYardline": 89,
+    "startYardsToGoal": 89,
+    "yards": 89
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 3,
+    "driveResult": "FG",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 2
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 10,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 2,
+      "seconds": 11
+    },
+    "endYardline": 81,
+    "endYardsToGoal": 19,
+    "gameId": 401520151,
+    "id": "4015201513",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 13,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 7,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 20
+    },
+    "startYardline": 30,
+    "startYardsToGoal": 70,
+    "yards": 51
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 4,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 43
+    },
+    "endDefenseScore": 10,
+    "endOffenseScore": 7,
+    "endPeriod": 1,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 28
+    },
+    "endYardline": 72,
+    "endYardsToGoal": 72,
+    "gameId": 401520151,
+    "id": "4015201514",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 10,
+    "startOffenseScore": 7,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 2,
+      "seconds": 11
+    },
+    "startYardline": 99,
+    "startYardsToGoal": 99,
+    "yards": 3
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 5,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 33
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 17,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 55
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "4015201515",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 2,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 10,
+    "startPeriod": 1,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 28
+    },
+    "startYardline": 84,
+    "startYardsToGoal": 16,
+    "yards": 16
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 6,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 29
+    },
+    "endDefenseScore": 17,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 26
+    },
+    "endYardline": 69,
+    "endYardsToGoal": 69,
+    "gameId": 401520151,
+    "id": "4015201516",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 17,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 55
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 6
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 7,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 3,
+      "seconds": 15
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 24,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 10,
+      "seconds": 11
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "4015201517",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 9,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 17,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 26
+    },
+    "startYardline": 40,
+    "startYardsToGoal": 60,
+    "yards": 60
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 8,
+    "driveResult": "FUMBLE",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 57
+    },
+    "endDefenseScore": 24,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 14
+    },
+    "endYardline": 46,
+    "endYardsToGoal": 46,
+    "gameId": 401520151,
+    "id": "4015201518",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 5,
+    "scoring": false,
+    "startDefenseScore": 24,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 10,
+      "seconds": 11
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 23
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 9,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 32
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 31,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 4,
+      "seconds": 42
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "4015201519",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 5,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 24,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 14
+    },
+    "startYardline": 65,
+    "startYardsToGoal": 35,
+    "yards": 35
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 10,
+    "driveResult": "MISSED FG",
+    "elapsed": {
+      "minutes": 4,
+      "seconds": 10
+    },
+    "endDefenseScore": 31,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 32
+    },
+    "endYardline": 24,
+    "endYardsToGoal": 24,
+    "gameId": 401520151,
+    "id": "40152015110",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 7,
+    "scoring": false,
+    "startDefenseScore": 31,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 4,
+      "seconds": 42
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 51
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 11,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 28
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 31,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 4
+    },
+    "endYardline": 30,
+    "endYardsToGoal": 70,
+    "gameId": 401520151,
+    "id": "40152015111",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 31,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 32
+    },
+    "startYardline": 24,
+    "startYardsToGoal": 76,
+    "yards": 6
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 12,
+    "driveResult": "END OF HALF",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 4
+    },
+    "endDefenseScore": 31,
+    "endOffenseScore": 7,
+    "endPeriod": 2,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 62,
+    "endYardsToGoal": 62,
+    "gameId": 401520151,
+    "id": "40152015112",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 1,
+    "scoring": false,
+    "startDefenseScore": 31,
+    "startOffenseScore": 7,
+    "startPeriod": 2,
+    "startTime": {
+      "minutes": 0,
+      "seconds": 4
+    },
+    "startYardline": 60,
+    "startYardsToGoal": 60,
+    "yards": -2
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 13,
+    "driveResult": "INT TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 17
+    },
+    "endDefenseScore": 38,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 43
+    },
+    "endYardline": 56,
+    "endYardsToGoal": 56,
+    "gameId": 401520151,
+    "id": "40152015113",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 2,
+    "scoring": true,
+    "startDefenseScore": 31,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 15,
+      "seconds": 0
+    },
+    "startYardline": 56,
+    "startYardsToGoal": 56,
+    "yards": 0
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 14,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 41
+    },
+    "endDefenseScore": 38,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 13,
+      "seconds": 2
+    },
+    "endYardline": 93,
+    "endYardsToGoal": 93,
+    "gameId": 401520151,
+    "id": "40152015114",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 38,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 43
+    },
+    "startYardline": 90,
+    "startYardsToGoal": 90,
+    "yards": -3
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 15,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 10
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 45,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 12,
+      "seconds": 52
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "40152015115",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 1,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 45,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 13,
+      "seconds": 2
+    },
+    "startYardline": 71,
+    "startYardsToGoal": 29,
+    "yards": 29
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 16,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 53
+    },
+    "endDefenseScore": 45,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 59
+    },
+    "endYardline": 75,
+    "endYardsToGoal": 75,
+    "gameId": 401520151,
+    "id": "40152015116",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 45,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 12,
+      "seconds": 52
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 0
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 17,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 2,
+      "seconds": 52
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 45,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 7
+    },
+    "endYardline": 32,
+    "endYardsToGoal": 68,
+    "gameId": 401520151,
+    "id": "40152015117",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 45,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 59
+    },
+    "startYardline": 16,
+    "startYardsToGoal": 84,
+    "yards": 16
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 18,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 31
+    },
+    "endDefenseScore": 45,
+    "endOffenseScore": 7,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 36
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 58,
+    "gameId": 401520151,
+    "id": "40152015118",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 4,
+    "scoring": false,
+    "startDefenseScore": 45,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 7
+    },
+    "startYardline": 63,
+    "startYardsToGoal": 63,
+    "yards": 5
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 19,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 11
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 52,
+    "endPeriod": 3,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 24
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "40152015119",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 1,
+    "scoring": true,
+    "startDefenseScore": 7,
+    "startOffenseScore": 52,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 36
+    },
+    "startYardline": 58,
+    "startYardsToGoal": 42,
+    "yards": 42
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 20,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 34
+    },
+    "endDefenseScore": 52,
+    "endOffenseScore": 7,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 14,
+      "seconds": 50
+    },
+    "endYardline": 30,
+    "endYardsToGoal": 30,
+    "gameId": 401520151,
+    "id": "40152015120",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 52,
+    "startOffenseScore": 7,
+    "startPeriod": 3,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 24
+    },
+    "startYardline": 72,
+    "startYardsToGoal": 72,
+    "yards": 42
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 21,
+    "driveResult": "DOWNS",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 46
+    },
+    "endDefenseScore": 7,
+    "endOffenseScore": 52,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 9,
+      "seconds": 4
+    },
+    "endYardline": 58,
+    "endYardsToGoal": 42,
+    "gameId": 401520151,
+    "id": "40152015121",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 10,
+    "scoring": false,
+    "startDefenseScore": 7,
+    "startOffenseScore": 52,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 14,
+      "seconds": 50
+    },
+    "startYardline": 30,
+    "startYardsToGoal": 70,
+    "yards": 28
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 22,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 0,
+      "seconds": 14
+    },
+    "endDefenseScore": 52,
+    "endOffenseScore": 14,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "endYardline": 0,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "40152015122",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 1,
+    "scoring": true,
+    "startDefenseScore": 52,
+    "startOffenseScore": 14,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 9,
+      "seconds": 4
+    },
+    "startYardline": 58,
+    "startYardsToGoal": 58,
+    "yards": 58
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 23,
+    "driveResult": "TD",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 48
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 59,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 7,
+      "seconds": 2
+    },
+    "endYardline": 100,
+    "endYardsToGoal": 0,
+    "gameId": 401520151,
+    "id": "40152015123",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 3,
+    "scoring": true,
+    "startDefenseScore": 14,
+    "startOffenseScore": 52,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 8,
+      "seconds": 50
+    },
+    "startYardline": 22,
+    "startYardsToGoal": 78,
+    "yards": 78
+  },
+  {
+    "defense": "Auburn",
+    "defenseConference": "SEC",
+    "driveNumber": 24,
+    "driveResult": "PUNT",
+    "elapsed": {
+      "minutes": 1,
+      "seconds": 43
+    },
+    "endDefenseScore": 59,
+    "endOffenseScore": 14,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 5,
+      "seconds": 19
+    },
+    "endYardline": 71,
+    "endYardsToGoal": 71,
+    "gameId": 401520151,
+    "id": "40152015124",
+    "isHomeOffense": false,
+    "offense": "Massachusetts",
+    "offenseConference": "FBS Independents",
+    "plays": 3,
+    "scoring": false,
+    "startDefenseScore": 59,
+    "startOffenseScore": 14,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 7,
+      "seconds": 2
+    },
+    "startYardline": 75,
+    "startYardsToGoal": 75,
+    "yards": 4
+  },
+  {
+    "defense": "Massachusetts",
+    "defenseConference": "FBS Independents",
+    "driveNumber": 25,
+    "driveResult": "Uncategorized",
+    "elapsed": {
+      "minutes": 5,
+      "seconds": 7
+    },
+    "endDefenseScore": 14,
+    "endOffenseScore": 59,
+    "endPeriod": 4,
+    "endTime": {
+      "minutes": 0,
+      "seconds": 0
+    },
+    "endYardline": 91,
+    "endYardsToGoal": 9,
+    "gameId": 401520151,
+    "id": "40152015125",
+    "isHomeOffense": true,
+    "offense": "Auburn",
+    "offenseConference": "SEC",
+    "plays": 8,
+    "scoring": false,
+    "startDefenseScore": 14,
+    "startOffenseScore": 59,
+    "startPeriod": 4,
+    "startTime": {
+      "minutes": 5,
+      "seconds": 19
+    },
+    "startYardline": 28,
+    "startYardsToGoal": 72,
+    "yards": 63
+  }
+]

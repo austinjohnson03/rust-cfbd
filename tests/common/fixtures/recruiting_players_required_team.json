@@ -1,0 +1,71 @@
+[
+  {
+    "athleteId": "191498",
+    "city": "Birmingham",
+    "committedTo": "Alabama",
+    "country": "USA",
+    "height": 76,
+    "hometownInfo": {
+      "fipsCode": "01073",
+      "latitude": 33.5206824,
+      "longitude": -86.8024326
+    },
+    "id": "163794",
+    "name": "Andre Smith",
+    "position": "OG",
+    "ranking": 1,
+    "rating": 0.9994,
+    "recruitType": "HighSchool",
+    "school": "Huffman",
+    "stars": 5,
+    "stateProvince": "AL",
+    "weight": 325,
+    "year": 2006
+  },
+  {
+    "athleteId": "-1000934",
+    "city": "Hyattsville",
+    "committedTo": "Alabama",
+    "country": "USA",
+    "height": 79,
+    "hometownInfo": {
+      "fipsCode": "24033",
+      "latitude": 38.9529442,
+      "longitude": -76.9408647
+    },
+    "id": "152120",
+    "name": "Cyrus Kouandjio",
+    "position": "OT",
+    "ranking": 2,
+    "rating": 0.9993,
+    "recruitType": "HighSchool",
+    "school": "DeMatha Catholic",
+    "stars": 5,
+    "stateProvince": "MD",
+    "weight": 315,
+    "year": 2011
+  },
+  {
+    "athleteId": "4870879",
+    "city": "Tampa",
+    "committedTo": "Alabama",
+    "country": "USA",
+    "height": 77,
+    "hometownInfo": {
+      "fipsCode": "12057",
+      "latitude": 27.9477595,
+      "longitude": -82.458444
+    },
+    "id": "111248",
+    "name": "Keon Keeley",
+    "position": "EDGE",
+    "ranking": 2,
+    "rating": 0.9986,
+    "recruitType": "HighSchool",
+    "school": "Berkeley Prep",
+    "stars": 5,
+    "stateProvince": "FL",
+    "weight": 242,
+    "year": 2023
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "awayConference": "American Athletic",
+    "awayTeam": "Navy",
+    "homeConference": "FBS Independents",
+    "homeTeam": "Notre Dame",
+    "id": 401525434,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "NBC",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-08-26T18:30:00.000Z",
+    "week": 1
+  },
+  {
+    "awayConference": "Conference USA",
+    "awayTeam": "UTEP",
+    "homeConference": "Conference USA",
+    "homeTeam": "Jacksonville State",
+    "id": 401520145,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "CBSSN",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-08-26T21:30:00.000Z",
+    "week": 1
+  },
+  {
+    "awayConference": "FBS Independents",
+    "awayTeam": "Massachusetts",
+    "homeConference": "Conference USA",
+    "homeTeam": "New Mexico State",
+    "id": 401525450,
+    "isStartTimeTBD": false,
+    "mediaType": "tv",
+    "outlet": "ESPN",
+    "season": 2023,
+    "seasonType": "regular",
+    "startTime": "2023-08-26T23:00:00.000Z",
+    "week": 1
+  }
+]
