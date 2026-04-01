@@ -56,6 +56,9 @@ pub use stubs::stats::{
     mount_stats_season_required_team_param_stub, mount_stats_season_required_year_param_stub,
     mount_stats_season_week_range_param_stub,
 };
+pub use stubs::teams::{
+    mount_teams_conference_params_stub, mount_teams_no_params_stub, mount_teams_year_params_stub,
+};
 
 mod stubs;
 
@@ -158,6 +161,11 @@ pub async fn get_server() -> &'static MockServer {
     mount_stats_season_week_range_param_stub(&server).await;
     mount_stats_season_required_year_param_stub(&server).await;
     mount_stats_season_required_team_param_stub(&server).await;
+
+    // teams
+    mount_teams_conference_params_stub(&server).await;
+    mount_teams_year_params_stub(&server).await;
+    mount_teams_no_params_stub(&server).await;
 
     MOCK_SERVER.get_or_init(|| server)
 }
