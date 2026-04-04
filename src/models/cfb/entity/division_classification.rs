@@ -24,6 +24,9 @@ impl fmt::Display for DivisionClassification {
 
 impl DivisionClassification {
     pub fn is_division_1(&self) -> bool {
-        matches!(self, DivisionClassification::Fbs | DivisionClassification::Fcs)
+        matches!(
+            self,
+            DivisionClassification::Fbs | DivisionClassification::Fcs
+        )
     }
 }
