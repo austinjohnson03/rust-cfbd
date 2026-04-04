@@ -1,5 +1,6 @@
 use serde::Serialize;
 
+use crate::common::conversion::IntoOptionalString;
 use crate::models::cfb::entity::division_classification::DivisionClassification;
 
 #[derive(Debug, Serialize)]
@@ -31,18 +32,21 @@ impl RosterQueryBuilder {
         }
     }
 
-    pub fn team(mut self, team: impl Into<String>) -> Self {
-        self.team = Some(team.into());
+    pub fn team(mut self, team: impl IntoOptionalString) -> Self {
+        self.team = team.into_optional_string();
         self
     }
 
-    pub fn year(mut self, year: i32) -> Self {
-        self.year = Some(year);
+    pub fn year(mut self, year: impl Into<Option<i32>>) -> Self {
+        self.year = year.into();
         self
     }
 
-    pub fn classification(mut self, classification: DivisionClassification) -> Self {
-        self.classification = Some(classification);
+    pub fn classification(
+        mut self,
+        classification: impl Into<Option<DivisionClassification>>,
+    ) -> Self {
+        self.classification = classification.into();
         self
     }
 
