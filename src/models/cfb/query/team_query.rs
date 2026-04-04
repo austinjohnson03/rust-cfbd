@@ -1,7 +1,5 @@
-use crate::{
-    common::conversion::IntoOptionalString,
-    models::cfb::entity::division_classification::DivisionClassification,
-};
+use crate::common::conversion::{IntoOptional, IntoOptionalString};
+use crate::models::cfb::entity::division_classification::DivisionClassification;
 use serde::Serialize;
 
 #[derive(Debug, Serialize)]
@@ -41,16 +39,16 @@ impl TeamQueryBuilder {
         self
     }
 
-    pub fn year(mut self, year: impl Into<Option<i32>>) -> Self {
-        self.year = year.into();
+    pub fn year(mut self, year: impl IntoOptional<i32>) -> Self {
+        self.year = year.into_optional();
         self
     }
 
     pub fn classification(
         mut self,
-        classification: impl Into<Option<DivisionClassification>>,
+        classification: impl IntoOptional<DivisionClassification>,
     ) -> Self {
-        self.classification = classification.into();
+        self.classification = classification.into_optional();
         self
     }
 
