@@ -14,6 +14,12 @@ pub struct TeamQueryBuilder {
     year: Option<i32>,
 }
 
+impl Default for TeamQueryBuilder {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl TeamQueryBuilder {
     pub fn new() -> Self {
         TeamQueryBuilder {

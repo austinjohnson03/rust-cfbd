@@ -14,13 +14,10 @@ pub enum DivisionClassification {
 
 impl fmt::Display for DivisionClassification {
     fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        let s = match self {
-            DivisionClassification::Fbs => "FBS",
-            DivisionClassification::Fcs => "FCS",
-            DivisionClassification::Div2 => "II",
-            DivisionClassification::Div3 => "III",
-        };
-
+        let s = matches!(
+            self,
+            DivisionClassification::Fbs | DivisionClassification::Fcs
+        );
         write!(f, "{}", s)
     }
 }

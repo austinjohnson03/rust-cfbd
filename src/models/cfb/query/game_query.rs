@@ -45,6 +45,12 @@ pub struct GameQueryBuilder<Q> {
     conference: Option<String>,
 }
 
+impl Default for GameQueryBuilder<NoQuery> {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl GameQueryBuilder<NoQuery> {
     pub fn new() -> Self {
         Self {

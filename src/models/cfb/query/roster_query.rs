@@ -16,6 +16,12 @@ pub struct RosterQueryBuilder {
     pub classification: Option<DivisionClassification>,
 }
 
+impl Default for RosterQueryBuilder {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl RosterQueryBuilder {
     pub fn new() -> Self {
         RosterQueryBuilder {
