@@ -65,9 +65,7 @@ impl CfbdClient {
                     .and_then(|v| v.parse().ok())
                     .unwrap_or(60);
 
-                Err(CFBDError::RateLimited {
-                    retry_after: retry_after,
-                })
+                Err(CFBDError::RateLimited { retry_after })
             }
             status @ 500..=599 => Err(CFBDError::ServerError {
                 status,

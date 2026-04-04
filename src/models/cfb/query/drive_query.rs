@@ -53,6 +53,12 @@ pub struct DriveQueryBuilder<Q> {
     classification: Option<DivisionClassification>,
 }
 
+impl Default for DriveQueryBuilder<NoQuery> {
+    fn default() -> Self {
+        Self::new()
+    }
+}
+
 impl DriveQueryBuilder<NoQuery> {
     pub fn new() -> Self {
         DriveQueryBuilder {
