@@ -12,11 +12,11 @@ pub struct ByYear;
 #[serde(rename_all = "camelCase")]
 pub struct GameQuery {
     #[serde(skip_serializing_if = "Option::is_none")]
-    id: Option<u32>,
+    id: Option<i32>,
     #[serde(skip_serializing_if = "Option::is_none")]
-    year: Option<u32>,
+    year: Option<i32>,
     #[serde(skip_serializing_if = "Option::is_none")]
-    week: Option<u32>,
+    week: Option<i32>,
     #[serde(skip_serializing_if = "Option::is_none")]
     season_type: Option<SeasonType>,
     #[serde(skip_serializing_if = "Option::is_none")]
@@ -34,9 +34,9 @@ pub struct GameQuery {
 pub struct GameQueryBuilder<Q> {
     _query: PhantomData<Q>,
 
-    id: Option<u32>,
-    year: Option<u32>,
-    week: Option<u32>,
+    id: Option<i32>,
+    year: Option<i32>,
+    week: Option<i32>,
     season_type: Option<SeasonType>,
     classification: Option<DivisionClassification>,
     team: Option<String>,
@@ -67,7 +67,7 @@ impl GameQueryBuilder<NoQuery> {
         }
     }
 
-    pub fn id(self, id: u32) -> GameQueryBuilder<ById> {
+    pub fn id(self, id: i32) -> GameQueryBuilder<ById> {
         GameQueryBuilder {
             _query: PhantomData,
             id: Some(id),
@@ -82,7 +82,7 @@ impl GameQueryBuilder<NoQuery> {
         }
     }
 
-    pub fn year(self, year: u32) -> GameQueryBuilder<ByYear> {
+    pub fn year(self, year: i32) -> GameQueryBuilder<ByYear> {
         GameQueryBuilder {
             _query: PhantomData,
             id: None,
@@ -99,7 +99,7 @@ impl GameQueryBuilder<NoQuery> {
 }
 
 impl<Q> GameQueryBuilder<Q> {
-    pub fn week(mut self, week: u32) -> Self {
+    pub fn week(mut self, week: i32) -> Self {
         self.week = Some(week);
         self
     }
