@@ -1,4 +1,4 @@
-use crate::conversion::{IntoOptional, IntoOptionalString};
+use crate::common::conversion::{IntoOptional, IntoOptionalString};
 use crate::models::cfb::entity::division_classification::DivisionClassification;
 use crate::models::cfb::entity::media_type::MediaType;
 use crate::models::cfb::entity::season_type::SeasonType;
