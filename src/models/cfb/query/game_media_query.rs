@@ -120,7 +120,10 @@ impl<Q> GameMediaQueryBuilder<Q> {
         self
     }
 
-    pub fn classification(mut self, classification: impl IntoOptional<DivisionClassification>) -> Self {
+    pub fn classification(
+        mut self,
+        classification: impl IntoOptional<DivisionClassification>,
+    ) -> Self {
         self.classification = classification.into_optional();
         self
     }
