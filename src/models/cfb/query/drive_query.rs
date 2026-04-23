@@ -1,3 +1,4 @@
+use crate::common::conversion::{IntoOptional, IntoOptionalString};
 use crate::models::cfb::entity::division_classification::DivisionClassification;
 use crate::models::cfb::entity::season_type::SeasonType;
 use serde::Serialize;
@@ -111,40 +112,43 @@ impl DriveQueryBuilder<ByYear> {
 }
 
 impl<Q> DriveQueryBuilder<Q> {
-    pub fn season_type(mut self, season_type: SeasonType) -> Self {
-        self.season_type = Some(season_type);
+    pub fn season_type(mut self, season_type: impl IntoOptional<SeasonType>) -> Self {
+        self.season_type = season_type.into_optional();
         self
     }
-    pub fn week(mut self, week: i32) -> Self {
-        self.week = Some(week);
+    pub fn week(mut self, week: impl IntoOptional<i32>) -> Self {
+        self.week = week.into_optional();
         self
     }
-    pub fn team(mut self, team: impl Into<String>) -> Self {
-        self.team = Some(team.into());
+    pub fn team(mut self, team: impl IntoOptionalString) -> Self {
+        self.team = team.into_optional_string();
         self
     }
-    pub fn offense(mut self, offense: impl Into<String>) -> Self {
-        self.offense = Some(offense.into());
+    pub fn offense(mut self, offense: impl IntoOptionalString) -> Self {
+        self.offense = offense.into_optional_string();
         self
     }
-    pub fn defense(mut self, defense: impl Into<String>) -> Self {
-        self.defense = Some(defense.into());
+    pub fn defense(mut self, defense: impl IntoOptionalString) -> Self {
+        self.defense = defense.into_optional_string();
         self
     }
-    pub fn conference(mut self, conference: impl Into<String>) -> Self {
-        self.conference = Some(conference.into());
+    pub fn conference(mut self, conference: impl IntoOptionalString) -> Self {
+        self.conference = conference.into_optional_string();
         self
     }
-    pub fn offense_conference(mut self, offense_conference: impl Into<String>) -> Self {
-        self.offense_conference = Some(offense_conference.into());
+    pub fn offense_conference(mut self, offense_conference: impl IntoOptionalString) -> Self {
+        self.offense_conference = offense_conference.into_optional_string();
         self
     }
-    pub fn defense_conference(mut self, defense_conference: impl Into<String>) -> Self {
-        self.defense_conference = Some(defense_conference.into());
+    pub fn defense_conference(mut self, defense_conference: impl IntoOptionalString) -> Self {
+        self.defense_conference = defense_conference.into_optional_string();
         self
     }
-    pub fn classification(mut self, classification: DivisionClassification) -> Self {
-        self.classification = Some(classification);
+    pub fn classification(
+        mut self,
+        classification: impl IntoOptional<DivisionClassification>,
+    ) -> Self {
+        self.classification = classification.into_optional();
         self
     }
 }
