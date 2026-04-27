@@ -1,6 +1,7 @@
 use serde::Serialize;
 use std::marker::PhantomData;
 
+use crate::common::conversion::{IntoOptional, IntoOptionalString};
 use crate::models::cfb::entity::recruit::RecruitClassification;
 
 pub struct InvalidQuery;
@@ -52,11 +53,11 @@ impl RecruitPlayerQueryBuilder<InvalidQuery> {
         }
     }
 
-    pub fn team(self, team: impl Into<String>) -> RecruitPlayerQueryBuilder<ValidQuery> {
+    pub fn team(self, team: impl IntoOptionalString) -> RecruitPlayerQueryBuilder<ValidQuery> {
         RecruitPlayerQueryBuilder {
             _query: PhantomData,
             year: self.year,
-            team: Some(team.into()),
+            team: team.into_optional_string(),
             position: self.position,
             state: self.state,
             classification: self.classification,
@@ -71,18 +72,21 @@ impl Default for RecruitPlayerQueryBuilder<InvalidQuery> {
 }
 
 impl<Q> RecruitPlayerQueryBuilder<Q> {
-    pub fn position(mut self, position: impl Into<String>) -> Self {
-        self.position = Some(position.into());
+    pub fn position(mut self, position: impl IntoOptionalString) -> Self {
+        self.position = position.into_optional_string();
         self
     }
 
-    pub fn state(mut self, state: impl Into<String>) -> Self {
-        self.state = Some(state.into());
+    pub fn state(mut self, state: impl IntoOptionalString) -> Self {
+        self.state = state.into_optional_string();
         self
     }
 
-    pub fn classification(mut self, classification: RecruitClassification) -> Self {
-        self.classification = Some(classification);
+    pub fn classification(
+        mut self,
+        classification: impl IntoOptional<RecruitClassification>,
+    ) -> Self {
+        self.classification = classification.into_optional();
         self
     }
 }
