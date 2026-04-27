@@ -1,3 +1,4 @@
+use crate::common::conversion::{IntoOptional, IntoOptionalString};
 use serde::Serialize;
 
 #[derive(Debug, Serialize)]
@@ -20,13 +21,13 @@ impl RecruitTeamQueryBuilder {
         }
     }
 
-    pub fn year(mut self, year: i32) -> Self {
-        self.year = Some(year);
+    pub fn year(mut self, year: impl IntoOptional<i32>) -> Self {
+        self.year = year.into_optional();
         self
     }
 
-    pub fn team(mut self, team: impl Into<String>) -> Self {
-        self.team = Some(team.into());
+    pub fn team(mut self, team: impl IntoOptionalString) -> Self {
+        self.team = team.into_optional_string();
         self
     }
 
