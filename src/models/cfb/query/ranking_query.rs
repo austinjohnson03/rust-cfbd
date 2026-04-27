@@ -1,3 +1,4 @@
+use crate::common::conversion::IntoOptional;
 use crate::models::cfb::entity::season_type::SeasonType;
 use serde::Serialize;
 
@@ -15,13 +16,13 @@ pub struct RankingQuery {
 }
 
 impl<Y> RankingQueryBuilder<Y> {
-    pub fn season_type(mut self, season_type: SeasonType) -> Self {
-        self.season_type = Some(season_type);
+    pub fn season_type(mut self, season_type: impl IntoOptional<SeasonType>) -> Self {
+        self.season_type = season_type.into_optional();
         self
     }
 
-    pub fn week(mut self, week: i32) -> Self {
-        self.week = Some(week);
+    pub fn week(mut self, week: impl IntoOptional<i32>) -> Self {
+        self.week = week.into_optional();
         self
     }
 }
