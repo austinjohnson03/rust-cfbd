@@ -1,3 +1,4 @@
+use crate::common::conversion::{IntoOptional, IntoOptionalString};
 use serde::Serialize;
 use std::marker::PhantomData;
 
@@ -78,29 +79,31 @@ impl StatsPlayerSeasonQueryBuilder<ValidQuery> {
 }
 
 impl<Q> StatsPlayerSeasonQueryBuilder<Q> {
-    pub fn conference(mut self, conference: impl Into<String>) -> Self {
-        self.conference = Some(conference.into());
+    pub fn conference(mut self, conference: impl IntoOptionalString) -> Self {
+        self.conference = conference.into_optional_string();
         self
     }
 
-    pub fn team(mut self, team: impl Into<String>) -> Self {
-        self.team = Some(team.into());
+    pub fn team(mut self, team: impl IntoOptionalString) -> Self {
+        self.team = team.into_optional_string();
         self
     }
-    pub fn start_week(mut self, start_week: i32) -> Self {
-        self.start_week = Some(start_week);
+    pub fn start_week(mut self, start_week: impl IntoOptional<i32>) -> Self {
+        self.start_week = start_week.into_optional();
         self
     }
-    pub fn end_week(mut self, end_week: i32) -> Self {
-        self.end_week = Some(end_week);
+    pub fn end_week(mut self, end_week: impl IntoOptional<i32>) -> Self {
+        self.end_week = end_week.into_optional();
         self
     }
-    pub fn season_type(mut self, season_type: SeasonType) -> Self {
-        self.season_type = Some(season_type);
+    pub fn season_type(mut self, season_type: impl IntoOptional<SeasonType>) -> Self {
+        self.season_type = season_type.into_optional();
         self
     }
-    pub fn category(mut self, category: impl Into<String>) -> Self {
-        self.category = Some(category.into());
+
+    // Eventually replace this with enum
+    pub fn category(mut self, category: impl IntoOptionalString) -> Self {
+        self.category = category.into_optional_string();
         self
     }
 }
